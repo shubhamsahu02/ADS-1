@@ -1,0 +1,7 @@
+There are 4 different techniques to solve the given problem.
+1.Quick find
+2.Quick Union
+3.Weighted Quick Union
+4.Weighted Quick Union with Path Suppression
+
+Out of the above mentioned methods, the fourth one is the most optimal method because it makes the final tree as flat as possible. This reduces the time taken to check the final tree.
