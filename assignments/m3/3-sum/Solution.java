@@ -1,7 +1,14 @@
 import java.util.Scanner;
 import java.util.Arrays;
-
+/**
+ *Solution class.
+ **/
 public class Solution {
+    /**.
+     *.
+     *
+     * @param args arguments
+     **/
 
     final public static void main(String[] args) {
 
