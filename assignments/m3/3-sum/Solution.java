@@ -3,7 +3,7 @@ import java.util.Arrays;
 /**
  *Solution class.
  **/
-final public class Solution {
+public final class Solution {
     /**
      *Class.
      **/
