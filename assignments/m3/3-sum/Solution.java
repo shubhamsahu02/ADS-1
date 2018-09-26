@@ -3,14 +3,14 @@ import java.util.Arrays;
 /**
  *Solution class.
  **/
-public class Solution {
+class Solution {
     /**.
      *.
      *
      * @param args arguments
      **/
 
-    final public static void main(String[] args) {
+    final public static void main(final String[] args) {
 
         Scanner scan = new Scanner(System.in);
         int arraysize = scan.nextInt();
