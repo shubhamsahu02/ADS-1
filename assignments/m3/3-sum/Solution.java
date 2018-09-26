@@ -7,10 +7,16 @@ public class Solution {
     /**
      *Class.
      **/
-    Solution() {
+    private Solution() {
 
     }
 
+/**
+ * @brief [brief description]
+ * @details [long description]
+ *
+ * @param String string
+ */
  public static void main(final String[] args) {
 
 /**
