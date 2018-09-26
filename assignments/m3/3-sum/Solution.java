@@ -3,7 +3,7 @@ import java.util.Arrays;
 /**
  *Solution class.
  **/
-public class Solution {
+final public class Solution {
     /**
      *Class.
      **/
@@ -15,7 +15,7 @@ public class Solution {
  * @brief [brief description]
  * @details [long description]
  *
- * @param String string
+ * @param args string
  */
  public static void main(final String[] args) {
 
