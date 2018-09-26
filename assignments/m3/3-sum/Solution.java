@@ -4,17 +4,19 @@ import java.util.Arrays;
  *Solution class.
  **/
 public class Solution {
-    /**.
-     *.
-     *
-     * @param args arguments
+    /**
+     *Class.
      **/
     Solution() {
-        
+
     }
 
-    final public static void main(final String[] args) {
+ public static void main(final String[] args) {
 
+/**
+ *main method
+ *
+ */
         Scanner scan = new Scanner(System.in);
         int arraysize = scan.nextInt();
         int[] array = new int[arraysize];
