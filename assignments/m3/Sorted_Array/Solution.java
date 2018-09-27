@@ -9,6 +9,15 @@ public class Solution {
 /**
  *Solution class.
  */
+private Solution() {
+
+}
+
+/**.
+     * { Merge Arrays }
+     * @param      a     { parameter_description }
+     * @param      b     { parameter_description }
+     */
     public void mergeArrays(final int[] a, final int[] b) {
 
         int i = 0;
