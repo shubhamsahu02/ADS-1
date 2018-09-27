@@ -7,9 +7,7 @@ import java.util.Arrays;
 public class Solution {
 
 /**
- * @brief [brief description]
- * @details [long description]
- *
+ *Solution class.
  * @param int argument
  */
     public void mergeArrays(final int[] a, final int[] b) {
@@ -46,8 +44,12 @@ public class Solution {
         System.out.println(c[x]);
     }
 
-    public static void main(String[] args) {
+    public static void main(final String[] args) {
 
+/**
+ * @brief [brief description]
+ * @details [long description]
+ */
         Scanner sc = new Scanner(System.in);
         int m = Integer.parseInt(sc.nextLine());
         int n = Integer.parseInt(sc.nextLine());
