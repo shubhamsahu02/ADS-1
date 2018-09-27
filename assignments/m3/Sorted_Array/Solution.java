@@ -4,7 +4,7 @@ import java.util.Arrays;
  *Solution class.
  **/
 
-public class Solution {
+public final class  Solution {
 
 /**
  *Solution class.
