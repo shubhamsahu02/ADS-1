@@ -6,7 +6,13 @@ import java.util.Arrays;
 
 public class Solution {
 
-    public void mergeArrays(final int[] a,final int[] b) {
+/**
+ * @brief [brief description]
+ * @details [long description]
+ *
+ * @param int argument
+ */
+    public void mergeArrays(final int[] a, final int[] b) {
 
         int i = 0;
         int j = 0;
@@ -42,7 +48,7 @@ public class Solution {
 
     public static void main(String[] args) {
 
-        Scanner sc = new Scanner (System.in);
+        Scanner sc = new Scanner(System.in);
         int m = Integer.parseInt(sc.nextLine());
         int n = Integer.parseInt(sc.nextLine());
         int[] a = new int[m];
