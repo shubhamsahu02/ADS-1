@@ -1,0 +1,40 @@
+Given string : it was - the best - of times - - - it was - the - -
+
+1) push    it      inserted
+   push    was	   inserted
+   pop     -       removed
+   pop     was	   removed
+-------------------------------------
+   push    the     inserted
+   push    best    inserted
+   pop     -       removed
+   pop     best    removed
+-------------------------------------
+   push    of      inserted
+   push    times   inserted
+   pop     -       removed
+   pop     -       removed
+   pop     -       removed
+   pop     times   removed
+   pop     of      removed
+   pop     the     removed
+-------------------------------------
+   push    it      inserted
+   push    was     inserted
+   pop     -       removed
+   pop     was     removed
+-------------------------------------
+   push    the     inserted
+   pop     -       removed
+   pop     -       removed
+   pop     the     removed
+   pop     it      removed
+-------------------------------------
+After the push and pop operations "it" remains in the stack
+   
+   
+
+
+
+
+
