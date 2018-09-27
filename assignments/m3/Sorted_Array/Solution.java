@@ -44,6 +44,12 @@ public class Solution {
         System.out.println(c[x]);
     }
 
+/**
+ * @brief [brief description]
+ * @details [long description]
+ *
+ * @param String arguments
+ */
     public static void main(final String[] args) {
 
 /**
