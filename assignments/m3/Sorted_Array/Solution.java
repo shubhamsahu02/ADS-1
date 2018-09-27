@@ -56,7 +56,7 @@ private Solution() {
  * @brief [brief description]
  * @details [long description]
  *
- * @param String arguments
+ * @param args arguments
  */
     public static void main(final String[] args) {
 
