@@ -8,7 +8,6 @@ public class Solution {
 
 /**
  *Solution class.
- * @param int argument
  */
     public void mergeArrays(final int[] a, final int[] b) {
 
