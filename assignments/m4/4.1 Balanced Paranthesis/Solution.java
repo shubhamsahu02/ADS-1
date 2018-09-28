@@ -22,7 +22,7 @@ class LinkedList {
         * { var_description }
         */
     }
- 
+
     private Node head = null;
 
     public void push(final char item) {
@@ -64,7 +64,13 @@ public final class Solution {
             }
         }
     }
-
+    /**.
+     * { function_description }
+     *
+     * @param  s  parameter
+     *
+     * @return     { description_of_the_return_value }
+     */
     public static boolean theparantheses(final String s) {
         LinkedList l = new LinkedList();
         int length = s.length();
