@@ -22,16 +22,22 @@ class LinkedList {
         * { var_description }
         */
     }
-
+/**
+ private node head.
+ */
     private Node head = null;
-
+/**
+ * @param item char.
+ */
     public void push(final char item) {
         Node temp = new Node();
         temp.data = item;
         temp.nextadrr = head;
         head = temp;
     }
-
+/**
+ * @return data.
+ */
     public char pop() {
         char data = head.data;
         head = head.nextadrr;
@@ -40,6 +46,7 @@ class LinkedList {
 
 /**
  *class.
+ *@return boolean.
  */
     public boolean isEmpty() {
         return  head == null;
@@ -55,7 +62,9 @@ class LinkedList {
     }
 
 }
-
+/**
+ Solution class.
+ */
 public final class Solution {
     /**.
      * Constructs the object.
