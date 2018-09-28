@@ -1,12 +1,26 @@
 import java.util.Scanner;
-
+/**.
+ * List.
+ */
 class LinkedList {
+    /**.
+     * Node class.
+     */
 
     private class Node {
+        /**.
+         * { var_description }
+         */
 
         private char data;
+        /**.
+         * { var_description }
+         */
 
         private Node nextadrr;
+        /**.
+        * { var_description }
+        */
     }
  
     private Node head = null;
