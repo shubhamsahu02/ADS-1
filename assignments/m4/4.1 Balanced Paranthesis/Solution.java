@@ -41,6 +41,11 @@ class LinkedList {
     public boolean isEmpty() {
         return  head == null;
     }
+    /**.
+     * { function_description }
+     *
+     * @return   description
+     */
 
     public char top() {
         return head.data;
@@ -49,10 +54,20 @@ class LinkedList {
 }
 
 public final class Solution {
-
-    private Solution() {}
-
-    public static void main (String[] args) {
+    /**.
+     * Constructs the object.
+     */
+    private Solution() { 
+    /**.
+     * { item_description }
+     */
+    }
+    /**.
+     * { function_description }
+     *
+     * @param args arguments
+     */
+    public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int k = Integer.parseInt(scan.nextLine());
         for (int i = 0; i < k; i++) {
