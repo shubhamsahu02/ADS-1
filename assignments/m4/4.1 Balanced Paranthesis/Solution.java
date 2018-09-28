@@ -38,6 +38,9 @@ class LinkedList {
         return  data;
     }
 
+/**
+ *class.
+ */
     public boolean isEmpty() {
         return  head == null;
     }
@@ -57,7 +60,7 @@ public final class Solution {
     /**.
      * Constructs the object.
      */
-    private Solution() { 
+    private Solution() {
     /**.
      * { item_description }
      */
@@ -67,7 +70,7 @@ public final class Solution {
      *
      * @param args arguments
      */
-    public static void main(String[] args) {
+    public static void main(final String[] args) {
         Scanner scan = new Scanner(System.in);
         int k = Integer.parseInt(scan.nextLine());
         for (int i = 0; i < k; i++) {
