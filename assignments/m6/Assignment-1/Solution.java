@@ -5,16 +5,19 @@ import java.util.Scanner;
 class AddLargeNumbers {
     /**
      * To convert numbers to digits.
+     */
+    AddLargeNumbers() {
+    }
+    /**
+     * to convert numbers to digits.
      *
      * @param number number
      *
      * @return number
      */
-    AddLargeNumbers() {
-    }
     public static LinkedList numberToDigits(final String number) {
         LinkedList ll = new LinkedList();
-        String [] arr = number.split("");
+        String[] arr = number.split("");
         for (int i = 0; i < arr.length; i++) {
             ll.push(arr[i]);
         }
@@ -87,6 +90,8 @@ public final class Solution {
                 LinkedList result =
                 AddLargeNumbers.addLargeNumbers(pDigits, qDigits);
                 System.out.println(AddLargeNumbers.digitsToNumber(result));
+                break;
+                default :
                 break;
         }
     }
