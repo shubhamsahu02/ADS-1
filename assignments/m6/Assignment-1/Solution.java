@@ -2,11 +2,11 @@ import java.util.Scanner;
 /**
  * Class for adding large numbers.
  */
-class AddLargeNumbers {
+    class AddLargeNumbers {
     /**
      * To convert numbers to digits.
      */
-    AddLargeNumbers() {
+    private AddLargeNumbers() {
     }
     /**
      * to convert numbers to digits.
