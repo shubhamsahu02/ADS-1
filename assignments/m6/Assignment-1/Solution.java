@@ -2,7 +2,7 @@ import java.util.Scanner;
 /**
  * Class for adding large numbers.
  */
-    class AddLargeNumbers {
+    final class AddLargeNumbers {
     /**
      * To convert numbers to digits.
      */
