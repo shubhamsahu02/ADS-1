@@ -1,4 +1,7 @@
 import java.util.Scanner;
+/**
+ * Class for adding large numbers.
+ */
 class AddLargeNumbers {
     /**
      * To convert numbers to digits.
@@ -7,7 +10,7 @@ class AddLargeNumbers {
      *
      * @return number
      */
-    public static LinkedList numberToDigits(String number) {
+    public static LinkedList numberToDigits(final String number) {
         LinkedList ll = new LinkedList();
         String [] arr = number.split("");
         for (int i = 0; i < arr.length; i++) {
@@ -25,8 +28,8 @@ class AddLargeNumbers {
      */
     public static String digitsToNumber(LinkedList list) {
         String string = "";
-        while(!list.isEmpty()) {
-            string+= list.pop();
+        while (!list.isEmpty()) {
+            string += list.pop();
         }
 
         return string;
@@ -41,7 +44,8 @@ class AddLargeNumbers {
      *
      * @return   lists
      */
-    public static LinkedList addLargeNumbers(final LinkedList list1, final LinkedList list2) {
+    public static LinkedList addLargeNumbers(final LinkedList list1,
+     final LinkedList list2) {
         return list1;
     }
 }
