@@ -10,6 +10,8 @@ class AddLargeNumbers {
      *
      * @return number
      */
+    AddLargeNumbers() {
+    }
     public static LinkedList numberToDigits(final String number) {
         LinkedList ll = new LinkedList();
         String [] arr = number.split("");
@@ -26,7 +28,7 @@ class AddLargeNumbers {
      *
      * @return   list
      */
-    public static String digitsToNumber(LinkedList list) {
+    public static String digitsToNumber(final LinkedList list) {
         String string = "";
         while (!list.isEmpty()) {
             string += list.pop();
