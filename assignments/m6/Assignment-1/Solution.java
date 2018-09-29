@@ -1,6 +1,12 @@
 import java.util.Scanner;
 class AddLargeNumbers {
-    
+    /**
+     * To convert numbers to digits.
+     *
+     * @param number number
+     *
+     * @return number
+     */
     public static LinkedList numberToDigits(String number) {
         LinkedList ll = new LinkedList();
         String [] arr = number.split("");
@@ -10,7 +16,13 @@ class AddLargeNumbers {
 
         return ll;
     }
-
+    /**
+     * To convert digits to numbers.
+     *
+     * @param  list list
+     *
+     * @return   list
+     */
     public static String digitsToNumber(LinkedList list) {
         String string = "";
         while(!list.isEmpty()) {
@@ -21,14 +33,14 @@ class AddLargeNumbers {
 
     }
 
-/**
- * Adding large numbers.
- *
- * @param LinkedList lis1
- * @param LinkedList list2
- * 
- * @return [description]
- */
+    /**
+     * Add large numbers.
+     *
+     * @param  list1  list 1
+     * @param  list2  list 2
+     *
+     * @return   lists
+     */
     public static LinkedList addLargeNumbers(final LinkedList list1, final LinkedList list2) {
         return list1;
     }
@@ -38,15 +50,18 @@ class AddLargeNumbers {
  *
  * Solution class.
  */
-public class Solution {
+public final class Solution {
     /**
      * Solution class.
-     * 
-     * @param String args
      */
-    Solution() {
+    private Solution() {
 
     }
+    /**
+     * main function.
+     *
+     * @param      args  The arguments
+     */
     public static void main(final String[] args) {
         Scanner sc = new Scanner(System.in);
         String input = sc.nextLine();
@@ -63,7 +78,7 @@ public class Solution {
             case "addLargeNumbers":
                 pDigits = AddLargeNumbers.numberToDigits(p);
                 qDigits = AddLargeNumbers.numberToDigits(q);
-                LinkedList result = 
+                LinkedList result =
                 AddLargeNumbers.addLargeNumbers(pDigits, qDigits);
                 System.out.println(AddLargeNumbers.digitsToNumber(result));
                 break;
