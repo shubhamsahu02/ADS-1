@@ -1,14 +1,26 @@
-
+/**.
+ * imports scanner class.
+ */
 import java.util.Scanner;
-
+/**.
+ * import array class.
+ */
 import java.util.Arrays;
-
+/**
+ * Class for solution.
+ */
 public final class Solution {
-
+    /**.
+     * Construct the object for Solution class.
+     */
     private Solution() {
 
     }
-
+    /**.
+     * main function
+     *
+     * @param  args  The arguments
+     */
     public static void main(final String[] args) {
         Scanner scan = new Scanner(System.in);
         StringBuffer sb = new StringBuffer();
