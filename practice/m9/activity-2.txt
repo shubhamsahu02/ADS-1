@@ -1,0 +1,24 @@
+Give traces by showing how the keys E A S Y Q U E S T I O N are sorted with top-down mergesort.
+
+
+Given Array : E A S Y Q U E S T I O N
+
+First we take low , mid and high index elements as reference in merge sort. Then we divide the given array into subarray as shown in the following trace.
+
+ 1.E A S Y Q U || E S T I O N
+
+ 2. E A S | Y Q U || E S T | I O N
+
+ 3. E A | S | Y Q | U || E S | T | I O | N
+
+ 4. E :: A | S | Y :: Q || U | E :: S | T | I :: O | N
+
+ 5. A E | S | Q Y | U || E S | T | I O | N
+
+ 6. A E S | Q U Y || E S T | I N O
+
+ 7. A E Q S U Y || E I N O S T
+
+ 8. A E E I N O Q S S T U Y
+
+ The sorted array is :   " A E E I N O Q S S T U Y ".
