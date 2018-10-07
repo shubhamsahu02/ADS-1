@@ -1,11 +1,21 @@
 import java.util.Scanner;
-
+/**
+linked list class.
+ **/
+/**
+Class Solution.
+ **/
 final class Solution {
-
+    /**
+    default constructor.
+     **/
     private Solution() {
 
     }
-
+    /**
+     * main function.
+     * @param args String.
+     **/
     public static void main(final String[] args) {
         Scanner sc = new Scanner(System.in);
         int n;
