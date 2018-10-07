@@ -1,0 +1,7 @@
+Starting audit...
+[ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\assignments\m5\5.1 Deque\Solution.java:0: File does not end with a newline. [NewlineAtEndOfFile]
+[ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\assignments\m5\5.1 Deque\Solution.java:3: Missing a Javadoc comment. [JavadocType]
+[ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\assignments\m5\5.1 Deque\Solution.java:5:5: Missing a Javadoc comment. [JavadocMethod]
+[ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\assignments\m5\5.1 Deque\Solution.java:9:5: Missing a Javadoc comment. [JavadocMethod]
+Audit done.
+Checkstyle ends with 4 errors.
