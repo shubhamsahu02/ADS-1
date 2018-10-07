@@ -1,5 +1,5 @@
 class LinkedList {
-    
+
     private int length = 0;
     /**
      Node object first.
