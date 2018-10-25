@@ -35,7 +35,7 @@ public class MaxPQ<Key extends Comparable<Key>> {
 	}
 	/**
 	 * Determines if empty.
-	 * Time complexity is 1 because only one statement is executed at once.
+	 * Time complexity is 1 because only one statement is executed at once
 	 * @return     True if empty, False otherwise.
 	 */
 	public boolean isEmpty() {
@@ -43,15 +43,15 @@ public class MaxPQ<Key extends Comparable<Key>> {
 	}
 	/**
 	 * gives size of pq array
-	 *Time complexity is 1 because only one statement is executed at once.
-	 * @return     { type of integer}
+	 * Time complexity is 1 because only one statement is executed at once
+	 * @return     { type of intiger}
 	 */
 	public int size() {
 		return n;
 	}
 	/**
 	 * inserts the item in pq array
-	 *Time complexity is logN because of swim funciton.
+	 * Time complexity is logN because of swim funciton
 	 * @param      item  The item
 	 */
 	public void insert(Key item) {
@@ -60,7 +60,7 @@ public class MaxPQ<Key extends Comparable<Key>> {
 	}
 	/**
 	 * { Deletes the min element}
-	 *Time complexity is logN because of swim funciton.
+	 * Time complexity is logN because of swim funciton
 	 * @return     {Key}
 	 */
 	public Key delMax() {
@@ -71,7 +71,7 @@ public class MaxPQ<Key extends Comparable<Key>> {
 		return min;
 	}
 	/**
-     * swim function it generally moves the element to upwards.
+     * Swim function it generally moves the element to upwards.
      * Time complexity is N because of while loop
      * @param      k     { key type}
      */
@@ -82,7 +82,7 @@ public class MaxPQ<Key extends Comparable<Key>> {
         }
     }
     /**
-     * sink function itn generally moves the elements to downwards
+     * Sink function itn generally moves the elements to downwards
      * Time complexity is N because of while loop 
      * @param      k     {key type }
      */

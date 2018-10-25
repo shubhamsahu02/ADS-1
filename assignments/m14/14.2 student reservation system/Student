@@ -107,7 +107,7 @@ class Student implements Comparable<Student> {
         this.total = total;
     }
     /**
-     * sets the markss of subject1
+     * sets the marks of subject1
      *
      * @param      subject1  The subject 1
      */
@@ -146,7 +146,6 @@ class Student implements Comparable<Student> {
     public String toString() {
         String str = "";
         str = str + this.studentname + "," + this.total + "," + this.reservation;
-        //System.out.println();
         return str;
 
     }
@@ -155,7 +154,7 @@ class Student implements Comparable<Student> {
      *
      * @param      that  The that
      *
-     * @return     { returns true or flase depending on the condition }
+     * @return     { returns true or false depending on the condition }
      */
     public int compareTo(Student that) {
         if (this.total > that.total)            return -1;
@@ -167,8 +166,7 @@ class Student implements Comparable<Student> {
         if (this.subject1 > that.subject1)      return -1;
         if (this.dob.equals(that.dob))          return -1;
         if (this.dob.equals(that.dob))          return 1;
-        // if (this.reservation.equals(that.reservation)) return -1;
-        // if (this.reservation.equals(that.reservation)) return  1;
+
         return 0;
     }
     

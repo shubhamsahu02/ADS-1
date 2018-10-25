@@ -1,5 +1,5 @@
 /**
- * imports no such element exception.
+ * imports no such element exception
  */
 import java.util.NoSuchElementException;
 /**
@@ -17,7 +17,7 @@ public class MinPQ<Key extends Comparable<Key>> {
      */
     private int n;
     /**
-     * Constructs the object.for MinPQ class.
+     * Constructs the object for MinPQ class
      *
      * @param      capacity  The capacity
      */
@@ -35,7 +35,7 @@ public class MinPQ<Key extends Comparable<Key>> {
     }
     /**
      * Determines if empty.
-     * Time complexity is 1 because only one statement is executed at once.
+     * Time complexity is 1 because only one statement is executed at once
      * @return     True if empty, False otherwise.
      */
     public boolean isEmpty() {
@@ -43,7 +43,7 @@ public class MinPQ<Key extends Comparable<Key>> {
     }
     /**
      * gives size of pq array
-     *Time complexity is 1 because only one statement is executed at once.
+     *Time complexity is 1 because only one statement is executed at once
      * @return     { type of intiger}
      */
     public int size() {
@@ -51,7 +51,7 @@ public class MinPQ<Key extends Comparable<Key>> {
     }
     /**
      * inserts the item in pq array
-     *Time complexity is logN because of swim function.
+     * Time complexity is logN because of swim funciton
      * @param      item  The item
      */
     public void insert(Key item) {
@@ -60,7 +60,7 @@ public class MinPQ<Key extends Comparable<Key>> {
     }
     /**
      * { Deletes the min element}
-     *Time complexity is logN because of swim function.
+     * Time complexity is logN because of swim funciton
      * @return     {Key}
      */
     public Key delMin() {
@@ -71,8 +71,8 @@ public class MinPQ<Key extends Comparable<Key>> {
         return min;
     }
     /**
-     * swim function it generally moves the element to upwards.
-     * Time complexity is N because of while loop.
+     * Swim function it generally moves the element to upwards.
+     * Time complexity is N because of while loop
      * @param      k     { key type}
      */
     private void swim(int k) {
@@ -82,8 +82,8 @@ public class MinPQ<Key extends Comparable<Key>> {
         }
     }
     /**
-     * sink function itn generally moves the elements to downwards.
-     * Time complexity is N because of while loop.
+     * Sink function itn generally moves the elements to downwards
+     * Time complexity is N because of while loop 
      * @param      k     {key type }
      */
     private void sink(int k) {
@@ -100,8 +100,8 @@ public class MinPQ<Key extends Comparable<Key>> {
     * Helper functions for compares and swaps.
     ***************************************************************************/
    /**
-    * compares two objects and returns true or false
-    * time complexity is 1 because all the statements are executed only once
+    * Compares two objects and returns true or false
+    * Time complexity is 1 because all the statements are executed only once
     * @param      i     { index of array element }
     * @param      j     { index of array element}
     *
@@ -113,7 +113,7 @@ public class MinPQ<Key extends Comparable<Key>> {
         
     }
     /**
-     * swaps the two elements of the pq
+     * Swaps the two elements of the pq
      * Time complexity is 1 because only once the statements are executed
      * @param      i     { index of comparable array}
      * @param      j     { index of comparable array}
