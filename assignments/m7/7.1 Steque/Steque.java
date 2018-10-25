@@ -41,8 +41,9 @@ class Steque {
 
     public void push(final String item) {
         Node newnode = new Node(item);
-        if (head == null)
+        if (head == null) {
             tail = newnode;
+        }
         newnode.next = head;
         head = newnode;
     }
@@ -69,7 +70,7 @@ class Steque {
      *Time complexity is constant as each statement is executed only once.
      * { pops the top most item in the steque }
      */
-    
+
     public void pop() {
         if (head != null) {
             head = head.next;
