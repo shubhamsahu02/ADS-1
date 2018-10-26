@@ -6,7 +6,7 @@
  */
 class BinarySearchT<Key extends Comparable<Key>, Values> {
     /**.
-     * starting element in the BST.
+     * Starting element in the BST.
      */
     private Node root;
     /**.
