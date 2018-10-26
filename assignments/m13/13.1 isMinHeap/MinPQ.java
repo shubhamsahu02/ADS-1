@@ -17,11 +17,10 @@ public class MinPQ <Key extends Comparable <Key>> {
 	MinPQ(final Key[] array) {
 		this.pq = array;
 		this.n = array.length - 1;
-		//System.out.println("length" +n);
 	}
 	/**
 	 * Checks if the array is min heap or not
-	 * TIme complexity is N because it is a recurive function and each method is called N times.
+	 * TIme complexityis N because it is a recurive function and each method is called N times.
 	 * @return     True if minimum pq, False otherwise.
 	 */
 	public boolean isMinPQ(int k) {
