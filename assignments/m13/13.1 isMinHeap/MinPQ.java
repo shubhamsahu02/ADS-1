@@ -1,7 +1,7 @@
 /**.
 * Class for minimum pq.
 *
-* @param  <Key>  The key
+* @param      <Key>  The key
 */
 public class MinPQ <Key extends Comparable <Key>> {
 	/**
@@ -12,31 +12,42 @@ public class MinPQ <Key extends Comparable <Key>> {
 	/**
 	 * Constructs the object for class MinPQ
 	 *
-	 * @param array  The array
+	 * @param      array  The array
 	 */
 	MinPQ(final Key[] array) {
 		this.pq = array;
 		this.n = array.length - 1;
+		//System.out.println("length" +n);
 	}
 	/**
 	 * Checks if the array is min heap or not
-	 * TIme complexity is N because the for loop iterates for N times.
+	 * TIme complexity is N because it is a recurive function and each method is called N times.
 	 * @return     True if minimum pq, False otherwise.
 	 */
 	public boolean isMinPQ(int k) {
 		if (k > n) {
 			return true;
 		}
+		System.out.println("value of k is " +k);
 		int left = 2 * k;
+		System.out.println("left is ..." +left);
 		int rigth = 2 * k + 1;
+		System.out.println("rigth is ..."+rigth);
 		if (left <= n && !less(k, left)) {
+			System.out.println("value of left is ..." + left);
 			return false;
 		}
 		if (rigth <= n && !less(k, rigth)) {
+			System.out.println("value of rigth is ...." + rigth);
 			return false;
 		}
 		return isMinPQ(left) && isMinPQ(rigth);
 	}
+	/**
+	 * Determines if minimum pq.
+	 *
+	 * @return     True if minimum pq, False otherwise.
+	 */
 	public boolean isMinPQ() {
 		return isMinPQ(1);
 	}

@@ -1,16 +1,60 @@
-########## Testcase 0: Passed ##########
+########## Testcase 0: Failed ##########
 Expected Output: 
 true
 false
 true
 false
 Your Output: 
+value of k is 1
+left is ...2
+rigth is ...3
+value of k is 2
+left is ...4
+rigth is ...5
+value of k is 4
+left is ...8
+rigth is ...9
+value of k is 5
+left is ...10
+rigth is ...11
+value of k is 3
+left is ...6
+rigth is ...7
+value of k is 6
+left is ...12
+rigth is ...13
+value of k is 7
+left is ...14
+rigth is ...15
 true
+value of k is 1
+left is ...2
+rigth is ...3
+value of left is ...2
 false
+value of k is 1
+left is ...2
+rigth is ...3
+value of k is 2
+left is ...4
+rigth is ...5
+value of k is 4
+left is ...8
+rigth is ...9
+value of k is 5
+left is ...10
+rigth is ...11
+value of k is 3
+left is ...6
+rigth is ...7
 true
+value of k is 1
+left is ...2
+rigth is ...3
+value of left is ...2
 false
 ----------------------------------------
-########## Testcase 1: Passed ##########
+########## Testcase 1: Failed ##########
 Expected Output: 
 false
 false
@@ -19,14 +63,38 @@ false
 false
 false
 Your Output: 
+value of k is 1
+left is ...2
+rigth is ...3
+value of left is ...2
 false
+value of k is 1
+left is ...2
+rigth is ...3
+value of left is ...2
 false
+value of k is 1
+left is ...2
+rigth is ...3
+value of left is ...2
 false
+value of k is 1
+left is ...2
+rigth is ...3
+value of left is ...2
 false
+value of k is 1
+left is ...2
+rigth is ...3
+value of left is ...2
 false
+value of k is 1
+left is ...2
+rigth is ...3
+value of left is ...2
 false
 ----------------------------------------
-########## Testcase 2: Passed ##########
+########## Testcase 2: Failed ##########
 Expected Output: 
 true
 true
@@ -37,13 +105,6713 @@ false
 true
 false
 Your Output: 
+value of k is 1
+left is ...2
+rigth is ...3
+value of k is 2
+left is ...4
+rigth is ...5
+value of k is 4
+left is ...8
+rigth is ...9
+value of k is 8
+left is ...16
+rigth is ...17
+value of k is 9
+left is ...18
+rigth is ...19
+value of k is 5
+left is ...10
+rigth is ...11
+value of k is 3
+left is ...6
+rigth is ...7
+value of k is 6
+left is ...12
+rigth is ...13
+value of k is 7
+left is ...14
+rigth is ...15
 true
+value of k is 1
+left is ...2
+rigth is ...3
+value of k is 2
+left is ...4
+rigth is ...5
+value of k is 4
+left is ...8
+rigth is ...9
+value of k is 5
+left is ...10
+rigth is ...11
+value of k is 3
+left is ...6
+rigth is ...7
+value of k is 6
+left is ...12
+rigth is ...13
 true
+value of k is 1
+left is ...2
+rigth is ...3
+value of k is 2
+left is ...4
+rigth is ...5
+value of k is 4
+left is ...8
+rigth is ...9
+value of k is 5
+left is ...10
+rigth is ...11
+value of k is 3
+left is ...6
+rigth is ...7
+value of k is 6
+left is ...12
+rigth is ...13
 true
+value of k is 1
+left is ...2
+rigth is ...3
+value of left is ...2
 false
+value of k is 1
+left is ...2
+rigth is ...3
+value of left is ...2
 false
+value of k is 1
+left is ...2
+rigth is ...3
+value of left is ...2
 false
+value of k is 1
+left is ...2
+rigth is ...3
+value of k is 2
+left is ...4
+rigth is ...5
+value of k is 4
+left is ...8
+rigth is ...9
+value of k is 8
+left is ...16
+rigth is ...17
+value of k is 16
+left is ...32
+rigth is ...33
+value of k is 32
+left is ...64
+rigth is ...65
+value of k is 64
+left is ...128
+rigth is ...129
+value of k is 128
+left is ...256
+rigth is ...257
+value of k is 256
+left is ...512
+rigth is ...513
+value of k is 512
+left is ...1024
+rigth is ...1025
+value of k is 1024
+left is ...2048
+rigth is ...2049
+value of k is 2048
+left is ...4096
+rigth is ...4097
+value of k is 2049
+left is ...4098
+rigth is ...4099
+value of k is 1025
+left is ...2050
+rigth is ...2051
+value of k is 2050
+left is ...4100
+rigth is ...4101
+value of k is 2051
+left is ...4102
+rigth is ...4103
+value of k is 513
+left is ...1026
+rigth is ...1027
+value of k is 1026
+left is ...2052
+rigth is ...2053
+value of k is 2052
+left is ...4104
+rigth is ...4105
+value of k is 2053
+left is ...4106
+rigth is ...4107
+value of k is 1027
+left is ...2054
+rigth is ...2055
+value of k is 2054
+left is ...4108
+rigth is ...4109
+value of k is 2055
+left is ...4110
+rigth is ...4111
+value of k is 257
+left is ...514
+rigth is ...515
+value of k is 514
+left is ...1028
+rigth is ...1029
+value of k is 1028
+left is ...2056
+rigth is ...2057
+value of k is 2056
+left is ...4112
+rigth is ...4113
+value of k is 2057
+left is ...4114
+rigth is ...4115
+value of k is 1029
+left is ...2058
+rigth is ...2059
+value of k is 2058
+left is ...4116
+rigth is ...4117
+value of k is 2059
+left is ...4118
+rigth is ...4119
+value of k is 515
+left is ...1030
+rigth is ...1031
+value of k is 1030
+left is ...2060
+rigth is ...2061
+value of k is 2060
+left is ...4120
+rigth is ...4121
+value of k is 2061
+left is ...4122
+rigth is ...4123
+value of k is 1031
+left is ...2062
+rigth is ...2063
+value of k is 2062
+left is ...4124
+rigth is ...4125
+value of k is 2063
+left is ...4126
+rigth is ...4127
+value of k is 129
+left is ...258
+rigth is ...259
+value of k is 258
+left is ...516
+rigth is ...517
+value of k is 516
+left is ...1032
+rigth is ...1033
+value of k is 1032
+left is ...2064
+rigth is ...2065
+value of k is 2064
+left is ...4128
+rigth is ...4129
+value of k is 2065
+left is ...4130
+rigth is ...4131
+value of k is 1033
+left is ...2066
+rigth is ...2067
+value of k is 2066
+left is ...4132
+rigth is ...4133
+value of k is 2067
+left is ...4134
+rigth is ...4135
+value of k is 517
+left is ...1034
+rigth is ...1035
+value of k is 1034
+left is ...2068
+rigth is ...2069
+value of k is 2068
+left is ...4136
+rigth is ...4137
+value of k is 2069
+left is ...4138
+rigth is ...4139
+value of k is 1035
+left is ...2070
+rigth is ...2071
+value of k is 2070
+left is ...4140
+rigth is ...4141
+value of k is 2071
+left is ...4142
+rigth is ...4143
+value of k is 259
+left is ...518
+rigth is ...519
+value of k is 518
+left is ...1036
+rigth is ...1037
+value of k is 1036
+left is ...2072
+rigth is ...2073
+value of k is 2072
+left is ...4144
+rigth is ...4145
+value of k is 2073
+left is ...4146
+rigth is ...4147
+value of k is 1037
+left is ...2074
+rigth is ...2075
+value of k is 2074
+left is ...4148
+rigth is ...4149
+value of k is 2075
+left is ...4150
+rigth is ...4151
+value of k is 519
+left is ...1038
+rigth is ...1039
+value of k is 1038
+left is ...2076
+rigth is ...2077
+value of k is 2076
+left is ...4152
+rigth is ...4153
+value of k is 2077
+left is ...4154
+rigth is ...4155
+value of k is 1039
+left is ...2078
+rigth is ...2079
+value of k is 2078
+left is ...4156
+rigth is ...4157
+value of k is 2079
+left is ...4158
+rigth is ...4159
+value of k is 65
+left is ...130
+rigth is ...131
+value of k is 130
+left is ...260
+rigth is ...261
+value of k is 260
+left is ...520
+rigth is ...521
+value of k is 520
+left is ...1040
+rigth is ...1041
+value of k is 1040
+left is ...2080
+rigth is ...2081
+value of k is 2080
+left is ...4160
+rigth is ...4161
+value of k is 2081
+left is ...4162
+rigth is ...4163
+value of k is 1041
+left is ...2082
+rigth is ...2083
+value of k is 2082
+left is ...4164
+rigth is ...4165
+value of k is 2083
+left is ...4166
+rigth is ...4167
+value of k is 521
+left is ...1042
+rigth is ...1043
+value of k is 1042
+left is ...2084
+rigth is ...2085
+value of k is 2084
+left is ...4168
+rigth is ...4169
+value of k is 2085
+left is ...4170
+rigth is ...4171
+value of k is 1043
+left is ...2086
+rigth is ...2087
+value of k is 2086
+left is ...4172
+rigth is ...4173
+value of k is 2087
+left is ...4174
+rigth is ...4175
+value of k is 261
+left is ...522
+rigth is ...523
+value of k is 522
+left is ...1044
+rigth is ...1045
+value of k is 1044
+left is ...2088
+rigth is ...2089
+value of k is 2088
+left is ...4176
+rigth is ...4177
+value of k is 2089
+left is ...4178
+rigth is ...4179
+value of k is 1045
+left is ...2090
+rigth is ...2091
+value of k is 2090
+left is ...4180
+rigth is ...4181
+value of k is 2091
+left is ...4182
+rigth is ...4183
+value of k is 523
+left is ...1046
+rigth is ...1047
+value of k is 1046
+left is ...2092
+rigth is ...2093
+value of k is 2092
+left is ...4184
+rigth is ...4185
+value of k is 2093
+left is ...4186
+rigth is ...4187
+value of k is 1047
+left is ...2094
+rigth is ...2095
+value of k is 2094
+left is ...4188
+rigth is ...4189
+value of k is 2095
+left is ...4190
+rigth is ...4191
+value of k is 131
+left is ...262
+rigth is ...263
+value of k is 262
+left is ...524
+rigth is ...525
+value of k is 524
+left is ...1048
+rigth is ...1049
+value of k is 1048
+left is ...2096
+rigth is ...2097
+value of k is 2096
+left is ...4192
+rigth is ...4193
+value of k is 2097
+left is ...4194
+rigth is ...4195
+value of k is 1049
+left is ...2098
+rigth is ...2099
+value of k is 2098
+left is ...4196
+rigth is ...4197
+value of k is 2099
+left is ...4198
+rigth is ...4199
+value of k is 525
+left is ...1050
+rigth is ...1051
+value of k is 1050
+left is ...2100
+rigth is ...2101
+value of k is 2100
+left is ...4200
+rigth is ...4201
+value of k is 2101
+left is ...4202
+rigth is ...4203
+value of k is 1051
+left is ...2102
+rigth is ...2103
+value of k is 2102
+left is ...4204
+rigth is ...4205
+value of k is 2103
+left is ...4206
+rigth is ...4207
+value of k is 263
+left is ...526
+rigth is ...527
+value of k is 526
+left is ...1052
+rigth is ...1053
+value of k is 1052
+left is ...2104
+rigth is ...2105
+value of k is 2104
+left is ...4208
+rigth is ...4209
+value of k is 2105
+left is ...4210
+rigth is ...4211
+value of k is 1053
+left is ...2106
+rigth is ...2107
+value of k is 2106
+left is ...4212
+rigth is ...4213
+value of k is 2107
+left is ...4214
+rigth is ...4215
+value of k is 527
+left is ...1054
+rigth is ...1055
+value of k is 1054
+left is ...2108
+rigth is ...2109
+value of k is 2108
+left is ...4216
+rigth is ...4217
+value of k is 2109
+left is ...4218
+rigth is ...4219
+value of k is 1055
+left is ...2110
+rigth is ...2111
+value of k is 2110
+left is ...4220
+rigth is ...4221
+value of k is 2111
+left is ...4222
+rigth is ...4223
+value of k is 33
+left is ...66
+rigth is ...67
+value of k is 66
+left is ...132
+rigth is ...133
+value of k is 132
+left is ...264
+rigth is ...265
+value of k is 264
+left is ...528
+rigth is ...529
+value of k is 528
+left is ...1056
+rigth is ...1057
+value of k is 1056
+left is ...2112
+rigth is ...2113
+value of k is 2112
+left is ...4224
+rigth is ...4225
+value of k is 2113
+left is ...4226
+rigth is ...4227
+value of k is 1057
+left is ...2114
+rigth is ...2115
+value of k is 2114
+left is ...4228
+rigth is ...4229
+value of k is 2115
+left is ...4230
+rigth is ...4231
+value of k is 529
+left is ...1058
+rigth is ...1059
+value of k is 1058
+left is ...2116
+rigth is ...2117
+value of k is 2116
+left is ...4232
+rigth is ...4233
+value of k is 2117
+left is ...4234
+rigth is ...4235
+value of k is 1059
+left is ...2118
+rigth is ...2119
+value of k is 2118
+left is ...4236
+rigth is ...4237
+value of k is 2119
+left is ...4238
+rigth is ...4239
+value of k is 265
+left is ...530
+rigth is ...531
+value of k is 530
+left is ...1060
+rigth is ...1061
+value of k is 1060
+left is ...2120
+rigth is ...2121
+value of k is 2120
+left is ...4240
+rigth is ...4241
+value of k is 2121
+left is ...4242
+rigth is ...4243
+value of k is 1061
+left is ...2122
+rigth is ...2123
+value of k is 2122
+left is ...4244
+rigth is ...4245
+value of k is 2123
+left is ...4246
+rigth is ...4247
+value of k is 531
+left is ...1062
+rigth is ...1063
+value of k is 1062
+left is ...2124
+rigth is ...2125
+value of k is 2124
+left is ...4248
+rigth is ...4249
+value of k is 2125
+left is ...4250
+rigth is ...4251
+value of k is 1063
+left is ...2126
+rigth is ...2127
+value of k is 2126
+left is ...4252
+rigth is ...4253
+value of k is 2127
+left is ...4254
+rigth is ...4255
+value of k is 133
+left is ...266
+rigth is ...267
+value of k is 266
+left is ...532
+rigth is ...533
+value of k is 532
+left is ...1064
+rigth is ...1065
+value of k is 1064
+left is ...2128
+rigth is ...2129
+value of k is 2128
+left is ...4256
+rigth is ...4257
+value of k is 2129
+left is ...4258
+rigth is ...4259
+value of k is 1065
+left is ...2130
+rigth is ...2131
+value of k is 2130
+left is ...4260
+rigth is ...4261
+value of k is 2131
+left is ...4262
+rigth is ...4263
+value of k is 533
+left is ...1066
+rigth is ...1067
+value of k is 1066
+left is ...2132
+rigth is ...2133
+value of k is 2132
+left is ...4264
+rigth is ...4265
+value of k is 2133
+left is ...4266
+rigth is ...4267
+value of k is 1067
+left is ...2134
+rigth is ...2135
+value of k is 2134
+left is ...4268
+rigth is ...4269
+value of k is 2135
+left is ...4270
+rigth is ...4271
+value of k is 267
+left is ...534
+rigth is ...535
+value of k is 534
+left is ...1068
+rigth is ...1069
+value of k is 1068
+left is ...2136
+rigth is ...2137
+value of k is 2136
+left is ...4272
+rigth is ...4273
+value of k is 2137
+left is ...4274
+rigth is ...4275
+value of k is 1069
+left is ...2138
+rigth is ...2139
+value of k is 2138
+left is ...4276
+rigth is ...4277
+value of k is 2139
+left is ...4278
+rigth is ...4279
+value of k is 535
+left is ...1070
+rigth is ...1071
+value of k is 1070
+left is ...2140
+rigth is ...2141
+value of k is 2140
+left is ...4280
+rigth is ...4281
+value of k is 2141
+left is ...4282
+rigth is ...4283
+value of k is 1071
+left is ...2142
+rigth is ...2143
+value of k is 2142
+left is ...4284
+rigth is ...4285
+value of k is 2143
+left is ...4286
+rigth is ...4287
+value of k is 67
+left is ...134
+rigth is ...135
+value of k is 134
+left is ...268
+rigth is ...269
+value of k is 268
+left is ...536
+rigth is ...537
+value of k is 536
+left is ...1072
+rigth is ...1073
+value of k is 1072
+left is ...2144
+rigth is ...2145
+value of k is 2144
+left is ...4288
+rigth is ...4289
+value of k is 2145
+left is ...4290
+rigth is ...4291
+value of k is 1073
+left is ...2146
+rigth is ...2147
+value of k is 2146
+left is ...4292
+rigth is ...4293
+value of k is 2147
+left is ...4294
+rigth is ...4295
+value of k is 537
+left is ...1074
+rigth is ...1075
+value of k is 1074
+left is ...2148
+rigth is ...2149
+value of k is 2148
+left is ...4296
+rigth is ...4297
+value of k is 2149
+left is ...4298
+rigth is ...4299
+value of k is 1075
+left is ...2150
+rigth is ...2151
+value of k is 2150
+left is ...4300
+rigth is ...4301
+value of k is 2151
+left is ...4302
+rigth is ...4303
+value of k is 269
+left is ...538
+rigth is ...539
+value of k is 538
+left is ...1076
+rigth is ...1077
+value of k is 1076
+left is ...2152
+rigth is ...2153
+value of k is 2152
+left is ...4304
+rigth is ...4305
+value of k is 2153
+left is ...4306
+rigth is ...4307
+value of k is 1077
+left is ...2154
+rigth is ...2155
+value of k is 2154
+left is ...4308
+rigth is ...4309
+value of k is 2155
+left is ...4310
+rigth is ...4311
+value of k is 539
+left is ...1078
+rigth is ...1079
+value of k is 1078
+left is ...2156
+rigth is ...2157
+value of k is 2156
+left is ...4312
+rigth is ...4313
+value of k is 2157
+left is ...4314
+rigth is ...4315
+value of k is 1079
+left is ...2158
+rigth is ...2159
+value of k is 2158
+left is ...4316
+rigth is ...4317
+value of k is 2159
+left is ...4318
+rigth is ...4319
+value of k is 135
+left is ...270
+rigth is ...271
+value of k is 270
+left is ...540
+rigth is ...541
+value of k is 540
+left is ...1080
+rigth is ...1081
+value of k is 1080
+left is ...2160
+rigth is ...2161
+value of k is 2160
+left is ...4320
+rigth is ...4321
+value of k is 2161
+left is ...4322
+rigth is ...4323
+value of k is 1081
+left is ...2162
+rigth is ...2163
+value of k is 2162
+left is ...4324
+rigth is ...4325
+value of k is 2163
+left is ...4326
+rigth is ...4327
+value of k is 541
+left is ...1082
+rigth is ...1083
+value of k is 1082
+left is ...2164
+rigth is ...2165
+value of k is 2164
+left is ...4328
+rigth is ...4329
+value of k is 2165
+left is ...4330
+rigth is ...4331
+value of k is 1083
+left is ...2166
+rigth is ...2167
+value of k is 2166
+left is ...4332
+rigth is ...4333
+value of k is 2167
+left is ...4334
+rigth is ...4335
+value of k is 271
+left is ...542
+rigth is ...543
+value of k is 542
+left is ...1084
+rigth is ...1085
+value of k is 1084
+left is ...2168
+rigth is ...2169
+value of k is 2168
+left is ...4336
+rigth is ...4337
+value of k is 2169
+left is ...4338
+rigth is ...4339
+value of k is 1085
+left is ...2170
+rigth is ...2171
+value of k is 2170
+left is ...4340
+rigth is ...4341
+value of k is 2171
+left is ...4342
+rigth is ...4343
+value of k is 543
+left is ...1086
+rigth is ...1087
+value of k is 1086
+left is ...2172
+rigth is ...2173
+value of k is 2172
+left is ...4344
+rigth is ...4345
+value of k is 2173
+left is ...4346
+rigth is ...4347
+value of k is 1087
+left is ...2174
+rigth is ...2175
+value of k is 2174
+left is ...4348
+rigth is ...4349
+value of k is 2175
+left is ...4350
+rigth is ...4351
+value of k is 17
+left is ...34
+rigth is ...35
+value of k is 34
+left is ...68
+rigth is ...69
+value of k is 68
+left is ...136
+rigth is ...137
+value of k is 136
+left is ...272
+rigth is ...273
+value of k is 272
+left is ...544
+rigth is ...545
+value of k is 544
+left is ...1088
+rigth is ...1089
+value of k is 1088
+left is ...2176
+rigth is ...2177
+value of k is 2176
+left is ...4352
+rigth is ...4353
+value of k is 2177
+left is ...4354
+rigth is ...4355
+value of k is 1089
+left is ...2178
+rigth is ...2179
+value of k is 2178
+left is ...4356
+rigth is ...4357
+value of k is 2179
+left is ...4358
+rigth is ...4359
+value of k is 545
+left is ...1090
+rigth is ...1091
+value of k is 1090
+left is ...2180
+rigth is ...2181
+value of k is 2180
+left is ...4360
+rigth is ...4361
+value of k is 2181
+left is ...4362
+rigth is ...4363
+value of k is 1091
+left is ...2182
+rigth is ...2183
+value of k is 2182
+left is ...4364
+rigth is ...4365
+value of k is 2183
+left is ...4366
+rigth is ...4367
+value of k is 273
+left is ...546
+rigth is ...547
+value of k is 546
+left is ...1092
+rigth is ...1093
+value of k is 1092
+left is ...2184
+rigth is ...2185
+value of k is 2184
+left is ...4368
+rigth is ...4369
+value of k is 2185
+left is ...4370
+rigth is ...4371
+value of k is 1093
+left is ...2186
+rigth is ...2187
+value of k is 2186
+left is ...4372
+rigth is ...4373
+value of k is 2187
+left is ...4374
+rigth is ...4375
+value of k is 547
+left is ...1094
+rigth is ...1095
+value of k is 1094
+left is ...2188
+rigth is ...2189
+value of k is 2188
+left is ...4376
+rigth is ...4377
+value of k is 2189
+left is ...4378
+rigth is ...4379
+value of k is 1095
+left is ...2190
+rigth is ...2191
+value of k is 2190
+left is ...4380
+rigth is ...4381
+value of k is 2191
+left is ...4382
+rigth is ...4383
+value of k is 137
+left is ...274
+rigth is ...275
+value of k is 274
+left is ...548
+rigth is ...549
+value of k is 548
+left is ...1096
+rigth is ...1097
+value of k is 1096
+left is ...2192
+rigth is ...2193
+value of k is 2192
+left is ...4384
+rigth is ...4385
+value of k is 2193
+left is ...4386
+rigth is ...4387
+value of k is 1097
+left is ...2194
+rigth is ...2195
+value of k is 2194
+left is ...4388
+rigth is ...4389
+value of k is 2195
+left is ...4390
+rigth is ...4391
+value of k is 549
+left is ...1098
+rigth is ...1099
+value of k is 1098
+left is ...2196
+rigth is ...2197
+value of k is 2196
+left is ...4392
+rigth is ...4393
+value of k is 2197
+left is ...4394
+rigth is ...4395
+value of k is 1099
+left is ...2198
+rigth is ...2199
+value of k is 2198
+left is ...4396
+rigth is ...4397
+value of k is 2199
+left is ...4398
+rigth is ...4399
+value of k is 275
+left is ...550
+rigth is ...551
+value of k is 550
+left is ...1100
+rigth is ...1101
+value of k is 1100
+left is ...2200
+rigth is ...2201
+value of k is 2200
+left is ...4400
+rigth is ...4401
+value of k is 2201
+left is ...4402
+rigth is ...4403
+value of k is 1101
+left is ...2202
+rigth is ...2203
+value of k is 2202
+left is ...4404
+rigth is ...4405
+value of k is 2203
+left is ...4406
+rigth is ...4407
+value of k is 551
+left is ...1102
+rigth is ...1103
+value of k is 1102
+left is ...2204
+rigth is ...2205
+value of k is 2204
+left is ...4408
+rigth is ...4409
+value of k is 2205
+left is ...4410
+rigth is ...4411
+value of k is 1103
+left is ...2206
+rigth is ...2207
+value of k is 2206
+left is ...4412
+rigth is ...4413
+value of k is 2207
+left is ...4414
+rigth is ...4415
+value of k is 69
+left is ...138
+rigth is ...139
+value of k is 138
+left is ...276
+rigth is ...277
+value of k is 276
+left is ...552
+rigth is ...553
+value of k is 552
+left is ...1104
+rigth is ...1105
+value of k is 1104
+left is ...2208
+rigth is ...2209
+value of k is 1105
+left is ...2210
+rigth is ...2211
+value of k is 553
+left is ...1106
+rigth is ...1107
+value of k is 1106
+left is ...2212
+rigth is ...2213
+value of k is 1107
+left is ...2214
+rigth is ...2215
+value of k is 277
+left is ...554
+rigth is ...555
+value of k is 554
+left is ...1108
+rigth is ...1109
+value of k is 1108
+left is ...2216
+rigth is ...2217
+value of k is 1109
+left is ...2218
+rigth is ...2219
+value of k is 555
+left is ...1110
+rigth is ...1111
+value of k is 1110
+left is ...2220
+rigth is ...2221
+value of k is 1111
+left is ...2222
+rigth is ...2223
+value of k is 139
+left is ...278
+rigth is ...279
+value of k is 278
+left is ...556
+rigth is ...557
+value of k is 556
+left is ...1112
+rigth is ...1113
+value of k is 1112
+left is ...2224
+rigth is ...2225
+value of k is 1113
+left is ...2226
+rigth is ...2227
+value of k is 557
+left is ...1114
+rigth is ...1115
+value of k is 1114
+left is ...2228
+rigth is ...2229
+value of k is 1115
+left is ...2230
+rigth is ...2231
+value of k is 279
+left is ...558
+rigth is ...559
+value of k is 558
+left is ...1116
+rigth is ...1117
+value of k is 1116
+left is ...2232
+rigth is ...2233
+value of k is 1117
+left is ...2234
+rigth is ...2235
+value of k is 559
+left is ...1118
+rigth is ...1119
+value of k is 1118
+left is ...2236
+rigth is ...2237
+value of k is 1119
+left is ...2238
+rigth is ...2239
+value of k is 35
+left is ...70
+rigth is ...71
+value of k is 70
+left is ...140
+rigth is ...141
+value of k is 140
+left is ...280
+rigth is ...281
+value of k is 280
+left is ...560
+rigth is ...561
+value of k is 560
+left is ...1120
+rigth is ...1121
+value of k is 1120
+left is ...2240
+rigth is ...2241
+value of k is 1121
+left is ...2242
+rigth is ...2243
+value of k is 561
+left is ...1122
+rigth is ...1123
+value of k is 1122
+left is ...2244
+rigth is ...2245
+value of k is 1123
+left is ...2246
+rigth is ...2247
+value of k is 281
+left is ...562
+rigth is ...563
+value of k is 562
+left is ...1124
+rigth is ...1125
+value of k is 1124
+left is ...2248
+rigth is ...2249
+value of k is 1125
+left is ...2250
+rigth is ...2251
+value of k is 563
+left is ...1126
+rigth is ...1127
+value of k is 1126
+left is ...2252
+rigth is ...2253
+value of k is 1127
+left is ...2254
+rigth is ...2255
+value of k is 141
+left is ...282
+rigth is ...283
+value of k is 282
+left is ...564
+rigth is ...565
+value of k is 564
+left is ...1128
+rigth is ...1129
+value of k is 1128
+left is ...2256
+rigth is ...2257
+value of k is 1129
+left is ...2258
+rigth is ...2259
+value of k is 565
+left is ...1130
+rigth is ...1131
+value of k is 1130
+left is ...2260
+rigth is ...2261
+value of k is 1131
+left is ...2262
+rigth is ...2263
+value of k is 283
+left is ...566
+rigth is ...567
+value of k is 566
+left is ...1132
+rigth is ...1133
+value of k is 1132
+left is ...2264
+rigth is ...2265
+value of k is 1133
+left is ...2266
+rigth is ...2267
+value of k is 567
+left is ...1134
+rigth is ...1135
+value of k is 1134
+left is ...2268
+rigth is ...2269
+value of k is 1135
+left is ...2270
+rigth is ...2271
+value of k is 71
+left is ...142
+rigth is ...143
+value of k is 142
+left is ...284
+rigth is ...285
+value of k is 284
+left is ...568
+rigth is ...569
+value of k is 568
+left is ...1136
+rigth is ...1137
+value of k is 1136
+left is ...2272
+rigth is ...2273
+value of k is 1137
+left is ...2274
+rigth is ...2275
+value of k is 569
+left is ...1138
+rigth is ...1139
+value of k is 1138
+left is ...2276
+rigth is ...2277
+value of k is 1139
+left is ...2278
+rigth is ...2279
+value of k is 285
+left is ...570
+rigth is ...571
+value of k is 570
+left is ...1140
+rigth is ...1141
+value of k is 1140
+left is ...2280
+rigth is ...2281
+value of k is 1141
+left is ...2282
+rigth is ...2283
+value of k is 571
+left is ...1142
+rigth is ...1143
+value of k is 1142
+left is ...2284
+rigth is ...2285
+value of k is 1143
+left is ...2286
+rigth is ...2287
+value of k is 143
+left is ...286
+rigth is ...287
+value of k is 286
+left is ...572
+rigth is ...573
+value of k is 572
+left is ...1144
+rigth is ...1145
+value of k is 1144
+left is ...2288
+rigth is ...2289
+value of k is 1145
+left is ...2290
+rigth is ...2291
+value of k is 573
+left is ...1146
+rigth is ...1147
+value of k is 1146
+left is ...2292
+rigth is ...2293
+value of k is 1147
+left is ...2294
+rigth is ...2295
+value of k is 287
+left is ...574
+rigth is ...575
+value of k is 574
+left is ...1148
+rigth is ...1149
+value of k is 1148
+left is ...2296
+rigth is ...2297
+value of k is 1149
+left is ...2298
+rigth is ...2299
+value of k is 575
+left is ...1150
+rigth is ...1151
+value of k is 1150
+left is ...2300
+rigth is ...2301
+value of k is 1151
+left is ...2302
+rigth is ...2303
+value of k is 9
+left is ...18
+rigth is ...19
+value of k is 18
+left is ...36
+rigth is ...37
+value of k is 36
+left is ...72
+rigth is ...73
+value of k is 72
+left is ...144
+rigth is ...145
+value of k is 144
+left is ...288
+rigth is ...289
+value of k is 288
+left is ...576
+rigth is ...577
+value of k is 576
+left is ...1152
+rigth is ...1153
+value of k is 1152
+left is ...2304
+rigth is ...2305
+value of k is 1153
+left is ...2306
+rigth is ...2307
+value of k is 577
+left is ...1154
+rigth is ...1155
+value of k is 1154
+left is ...2308
+rigth is ...2309
+value of k is 1155
+left is ...2310
+rigth is ...2311
+value of k is 289
+left is ...578
+rigth is ...579
+value of k is 578
+left is ...1156
+rigth is ...1157
+value of k is 1156
+left is ...2312
+rigth is ...2313
+value of k is 1157
+left is ...2314
+rigth is ...2315
+value of k is 579
+left is ...1158
+rigth is ...1159
+value of k is 1158
+left is ...2316
+rigth is ...2317
+value of k is 1159
+left is ...2318
+rigth is ...2319
+value of k is 145
+left is ...290
+rigth is ...291
+value of k is 290
+left is ...580
+rigth is ...581
+value of k is 580
+left is ...1160
+rigth is ...1161
+value of k is 1160
+left is ...2320
+rigth is ...2321
+value of k is 1161
+left is ...2322
+rigth is ...2323
+value of k is 581
+left is ...1162
+rigth is ...1163
+value of k is 1162
+left is ...2324
+rigth is ...2325
+value of k is 1163
+left is ...2326
+rigth is ...2327
+value of k is 291
+left is ...582
+rigth is ...583
+value of k is 582
+left is ...1164
+rigth is ...1165
+value of k is 1164
+left is ...2328
+rigth is ...2329
+value of k is 1165
+left is ...2330
+rigth is ...2331
+value of k is 583
+left is ...1166
+rigth is ...1167
+value of k is 1166
+left is ...2332
+rigth is ...2333
+value of k is 1167
+left is ...2334
+rigth is ...2335
+value of k is 73
+left is ...146
+rigth is ...147
+value of k is 146
+left is ...292
+rigth is ...293
+value of k is 292
+left is ...584
+rigth is ...585
+value of k is 584
+left is ...1168
+rigth is ...1169
+value of k is 1168
+left is ...2336
+rigth is ...2337
+value of k is 1169
+left is ...2338
+rigth is ...2339
+value of k is 585
+left is ...1170
+rigth is ...1171
+value of k is 1170
+left is ...2340
+rigth is ...2341
+value of k is 1171
+left is ...2342
+rigth is ...2343
+value of k is 293
+left is ...586
+rigth is ...587
+value of k is 586
+left is ...1172
+rigth is ...1173
+value of k is 1172
+left is ...2344
+rigth is ...2345
+value of k is 1173
+left is ...2346
+rigth is ...2347
+value of k is 587
+left is ...1174
+rigth is ...1175
+value of k is 1174
+left is ...2348
+rigth is ...2349
+value of k is 1175
+left is ...2350
+rigth is ...2351
+value of k is 147
+left is ...294
+rigth is ...295
+value of k is 294
+left is ...588
+rigth is ...589
+value of k is 588
+left is ...1176
+rigth is ...1177
+value of k is 1176
+left is ...2352
+rigth is ...2353
+value of k is 1177
+left is ...2354
+rigth is ...2355
+value of k is 589
+left is ...1178
+rigth is ...1179
+value of k is 1178
+left is ...2356
+rigth is ...2357
+value of k is 1179
+left is ...2358
+rigth is ...2359
+value of k is 295
+left is ...590
+rigth is ...591
+value of k is 590
+left is ...1180
+rigth is ...1181
+value of k is 1180
+left is ...2360
+rigth is ...2361
+value of k is 1181
+left is ...2362
+rigth is ...2363
+value of k is 591
+left is ...1182
+rigth is ...1183
+value of k is 1182
+left is ...2364
+rigth is ...2365
+value of k is 1183
+left is ...2366
+rigth is ...2367
+value of k is 37
+left is ...74
+rigth is ...75
+value of k is 74
+left is ...148
+rigth is ...149
+value of k is 148
+left is ...296
+rigth is ...297
+value of k is 296
+left is ...592
+rigth is ...593
+value of k is 592
+left is ...1184
+rigth is ...1185
+value of k is 1184
+left is ...2368
+rigth is ...2369
+value of k is 1185
+left is ...2370
+rigth is ...2371
+value of k is 593
+left is ...1186
+rigth is ...1187
+value of k is 1186
+left is ...2372
+rigth is ...2373
+value of k is 1187
+left is ...2374
+rigth is ...2375
+value of k is 297
+left is ...594
+rigth is ...595
+value of k is 594
+left is ...1188
+rigth is ...1189
+value of k is 1188
+left is ...2376
+rigth is ...2377
+value of k is 1189
+left is ...2378
+rigth is ...2379
+value of k is 595
+left is ...1190
+rigth is ...1191
+value of k is 1190
+left is ...2380
+rigth is ...2381
+value of k is 1191
+left is ...2382
+rigth is ...2383
+value of k is 149
+left is ...298
+rigth is ...299
+value of k is 298
+left is ...596
+rigth is ...597
+value of k is 596
+left is ...1192
+rigth is ...1193
+value of k is 1192
+left is ...2384
+rigth is ...2385
+value of k is 1193
+left is ...2386
+rigth is ...2387
+value of k is 597
+left is ...1194
+rigth is ...1195
+value of k is 1194
+left is ...2388
+rigth is ...2389
+value of k is 1195
+left is ...2390
+rigth is ...2391
+value of k is 299
+left is ...598
+rigth is ...599
+value of k is 598
+left is ...1196
+rigth is ...1197
+value of k is 1196
+left is ...2392
+rigth is ...2393
+value of k is 1197
+left is ...2394
+rigth is ...2395
+value of k is 599
+left is ...1198
+rigth is ...1199
+value of k is 1198
+left is ...2396
+rigth is ...2397
+value of k is 1199
+left is ...2398
+rigth is ...2399
+value of k is 75
+left is ...150
+rigth is ...151
+value of k is 150
+left is ...300
+rigth is ...301
+value of k is 300
+left is ...600
+rigth is ...601
+value of k is 600
+left is ...1200
+rigth is ...1201
+value of k is 1200
+left is ...2400
+rigth is ...2401
+value of k is 1201
+left is ...2402
+rigth is ...2403
+value of k is 601
+left is ...1202
+rigth is ...1203
+value of k is 1202
+left is ...2404
+rigth is ...2405
+value of k is 1203
+left is ...2406
+rigth is ...2407
+value of k is 301
+left is ...602
+rigth is ...603
+value of k is 602
+left is ...1204
+rigth is ...1205
+value of k is 1204
+left is ...2408
+rigth is ...2409
+value of k is 1205
+left is ...2410
+rigth is ...2411
+value of k is 603
+left is ...1206
+rigth is ...1207
+value of k is 1206
+left is ...2412
+rigth is ...2413
+value of k is 1207
+left is ...2414
+rigth is ...2415
+value of k is 151
+left is ...302
+rigth is ...303
+value of k is 302
+left is ...604
+rigth is ...605
+value of k is 604
+left is ...1208
+rigth is ...1209
+value of k is 1208
+left is ...2416
+rigth is ...2417
+value of k is 1209
+left is ...2418
+rigth is ...2419
+value of k is 605
+left is ...1210
+rigth is ...1211
+value of k is 1210
+left is ...2420
+rigth is ...2421
+value of k is 1211
+left is ...2422
+rigth is ...2423
+value of k is 303
+left is ...606
+rigth is ...607
+value of k is 606
+left is ...1212
+rigth is ...1213
+value of k is 1212
+left is ...2424
+rigth is ...2425
+value of k is 1213
+left is ...2426
+rigth is ...2427
+value of k is 607
+left is ...1214
+rigth is ...1215
+value of k is 1214
+left is ...2428
+rigth is ...2429
+value of k is 1215
+left is ...2430
+rigth is ...2431
+value of k is 19
+left is ...38
+rigth is ...39
+value of k is 38
+left is ...76
+rigth is ...77
+value of k is 76
+left is ...152
+rigth is ...153
+value of k is 152
+left is ...304
+rigth is ...305
+value of k is 304
+left is ...608
+rigth is ...609
+value of k is 608
+left is ...1216
+rigth is ...1217
+value of k is 1216
+left is ...2432
+rigth is ...2433
+value of k is 1217
+left is ...2434
+rigth is ...2435
+value of k is 609
+left is ...1218
+rigth is ...1219
+value of k is 1218
+left is ...2436
+rigth is ...2437
+value of k is 1219
+left is ...2438
+rigth is ...2439
+value of k is 305
+left is ...610
+rigth is ...611
+value of k is 610
+left is ...1220
+rigth is ...1221
+value of k is 1220
+left is ...2440
+rigth is ...2441
+value of k is 1221
+left is ...2442
+rigth is ...2443
+value of k is 611
+left is ...1222
+rigth is ...1223
+value of k is 1222
+left is ...2444
+rigth is ...2445
+value of k is 1223
+left is ...2446
+rigth is ...2447
+value of k is 153
+left is ...306
+rigth is ...307
+value of k is 306
+left is ...612
+rigth is ...613
+value of k is 612
+left is ...1224
+rigth is ...1225
+value of k is 1224
+left is ...2448
+rigth is ...2449
+value of k is 1225
+left is ...2450
+rigth is ...2451
+value of k is 613
+left is ...1226
+rigth is ...1227
+value of k is 1226
+left is ...2452
+rigth is ...2453
+value of k is 1227
+left is ...2454
+rigth is ...2455
+value of k is 307
+left is ...614
+rigth is ...615
+value of k is 614
+left is ...1228
+rigth is ...1229
+value of k is 1228
+left is ...2456
+rigth is ...2457
+value of k is 1229
+left is ...2458
+rigth is ...2459
+value of k is 615
+left is ...1230
+rigth is ...1231
+value of k is 1230
+left is ...2460
+rigth is ...2461
+value of k is 1231
+left is ...2462
+rigth is ...2463
+value of k is 77
+left is ...154
+rigth is ...155
+value of k is 154
+left is ...308
+rigth is ...309
+value of k is 308
+left is ...616
+rigth is ...617
+value of k is 616
+left is ...1232
+rigth is ...1233
+value of k is 1232
+left is ...2464
+rigth is ...2465
+value of k is 1233
+left is ...2466
+rigth is ...2467
+value of k is 617
+left is ...1234
+rigth is ...1235
+value of k is 1234
+left is ...2468
+rigth is ...2469
+value of k is 1235
+left is ...2470
+rigth is ...2471
+value of k is 309
+left is ...618
+rigth is ...619
+value of k is 618
+left is ...1236
+rigth is ...1237
+value of k is 1236
+left is ...2472
+rigth is ...2473
+value of k is 1237
+left is ...2474
+rigth is ...2475
+value of k is 619
+left is ...1238
+rigth is ...1239
+value of k is 1238
+left is ...2476
+rigth is ...2477
+value of k is 1239
+left is ...2478
+rigth is ...2479
+value of k is 155
+left is ...310
+rigth is ...311
+value of k is 310
+left is ...620
+rigth is ...621
+value of k is 620
+left is ...1240
+rigth is ...1241
+value of k is 1240
+left is ...2480
+rigth is ...2481
+value of k is 1241
+left is ...2482
+rigth is ...2483
+value of k is 621
+left is ...1242
+rigth is ...1243
+value of k is 1242
+left is ...2484
+rigth is ...2485
+value of k is 1243
+left is ...2486
+rigth is ...2487
+value of k is 311
+left is ...622
+rigth is ...623
+value of k is 622
+left is ...1244
+rigth is ...1245
+value of k is 1244
+left is ...2488
+rigth is ...2489
+value of k is 1245
+left is ...2490
+rigth is ...2491
+value of k is 623
+left is ...1246
+rigth is ...1247
+value of k is 1246
+left is ...2492
+rigth is ...2493
+value of k is 1247
+left is ...2494
+rigth is ...2495
+value of k is 39
+left is ...78
+rigth is ...79
+value of k is 78
+left is ...156
+rigth is ...157
+value of k is 156
+left is ...312
+rigth is ...313
+value of k is 312
+left is ...624
+rigth is ...625
+value of k is 624
+left is ...1248
+rigth is ...1249
+value of k is 1248
+left is ...2496
+rigth is ...2497
+value of k is 1249
+left is ...2498
+rigth is ...2499
+value of k is 625
+left is ...1250
+rigth is ...1251
+value of k is 1250
+left is ...2500
+rigth is ...2501
+value of k is 1251
+left is ...2502
+rigth is ...2503
+value of k is 313
+left is ...626
+rigth is ...627
+value of k is 626
+left is ...1252
+rigth is ...1253
+value of k is 1252
+left is ...2504
+rigth is ...2505
+value of k is 1253
+left is ...2506
+rigth is ...2507
+value of k is 627
+left is ...1254
+rigth is ...1255
+value of k is 1254
+left is ...2508
+rigth is ...2509
+value of k is 1255
+left is ...2510
+rigth is ...2511
+value of k is 157
+left is ...314
+rigth is ...315
+value of k is 314
+left is ...628
+rigth is ...629
+value of k is 628
+left is ...1256
+rigth is ...1257
+value of k is 1256
+left is ...2512
+rigth is ...2513
+value of k is 1257
+left is ...2514
+rigth is ...2515
+value of k is 629
+left is ...1258
+rigth is ...1259
+value of k is 1258
+left is ...2516
+rigth is ...2517
+value of k is 1259
+left is ...2518
+rigth is ...2519
+value of k is 315
+left is ...630
+rigth is ...631
+value of k is 630
+left is ...1260
+rigth is ...1261
+value of k is 1260
+left is ...2520
+rigth is ...2521
+value of k is 1261
+left is ...2522
+rigth is ...2523
+value of k is 631
+left is ...1262
+rigth is ...1263
+value of k is 1262
+left is ...2524
+rigth is ...2525
+value of k is 1263
+left is ...2526
+rigth is ...2527
+value of k is 79
+left is ...158
+rigth is ...159
+value of k is 158
+left is ...316
+rigth is ...317
+value of k is 316
+left is ...632
+rigth is ...633
+value of k is 632
+left is ...1264
+rigth is ...1265
+value of k is 1264
+left is ...2528
+rigth is ...2529
+value of k is 1265
+left is ...2530
+rigth is ...2531
+value of k is 633
+left is ...1266
+rigth is ...1267
+value of k is 1266
+left is ...2532
+rigth is ...2533
+value of k is 1267
+left is ...2534
+rigth is ...2535
+value of k is 317
+left is ...634
+rigth is ...635
+value of k is 634
+left is ...1268
+rigth is ...1269
+value of k is 1268
+left is ...2536
+rigth is ...2537
+value of k is 1269
+left is ...2538
+rigth is ...2539
+value of k is 635
+left is ...1270
+rigth is ...1271
+value of k is 1270
+left is ...2540
+rigth is ...2541
+value of k is 1271
+left is ...2542
+rigth is ...2543
+value of k is 159
+left is ...318
+rigth is ...319
+value of k is 318
+left is ...636
+rigth is ...637
+value of k is 636
+left is ...1272
+rigth is ...1273
+value of k is 1272
+left is ...2544
+rigth is ...2545
+value of k is 1273
+left is ...2546
+rigth is ...2547
+value of k is 637
+left is ...1274
+rigth is ...1275
+value of k is 1274
+left is ...2548
+rigth is ...2549
+value of k is 1275
+left is ...2550
+rigth is ...2551
+value of k is 319
+left is ...638
+rigth is ...639
+value of k is 638
+left is ...1276
+rigth is ...1277
+value of k is 1276
+left is ...2552
+rigth is ...2553
+value of k is 1277
+left is ...2554
+rigth is ...2555
+value of k is 639
+left is ...1278
+rigth is ...1279
+value of k is 1278
+left is ...2556
+rigth is ...2557
+value of k is 1279
+left is ...2558
+rigth is ...2559
+value of k is 5
+left is ...10
+rigth is ...11
+value of k is 10
+left is ...20
+rigth is ...21
+value of k is 20
+left is ...40
+rigth is ...41
+value of k is 40
+left is ...80
+rigth is ...81
+value of k is 80
+left is ...160
+rigth is ...161
+value of k is 160
+left is ...320
+rigth is ...321
+value of k is 320
+left is ...640
+rigth is ...641
+value of k is 640
+left is ...1280
+rigth is ...1281
+value of k is 1280
+left is ...2560
+rigth is ...2561
+value of k is 1281
+left is ...2562
+rigth is ...2563
+value of k is 641
+left is ...1282
+rigth is ...1283
+value of k is 1282
+left is ...2564
+rigth is ...2565
+value of k is 1283
+left is ...2566
+rigth is ...2567
+value of k is 321
+left is ...642
+rigth is ...643
+value of k is 642
+left is ...1284
+rigth is ...1285
+value of k is 1284
+left is ...2568
+rigth is ...2569
+value of k is 1285
+left is ...2570
+rigth is ...2571
+value of k is 643
+left is ...1286
+rigth is ...1287
+value of k is 1286
+left is ...2572
+rigth is ...2573
+value of k is 1287
+left is ...2574
+rigth is ...2575
+value of k is 161
+left is ...322
+rigth is ...323
+value of k is 322
+left is ...644
+rigth is ...645
+value of k is 644
+left is ...1288
+rigth is ...1289
+value of k is 1288
+left is ...2576
+rigth is ...2577
+value of k is 1289
+left is ...2578
+rigth is ...2579
+value of k is 645
+left is ...1290
+rigth is ...1291
+value of k is 1290
+left is ...2580
+rigth is ...2581
+value of k is 1291
+left is ...2582
+rigth is ...2583
+value of k is 323
+left is ...646
+rigth is ...647
+value of k is 646
+left is ...1292
+rigth is ...1293
+value of k is 1292
+left is ...2584
+rigth is ...2585
+value of k is 1293
+left is ...2586
+rigth is ...2587
+value of k is 647
+left is ...1294
+rigth is ...1295
+value of k is 1294
+left is ...2588
+rigth is ...2589
+value of k is 1295
+left is ...2590
+rigth is ...2591
+value of k is 81
+left is ...162
+rigth is ...163
+value of k is 162
+left is ...324
+rigth is ...325
+value of k is 324
+left is ...648
+rigth is ...649
+value of k is 648
+left is ...1296
+rigth is ...1297
+value of k is 1296
+left is ...2592
+rigth is ...2593
+value of k is 1297
+left is ...2594
+rigth is ...2595
+value of k is 649
+left is ...1298
+rigth is ...1299
+value of k is 1298
+left is ...2596
+rigth is ...2597
+value of k is 1299
+left is ...2598
+rigth is ...2599
+value of k is 325
+left is ...650
+rigth is ...651
+value of k is 650
+left is ...1300
+rigth is ...1301
+value of k is 1300
+left is ...2600
+rigth is ...2601
+value of k is 1301
+left is ...2602
+rigth is ...2603
+value of k is 651
+left is ...1302
+rigth is ...1303
+value of k is 1302
+left is ...2604
+rigth is ...2605
+value of k is 1303
+left is ...2606
+rigth is ...2607
+value of k is 163
+left is ...326
+rigth is ...327
+value of k is 326
+left is ...652
+rigth is ...653
+value of k is 652
+left is ...1304
+rigth is ...1305
+value of k is 1304
+left is ...2608
+rigth is ...2609
+value of k is 1305
+left is ...2610
+rigth is ...2611
+value of k is 653
+left is ...1306
+rigth is ...1307
+value of k is 1306
+left is ...2612
+rigth is ...2613
+value of k is 1307
+left is ...2614
+rigth is ...2615
+value of k is 327
+left is ...654
+rigth is ...655
+value of k is 654
+left is ...1308
+rigth is ...1309
+value of k is 1308
+left is ...2616
+rigth is ...2617
+value of k is 1309
+left is ...2618
+rigth is ...2619
+value of k is 655
+left is ...1310
+rigth is ...1311
+value of k is 1310
+left is ...2620
+rigth is ...2621
+value of k is 1311
+left is ...2622
+rigth is ...2623
+value of k is 41
+left is ...82
+rigth is ...83
+value of k is 82
+left is ...164
+rigth is ...165
+value of k is 164
+left is ...328
+rigth is ...329
+value of k is 328
+left is ...656
+rigth is ...657
+value of k is 656
+left is ...1312
+rigth is ...1313
+value of k is 1312
+left is ...2624
+rigth is ...2625
+value of k is 1313
+left is ...2626
+rigth is ...2627
+value of k is 657
+left is ...1314
+rigth is ...1315
+value of k is 1314
+left is ...2628
+rigth is ...2629
+value of k is 1315
+left is ...2630
+rigth is ...2631
+value of k is 329
+left is ...658
+rigth is ...659
+value of k is 658
+left is ...1316
+rigth is ...1317
+value of k is 1316
+left is ...2632
+rigth is ...2633
+value of k is 1317
+left is ...2634
+rigth is ...2635
+value of k is 659
+left is ...1318
+rigth is ...1319
+value of k is 1318
+left is ...2636
+rigth is ...2637
+value of k is 1319
+left is ...2638
+rigth is ...2639
+value of k is 165
+left is ...330
+rigth is ...331
+value of k is 330
+left is ...660
+rigth is ...661
+value of k is 660
+left is ...1320
+rigth is ...1321
+value of k is 1320
+left is ...2640
+rigth is ...2641
+value of k is 1321
+left is ...2642
+rigth is ...2643
+value of k is 661
+left is ...1322
+rigth is ...1323
+value of k is 1322
+left is ...2644
+rigth is ...2645
+value of k is 1323
+left is ...2646
+rigth is ...2647
+value of k is 331
+left is ...662
+rigth is ...663
+value of k is 662
+left is ...1324
+rigth is ...1325
+value of k is 1324
+left is ...2648
+rigth is ...2649
+value of k is 1325
+left is ...2650
+rigth is ...2651
+value of k is 663
+left is ...1326
+rigth is ...1327
+value of k is 1326
+left is ...2652
+rigth is ...2653
+value of k is 1327
+left is ...2654
+rigth is ...2655
+value of k is 83
+left is ...166
+rigth is ...167
+value of k is 166
+left is ...332
+rigth is ...333
+value of k is 332
+left is ...664
+rigth is ...665
+value of k is 664
+left is ...1328
+rigth is ...1329
+value of k is 1328
+left is ...2656
+rigth is ...2657
+value of k is 1329
+left is ...2658
+rigth is ...2659
+value of k is 665
+left is ...1330
+rigth is ...1331
+value of k is 1330
+left is ...2660
+rigth is ...2661
+value of k is 1331
+left is ...2662
+rigth is ...2663
+value of k is 333
+left is ...666
+rigth is ...667
+value of k is 666
+left is ...1332
+rigth is ...1333
+value of k is 1332
+left is ...2664
+rigth is ...2665
+value of k is 1333
+left is ...2666
+rigth is ...2667
+value of k is 667
+left is ...1334
+rigth is ...1335
+value of k is 1334
+left is ...2668
+rigth is ...2669
+value of k is 1335
+left is ...2670
+rigth is ...2671
+value of k is 167
+left is ...334
+rigth is ...335
+value of k is 334
+left is ...668
+rigth is ...669
+value of k is 668
+left is ...1336
+rigth is ...1337
+value of k is 1336
+left is ...2672
+rigth is ...2673
+value of k is 1337
+left is ...2674
+rigth is ...2675
+value of k is 669
+left is ...1338
+rigth is ...1339
+value of k is 1338
+left is ...2676
+rigth is ...2677
+value of k is 1339
+left is ...2678
+rigth is ...2679
+value of k is 335
+left is ...670
+rigth is ...671
+value of k is 670
+left is ...1340
+rigth is ...1341
+value of k is 1340
+left is ...2680
+rigth is ...2681
+value of k is 1341
+left is ...2682
+rigth is ...2683
+value of k is 671
+left is ...1342
+rigth is ...1343
+value of k is 1342
+left is ...2684
+rigth is ...2685
+value of k is 1343
+left is ...2686
+rigth is ...2687
+value of k is 21
+left is ...42
+rigth is ...43
+value of k is 42
+left is ...84
+rigth is ...85
+value of k is 84
+left is ...168
+rigth is ...169
+value of k is 168
+left is ...336
+rigth is ...337
+value of k is 336
+left is ...672
+rigth is ...673
+value of k is 672
+left is ...1344
+rigth is ...1345
+value of k is 1344
+left is ...2688
+rigth is ...2689
+value of k is 1345
+left is ...2690
+rigth is ...2691
+value of k is 673
+left is ...1346
+rigth is ...1347
+value of k is 1346
+left is ...2692
+rigth is ...2693
+value of k is 1347
+left is ...2694
+rigth is ...2695
+value of k is 337
+left is ...674
+rigth is ...675
+value of k is 674
+left is ...1348
+rigth is ...1349
+value of k is 1348
+left is ...2696
+rigth is ...2697
+value of k is 1349
+left is ...2698
+rigth is ...2699
+value of k is 675
+left is ...1350
+rigth is ...1351
+value of k is 1350
+left is ...2700
+rigth is ...2701
+value of k is 1351
+left is ...2702
+rigth is ...2703
+value of k is 169
+left is ...338
+rigth is ...339
+value of k is 338
+left is ...676
+rigth is ...677
+value of k is 676
+left is ...1352
+rigth is ...1353
+value of k is 1352
+left is ...2704
+rigth is ...2705
+value of k is 1353
+left is ...2706
+rigth is ...2707
+value of k is 677
+left is ...1354
+rigth is ...1355
+value of k is 1354
+left is ...2708
+rigth is ...2709
+value of k is 1355
+left is ...2710
+rigth is ...2711
+value of k is 339
+left is ...678
+rigth is ...679
+value of k is 678
+left is ...1356
+rigth is ...1357
+value of k is 1356
+left is ...2712
+rigth is ...2713
+value of k is 1357
+left is ...2714
+rigth is ...2715
+value of k is 679
+left is ...1358
+rigth is ...1359
+value of k is 1358
+left is ...2716
+rigth is ...2717
+value of k is 1359
+left is ...2718
+rigth is ...2719
+value of k is 85
+left is ...170
+rigth is ...171
+value of k is 170
+left is ...340
+rigth is ...341
+value of k is 340
+left is ...680
+rigth is ...681
+value of k is 680
+left is ...1360
+rigth is ...1361
+value of k is 1360
+left is ...2720
+rigth is ...2721
+value of k is 1361
+left is ...2722
+rigth is ...2723
+value of k is 681
+left is ...1362
+rigth is ...1363
+value of k is 1362
+left is ...2724
+rigth is ...2725
+value of k is 1363
+left is ...2726
+rigth is ...2727
+value of k is 341
+left is ...682
+rigth is ...683
+value of k is 682
+left is ...1364
+rigth is ...1365
+value of k is 1364
+left is ...2728
+rigth is ...2729
+value of k is 1365
+left is ...2730
+rigth is ...2731
+value of k is 683
+left is ...1366
+rigth is ...1367
+value of k is 1366
+left is ...2732
+rigth is ...2733
+value of k is 1367
+left is ...2734
+rigth is ...2735
+value of k is 171
+left is ...342
+rigth is ...343
+value of k is 342
+left is ...684
+rigth is ...685
+value of k is 684
+left is ...1368
+rigth is ...1369
+value of k is 1368
+left is ...2736
+rigth is ...2737
+value of k is 1369
+left is ...2738
+rigth is ...2739
+value of k is 685
+left is ...1370
+rigth is ...1371
+value of k is 1370
+left is ...2740
+rigth is ...2741
+value of k is 1371
+left is ...2742
+rigth is ...2743
+value of k is 343
+left is ...686
+rigth is ...687
+value of k is 686
+left is ...1372
+rigth is ...1373
+value of k is 1372
+left is ...2744
+rigth is ...2745
+value of k is 1373
+left is ...2746
+rigth is ...2747
+value of k is 687
+left is ...1374
+rigth is ...1375
+value of k is 1374
+left is ...2748
+rigth is ...2749
+value of k is 1375
+left is ...2750
+rigth is ...2751
+value of k is 43
+left is ...86
+rigth is ...87
+value of k is 86
+left is ...172
+rigth is ...173
+value of k is 172
+left is ...344
+rigth is ...345
+value of k is 344
+left is ...688
+rigth is ...689
+value of k is 688
+left is ...1376
+rigth is ...1377
+value of k is 1376
+left is ...2752
+rigth is ...2753
+value of k is 1377
+left is ...2754
+rigth is ...2755
+value of k is 689
+left is ...1378
+rigth is ...1379
+value of k is 1378
+left is ...2756
+rigth is ...2757
+value of k is 1379
+left is ...2758
+rigth is ...2759
+value of k is 345
+left is ...690
+rigth is ...691
+value of k is 690
+left is ...1380
+rigth is ...1381
+value of k is 1380
+left is ...2760
+rigth is ...2761
+value of k is 1381
+left is ...2762
+rigth is ...2763
+value of k is 691
+left is ...1382
+rigth is ...1383
+value of k is 1382
+left is ...2764
+rigth is ...2765
+value of k is 1383
+left is ...2766
+rigth is ...2767
+value of k is 173
+left is ...346
+rigth is ...347
+value of k is 346
+left is ...692
+rigth is ...693
+value of k is 692
+left is ...1384
+rigth is ...1385
+value of k is 1384
+left is ...2768
+rigth is ...2769
+value of k is 1385
+left is ...2770
+rigth is ...2771
+value of k is 693
+left is ...1386
+rigth is ...1387
+value of k is 1386
+left is ...2772
+rigth is ...2773
+value of k is 1387
+left is ...2774
+rigth is ...2775
+value of k is 347
+left is ...694
+rigth is ...695
+value of k is 694
+left is ...1388
+rigth is ...1389
+value of k is 1388
+left is ...2776
+rigth is ...2777
+value of k is 1389
+left is ...2778
+rigth is ...2779
+value of k is 695
+left is ...1390
+rigth is ...1391
+value of k is 1390
+left is ...2780
+rigth is ...2781
+value of k is 1391
+left is ...2782
+rigth is ...2783
+value of k is 87
+left is ...174
+rigth is ...175
+value of k is 174
+left is ...348
+rigth is ...349
+value of k is 348
+left is ...696
+rigth is ...697
+value of k is 696
+left is ...1392
+rigth is ...1393
+value of k is 1392
+left is ...2784
+rigth is ...2785
+value of k is 1393
+left is ...2786
+rigth is ...2787
+value of k is 697
+left is ...1394
+rigth is ...1395
+value of k is 1394
+left is ...2788
+rigth is ...2789
+value of k is 1395
+left is ...2790
+rigth is ...2791
+value of k is 349
+left is ...698
+rigth is ...699
+value of k is 698
+left is ...1396
+rigth is ...1397
+value of k is 1396
+left is ...2792
+rigth is ...2793
+value of k is 1397
+left is ...2794
+rigth is ...2795
+value of k is 699
+left is ...1398
+rigth is ...1399
+value of k is 1398
+left is ...2796
+rigth is ...2797
+value of k is 1399
+left is ...2798
+rigth is ...2799
+value of k is 175
+left is ...350
+rigth is ...351
+value of k is 350
+left is ...700
+rigth is ...701
+value of k is 700
+left is ...1400
+rigth is ...1401
+value of k is 1400
+left is ...2800
+rigth is ...2801
+value of k is 1401
+left is ...2802
+rigth is ...2803
+value of k is 701
+left is ...1402
+rigth is ...1403
+value of k is 1402
+left is ...2804
+rigth is ...2805
+value of k is 1403
+left is ...2806
+rigth is ...2807
+value of k is 351
+left is ...702
+rigth is ...703
+value of k is 702
+left is ...1404
+rigth is ...1405
+value of k is 1404
+left is ...2808
+rigth is ...2809
+value of k is 1405
+left is ...2810
+rigth is ...2811
+value of k is 703
+left is ...1406
+rigth is ...1407
+value of k is 1406
+left is ...2812
+rigth is ...2813
+value of k is 1407
+left is ...2814
+rigth is ...2815
+value of k is 11
+left is ...22
+rigth is ...23
+value of k is 22
+left is ...44
+rigth is ...45
+value of k is 44
+left is ...88
+rigth is ...89
+value of k is 88
+left is ...176
+rigth is ...177
+value of k is 176
+left is ...352
+rigth is ...353
+value of k is 352
+left is ...704
+rigth is ...705
+value of k is 704
+left is ...1408
+rigth is ...1409
+value of k is 1408
+left is ...2816
+rigth is ...2817
+value of k is 1409
+left is ...2818
+rigth is ...2819
+value of k is 705
+left is ...1410
+rigth is ...1411
+value of k is 1410
+left is ...2820
+rigth is ...2821
+value of k is 1411
+left is ...2822
+rigth is ...2823
+value of k is 353
+left is ...706
+rigth is ...707
+value of k is 706
+left is ...1412
+rigth is ...1413
+value of k is 1412
+left is ...2824
+rigth is ...2825
+value of k is 1413
+left is ...2826
+rigth is ...2827
+value of k is 707
+left is ...1414
+rigth is ...1415
+value of k is 1414
+left is ...2828
+rigth is ...2829
+value of k is 1415
+left is ...2830
+rigth is ...2831
+value of k is 177
+left is ...354
+rigth is ...355
+value of k is 354
+left is ...708
+rigth is ...709
+value of k is 708
+left is ...1416
+rigth is ...1417
+value of k is 1416
+left is ...2832
+rigth is ...2833
+value of k is 1417
+left is ...2834
+rigth is ...2835
+value of k is 709
+left is ...1418
+rigth is ...1419
+value of k is 1418
+left is ...2836
+rigth is ...2837
+value of k is 1419
+left is ...2838
+rigth is ...2839
+value of k is 355
+left is ...710
+rigth is ...711
+value of k is 710
+left is ...1420
+rigth is ...1421
+value of k is 1420
+left is ...2840
+rigth is ...2841
+value of k is 1421
+left is ...2842
+rigth is ...2843
+value of k is 711
+left is ...1422
+rigth is ...1423
+value of k is 1422
+left is ...2844
+rigth is ...2845
+value of k is 1423
+left is ...2846
+rigth is ...2847
+value of k is 89
+left is ...178
+rigth is ...179
+value of k is 178
+left is ...356
+rigth is ...357
+value of k is 356
+left is ...712
+rigth is ...713
+value of k is 712
+left is ...1424
+rigth is ...1425
+value of k is 1424
+left is ...2848
+rigth is ...2849
+value of k is 1425
+left is ...2850
+rigth is ...2851
+value of k is 713
+left is ...1426
+rigth is ...1427
+value of k is 1426
+left is ...2852
+rigth is ...2853
+value of k is 1427
+left is ...2854
+rigth is ...2855
+value of k is 357
+left is ...714
+rigth is ...715
+value of k is 714
+left is ...1428
+rigth is ...1429
+value of k is 1428
+left is ...2856
+rigth is ...2857
+value of k is 1429
+left is ...2858
+rigth is ...2859
+value of k is 715
+left is ...1430
+rigth is ...1431
+value of k is 1430
+left is ...2860
+rigth is ...2861
+value of k is 1431
+left is ...2862
+rigth is ...2863
+value of k is 179
+left is ...358
+rigth is ...359
+value of k is 358
+left is ...716
+rigth is ...717
+value of k is 716
+left is ...1432
+rigth is ...1433
+value of k is 1432
+left is ...2864
+rigth is ...2865
+value of k is 1433
+left is ...2866
+rigth is ...2867
+value of k is 717
+left is ...1434
+rigth is ...1435
+value of k is 1434
+left is ...2868
+rigth is ...2869
+value of k is 1435
+left is ...2870
+rigth is ...2871
+value of k is 359
+left is ...718
+rigth is ...719
+value of k is 718
+left is ...1436
+rigth is ...1437
+value of k is 1436
+left is ...2872
+rigth is ...2873
+value of k is 1437
+left is ...2874
+rigth is ...2875
+value of k is 719
+left is ...1438
+rigth is ...1439
+value of k is 1438
+left is ...2876
+rigth is ...2877
+value of k is 1439
+left is ...2878
+rigth is ...2879
+value of k is 45
+left is ...90
+rigth is ...91
+value of k is 90
+left is ...180
+rigth is ...181
+value of k is 180
+left is ...360
+rigth is ...361
+value of k is 360
+left is ...720
+rigth is ...721
+value of k is 720
+left is ...1440
+rigth is ...1441
+value of k is 1440
+left is ...2880
+rigth is ...2881
+value of k is 1441
+left is ...2882
+rigth is ...2883
+value of k is 721
+left is ...1442
+rigth is ...1443
+value of k is 1442
+left is ...2884
+rigth is ...2885
+value of k is 1443
+left is ...2886
+rigth is ...2887
+value of k is 361
+left is ...722
+rigth is ...723
+value of k is 722
+left is ...1444
+rigth is ...1445
+value of k is 1444
+left is ...2888
+rigth is ...2889
+value of k is 1445
+left is ...2890
+rigth is ...2891
+value of k is 723
+left is ...1446
+rigth is ...1447
+value of k is 1446
+left is ...2892
+rigth is ...2893
+value of k is 1447
+left is ...2894
+rigth is ...2895
+value of k is 181
+left is ...362
+rigth is ...363
+value of k is 362
+left is ...724
+rigth is ...725
+value of k is 724
+left is ...1448
+rigth is ...1449
+value of k is 1448
+left is ...2896
+rigth is ...2897
+value of k is 1449
+left is ...2898
+rigth is ...2899
+value of k is 725
+left is ...1450
+rigth is ...1451
+value of k is 1450
+left is ...2900
+rigth is ...2901
+value of k is 1451
+left is ...2902
+rigth is ...2903
+value of k is 363
+left is ...726
+rigth is ...727
+value of k is 726
+left is ...1452
+rigth is ...1453
+value of k is 1452
+left is ...2904
+rigth is ...2905
+value of k is 1453
+left is ...2906
+rigth is ...2907
+value of k is 727
+left is ...1454
+rigth is ...1455
+value of k is 1454
+left is ...2908
+rigth is ...2909
+value of k is 1455
+left is ...2910
+rigth is ...2911
+value of k is 91
+left is ...182
+rigth is ...183
+value of k is 182
+left is ...364
+rigth is ...365
+value of k is 364
+left is ...728
+rigth is ...729
+value of k is 728
+left is ...1456
+rigth is ...1457
+value of k is 1456
+left is ...2912
+rigth is ...2913
+value of k is 1457
+left is ...2914
+rigth is ...2915
+value of k is 729
+left is ...1458
+rigth is ...1459
+value of k is 1458
+left is ...2916
+rigth is ...2917
+value of k is 1459
+left is ...2918
+rigth is ...2919
+value of k is 365
+left is ...730
+rigth is ...731
+value of k is 730
+left is ...1460
+rigth is ...1461
+value of k is 1460
+left is ...2920
+rigth is ...2921
+value of k is 1461
+left is ...2922
+rigth is ...2923
+value of k is 731
+left is ...1462
+rigth is ...1463
+value of k is 1462
+left is ...2924
+rigth is ...2925
+value of k is 1463
+left is ...2926
+rigth is ...2927
+value of k is 183
+left is ...366
+rigth is ...367
+value of k is 366
+left is ...732
+rigth is ...733
+value of k is 732
+left is ...1464
+rigth is ...1465
+value of k is 1464
+left is ...2928
+rigth is ...2929
+value of k is 1465
+left is ...2930
+rigth is ...2931
+value of k is 733
+left is ...1466
+rigth is ...1467
+value of k is 1466
+left is ...2932
+rigth is ...2933
+value of k is 1467
+left is ...2934
+rigth is ...2935
+value of k is 367
+left is ...734
+rigth is ...735
+value of k is 734
+left is ...1468
+rigth is ...1469
+value of k is 1468
+left is ...2936
+rigth is ...2937
+value of k is 1469
+left is ...2938
+rigth is ...2939
+value of k is 735
+left is ...1470
+rigth is ...1471
+value of k is 1470
+left is ...2940
+rigth is ...2941
+value of k is 1471
+left is ...2942
+rigth is ...2943
+value of k is 23
+left is ...46
+rigth is ...47
+value of k is 46
+left is ...92
+rigth is ...93
+value of k is 92
+left is ...184
+rigth is ...185
+value of k is 184
+left is ...368
+rigth is ...369
+value of k is 368
+left is ...736
+rigth is ...737
+value of k is 736
+left is ...1472
+rigth is ...1473
+value of k is 1472
+left is ...2944
+rigth is ...2945
+value of k is 1473
+left is ...2946
+rigth is ...2947
+value of k is 737
+left is ...1474
+rigth is ...1475
+value of k is 1474
+left is ...2948
+rigth is ...2949
+value of k is 1475
+left is ...2950
+rigth is ...2951
+value of k is 369
+left is ...738
+rigth is ...739
+value of k is 738
+left is ...1476
+rigth is ...1477
+value of k is 1476
+left is ...2952
+rigth is ...2953
+value of k is 1477
+left is ...2954
+rigth is ...2955
+value of k is 739
+left is ...1478
+rigth is ...1479
+value of k is 1478
+left is ...2956
+rigth is ...2957
+value of k is 1479
+left is ...2958
+rigth is ...2959
+value of k is 185
+left is ...370
+rigth is ...371
+value of k is 370
+left is ...740
+rigth is ...741
+value of k is 740
+left is ...1480
+rigth is ...1481
+value of k is 1480
+left is ...2960
+rigth is ...2961
+value of k is 1481
+left is ...2962
+rigth is ...2963
+value of k is 741
+left is ...1482
+rigth is ...1483
+value of k is 1482
+left is ...2964
+rigth is ...2965
+value of k is 1483
+left is ...2966
+rigth is ...2967
+value of k is 371
+left is ...742
+rigth is ...743
+value of k is 742
+left is ...1484
+rigth is ...1485
+value of k is 1484
+left is ...2968
+rigth is ...2969
+value of k is 1485
+left is ...2970
+rigth is ...2971
+value of k is 743
+left is ...1486
+rigth is ...1487
+value of k is 1486
+left is ...2972
+rigth is ...2973
+value of k is 1487
+left is ...2974
+rigth is ...2975
+value of k is 93
+left is ...186
+rigth is ...187
+value of k is 186
+left is ...372
+rigth is ...373
+value of k is 372
+left is ...744
+rigth is ...745
+value of k is 744
+left is ...1488
+rigth is ...1489
+value of k is 1488
+left is ...2976
+rigth is ...2977
+value of k is 1489
+left is ...2978
+rigth is ...2979
+value of k is 745
+left is ...1490
+rigth is ...1491
+value of k is 1490
+left is ...2980
+rigth is ...2981
+value of k is 1491
+left is ...2982
+rigth is ...2983
+value of k is 373
+left is ...746
+rigth is ...747
+value of k is 746
+left is ...1492
+rigth is ...1493
+value of k is 1492
+left is ...2984
+rigth is ...2985
+value of k is 1493
+left is ...2986
+rigth is ...2987
+value of k is 747
+left is ...1494
+rigth is ...1495
+value of k is 1494
+left is ...2988
+rigth is ...2989
+value of k is 1495
+left is ...2990
+rigth is ...2991
+value of k is 187
+left is ...374
+rigth is ...375
+value of k is 374
+left is ...748
+rigth is ...749
+value of k is 748
+left is ...1496
+rigth is ...1497
+value of k is 1496
+left is ...2992
+rigth is ...2993
+value of k is 1497
+left is ...2994
+rigth is ...2995
+value of k is 749
+left is ...1498
+rigth is ...1499
+value of k is 1498
+left is ...2996
+rigth is ...2997
+value of k is 1499
+left is ...2998
+rigth is ...2999
+value of k is 375
+left is ...750
+rigth is ...751
+value of k is 750
+left is ...1500
+rigth is ...1501
+value of k is 1500
+left is ...3000
+rigth is ...3001
+value of k is 1501
+left is ...3002
+rigth is ...3003
+value of k is 751
+left is ...1502
+rigth is ...1503
+value of k is 1502
+left is ...3004
+rigth is ...3005
+value of k is 1503
+left is ...3006
+rigth is ...3007
+value of k is 47
+left is ...94
+rigth is ...95
+value of k is 94
+left is ...188
+rigth is ...189
+value of k is 188
+left is ...376
+rigth is ...377
+value of k is 376
+left is ...752
+rigth is ...753
+value of k is 752
+left is ...1504
+rigth is ...1505
+value of k is 1504
+left is ...3008
+rigth is ...3009
+value of k is 1505
+left is ...3010
+rigth is ...3011
+value of k is 753
+left is ...1506
+rigth is ...1507
+value of k is 1506
+left is ...3012
+rigth is ...3013
+value of k is 1507
+left is ...3014
+rigth is ...3015
+value of k is 377
+left is ...754
+rigth is ...755
+value of k is 754
+left is ...1508
+rigth is ...1509
+value of k is 1508
+left is ...3016
+rigth is ...3017
+value of k is 1509
+left is ...3018
+rigth is ...3019
+value of k is 755
+left is ...1510
+rigth is ...1511
+value of k is 1510
+left is ...3020
+rigth is ...3021
+value of k is 1511
+left is ...3022
+rigth is ...3023
+value of k is 189
+left is ...378
+rigth is ...379
+value of k is 378
+left is ...756
+rigth is ...757
+value of k is 756
+left is ...1512
+rigth is ...1513
+value of k is 1512
+left is ...3024
+rigth is ...3025
+value of k is 1513
+left is ...3026
+rigth is ...3027
+value of k is 757
+left is ...1514
+rigth is ...1515
+value of k is 1514
+left is ...3028
+rigth is ...3029
+value of k is 1515
+left is ...3030
+rigth is ...3031
+value of k is 379
+left is ...758
+rigth is ...759
+value of k is 758
+left is ...1516
+rigth is ...1517
+value of k is 1516
+left is ...3032
+rigth is ...3033
+value of k is 1517
+left is ...3034
+rigth is ...3035
+value of k is 759
+left is ...1518
+rigth is ...1519
+value of k is 1518
+left is ...3036
+rigth is ...3037
+value of k is 1519
+left is ...3038
+rigth is ...3039
+value of k is 95
+left is ...190
+rigth is ...191
+value of k is 190
+left is ...380
+rigth is ...381
+value of k is 380
+left is ...760
+rigth is ...761
+value of k is 760
+left is ...1520
+rigth is ...1521
+value of k is 1520
+left is ...3040
+rigth is ...3041
+value of k is 1521
+left is ...3042
+rigth is ...3043
+value of k is 761
+left is ...1522
+rigth is ...1523
+value of k is 1522
+left is ...3044
+rigth is ...3045
+value of k is 1523
+left is ...3046
+rigth is ...3047
+value of k is 381
+left is ...762
+rigth is ...763
+value of k is 762
+left is ...1524
+rigth is ...1525
+value of k is 1524
+left is ...3048
+rigth is ...3049
+value of k is 1525
+left is ...3050
+rigth is ...3051
+value of k is 763
+left is ...1526
+rigth is ...1527
+value of k is 1526
+left is ...3052
+rigth is ...3053
+value of k is 1527
+left is ...3054
+rigth is ...3055
+value of k is 191
+left is ...382
+rigth is ...383
+value of k is 382
+left is ...764
+rigth is ...765
+value of k is 764
+left is ...1528
+rigth is ...1529
+value of k is 1528
+left is ...3056
+rigth is ...3057
+value of k is 1529
+left is ...3058
+rigth is ...3059
+value of k is 765
+left is ...1530
+rigth is ...1531
+value of k is 1530
+left is ...3060
+rigth is ...3061
+value of k is 1531
+left is ...3062
+rigth is ...3063
+value of k is 383
+left is ...766
+rigth is ...767
+value of k is 766
+left is ...1532
+rigth is ...1533
+value of k is 1532
+left is ...3064
+rigth is ...3065
+value of k is 1533
+left is ...3066
+rigth is ...3067
+value of k is 767
+left is ...1534
+rigth is ...1535
+value of k is 1534
+left is ...3068
+rigth is ...3069
+value of k is 1535
+left is ...3070
+rigth is ...3071
+value of k is 3
+left is ...6
+rigth is ...7
+value of k is 6
+left is ...12
+rigth is ...13
+value of k is 12
+left is ...24
+rigth is ...25
+value of k is 24
+left is ...48
+rigth is ...49
+value of k is 48
+left is ...96
+rigth is ...97
+value of k is 96
+left is ...192
+rigth is ...193
+value of k is 192
+left is ...384
+rigth is ...385
+value of k is 384
+left is ...768
+rigth is ...769
+value of k is 768
+left is ...1536
+rigth is ...1537
+value of k is 1536
+left is ...3072
+rigth is ...3073
+value of k is 1537
+left is ...3074
+rigth is ...3075
+value of k is 769
+left is ...1538
+rigth is ...1539
+value of k is 1538
+left is ...3076
+rigth is ...3077
+value of k is 1539
+left is ...3078
+rigth is ...3079
+value of k is 385
+left is ...770
+rigth is ...771
+value of k is 770
+left is ...1540
+rigth is ...1541
+value of k is 1540
+left is ...3080
+rigth is ...3081
+value of k is 1541
+left is ...3082
+rigth is ...3083
+value of k is 771
+left is ...1542
+rigth is ...1543
+value of k is 1542
+left is ...3084
+rigth is ...3085
+value of k is 1543
+left is ...3086
+rigth is ...3087
+value of k is 193
+left is ...386
+rigth is ...387
+value of k is 386
+left is ...772
+rigth is ...773
+value of k is 772
+left is ...1544
+rigth is ...1545
+value of k is 1544
+left is ...3088
+rigth is ...3089
+value of k is 1545
+left is ...3090
+rigth is ...3091
+value of k is 773
+left is ...1546
+rigth is ...1547
+value of k is 1546
+left is ...3092
+rigth is ...3093
+value of k is 1547
+left is ...3094
+rigth is ...3095
+value of k is 387
+left is ...774
+rigth is ...775
+value of k is 774
+left is ...1548
+rigth is ...1549
+value of k is 1548
+left is ...3096
+rigth is ...3097
+value of k is 1549
+left is ...3098
+rigth is ...3099
+value of k is 775
+left is ...1550
+rigth is ...1551
+value of k is 1550
+left is ...3100
+rigth is ...3101
+value of k is 1551
+left is ...3102
+rigth is ...3103
+value of k is 97
+left is ...194
+rigth is ...195
+value of k is 194
+left is ...388
+rigth is ...389
+value of k is 388
+left is ...776
+rigth is ...777
+value of k is 776
+left is ...1552
+rigth is ...1553
+value of k is 1552
+left is ...3104
+rigth is ...3105
+value of k is 1553
+left is ...3106
+rigth is ...3107
+value of k is 777
+left is ...1554
+rigth is ...1555
+value of k is 1554
+left is ...3108
+rigth is ...3109
+value of k is 1555
+left is ...3110
+rigth is ...3111
+value of k is 389
+left is ...778
+rigth is ...779
+value of k is 778
+left is ...1556
+rigth is ...1557
+value of k is 1556
+left is ...3112
+rigth is ...3113
+value of k is 1557
+left is ...3114
+rigth is ...3115
+value of k is 779
+left is ...1558
+rigth is ...1559
+value of k is 1558
+left is ...3116
+rigth is ...3117
+value of k is 1559
+left is ...3118
+rigth is ...3119
+value of k is 195
+left is ...390
+rigth is ...391
+value of k is 390
+left is ...780
+rigth is ...781
+value of k is 780
+left is ...1560
+rigth is ...1561
+value of k is 1560
+left is ...3120
+rigth is ...3121
+value of k is 1561
+left is ...3122
+rigth is ...3123
+value of k is 781
+left is ...1562
+rigth is ...1563
+value of k is 1562
+left is ...3124
+rigth is ...3125
+value of k is 1563
+left is ...3126
+rigth is ...3127
+value of k is 391
+left is ...782
+rigth is ...783
+value of k is 782
+left is ...1564
+rigth is ...1565
+value of k is 1564
+left is ...3128
+rigth is ...3129
+value of k is 1565
+left is ...3130
+rigth is ...3131
+value of k is 783
+left is ...1566
+rigth is ...1567
+value of k is 1566
+left is ...3132
+rigth is ...3133
+value of k is 1567
+left is ...3134
+rigth is ...3135
+value of k is 49
+left is ...98
+rigth is ...99
+value of k is 98
+left is ...196
+rigth is ...197
+value of k is 196
+left is ...392
+rigth is ...393
+value of k is 392
+left is ...784
+rigth is ...785
+value of k is 784
+left is ...1568
+rigth is ...1569
+value of k is 1568
+left is ...3136
+rigth is ...3137
+value of k is 1569
+left is ...3138
+rigth is ...3139
+value of k is 785
+left is ...1570
+rigth is ...1571
+value of k is 1570
+left is ...3140
+rigth is ...3141
+value of k is 1571
+left is ...3142
+rigth is ...3143
+value of k is 393
+left is ...786
+rigth is ...787
+value of k is 786
+left is ...1572
+rigth is ...1573
+value of k is 1572
+left is ...3144
+rigth is ...3145
+value of k is 1573
+left is ...3146
+rigth is ...3147
+value of k is 787
+left is ...1574
+rigth is ...1575
+value of k is 1574
+left is ...3148
+rigth is ...3149
+value of k is 1575
+left is ...3150
+rigth is ...3151
+value of k is 197
+left is ...394
+rigth is ...395
+value of k is 394
+left is ...788
+rigth is ...789
+value of k is 788
+left is ...1576
+rigth is ...1577
+value of k is 1576
+left is ...3152
+rigth is ...3153
+value of k is 1577
+left is ...3154
+rigth is ...3155
+value of k is 789
+left is ...1578
+rigth is ...1579
+value of k is 1578
+left is ...3156
+rigth is ...3157
+value of k is 1579
+left is ...3158
+rigth is ...3159
+value of k is 395
+left is ...790
+rigth is ...791
+value of k is 790
+left is ...1580
+rigth is ...1581
+value of k is 1580
+left is ...3160
+rigth is ...3161
+value of k is 1581
+left is ...3162
+rigth is ...3163
+value of k is 791
+left is ...1582
+rigth is ...1583
+value of k is 1582
+left is ...3164
+rigth is ...3165
+value of k is 1583
+left is ...3166
+rigth is ...3167
+value of k is 99
+left is ...198
+rigth is ...199
+value of k is 198
+left is ...396
+rigth is ...397
+value of k is 396
+left is ...792
+rigth is ...793
+value of k is 792
+left is ...1584
+rigth is ...1585
+value of k is 1584
+left is ...3168
+rigth is ...3169
+value of k is 1585
+left is ...3170
+rigth is ...3171
+value of k is 793
+left is ...1586
+rigth is ...1587
+value of k is 1586
+left is ...3172
+rigth is ...3173
+value of k is 1587
+left is ...3174
+rigth is ...3175
+value of k is 397
+left is ...794
+rigth is ...795
+value of k is 794
+left is ...1588
+rigth is ...1589
+value of k is 1588
+left is ...3176
+rigth is ...3177
+value of k is 1589
+left is ...3178
+rigth is ...3179
+value of k is 795
+left is ...1590
+rigth is ...1591
+value of k is 1590
+left is ...3180
+rigth is ...3181
+value of k is 1591
+left is ...3182
+rigth is ...3183
+value of k is 199
+left is ...398
+rigth is ...399
+value of k is 398
+left is ...796
+rigth is ...797
+value of k is 796
+left is ...1592
+rigth is ...1593
+value of k is 1592
+left is ...3184
+rigth is ...3185
+value of k is 1593
+left is ...3186
+rigth is ...3187
+value of k is 797
+left is ...1594
+rigth is ...1595
+value of k is 1594
+left is ...3188
+rigth is ...3189
+value of k is 1595
+left is ...3190
+rigth is ...3191
+value of k is 399
+left is ...798
+rigth is ...799
+value of k is 798
+left is ...1596
+rigth is ...1597
+value of k is 1596
+left is ...3192
+rigth is ...3193
+value of k is 1597
+left is ...3194
+rigth is ...3195
+value of k is 799
+left is ...1598
+rigth is ...1599
+value of k is 1598
+left is ...3196
+rigth is ...3197
+value of k is 1599
+left is ...3198
+rigth is ...3199
+value of k is 25
+left is ...50
+rigth is ...51
+value of k is 50
+left is ...100
+rigth is ...101
+value of k is 100
+left is ...200
+rigth is ...201
+value of k is 200
+left is ...400
+rigth is ...401
+value of k is 400
+left is ...800
+rigth is ...801
+value of k is 800
+left is ...1600
+rigth is ...1601
+value of k is 1600
+left is ...3200
+rigth is ...3201
+value of k is 1601
+left is ...3202
+rigth is ...3203
+value of k is 801
+left is ...1602
+rigth is ...1603
+value of k is 1602
+left is ...3204
+rigth is ...3205
+value of k is 1603
+left is ...3206
+rigth is ...3207
+value of k is 401
+left is ...802
+rigth is ...803
+value of k is 802
+left is ...1604
+rigth is ...1605
+value of k is 1604
+left is ...3208
+rigth is ...3209
+value of k is 1605
+left is ...3210
+rigth is ...3211
+value of k is 803
+left is ...1606
+rigth is ...1607
+value of k is 1606
+left is ...3212
+rigth is ...3213
+value of k is 1607
+left is ...3214
+rigth is ...3215
+value of k is 201
+left is ...402
+rigth is ...403
+value of k is 402
+left is ...804
+rigth is ...805
+value of k is 804
+left is ...1608
+rigth is ...1609
+value of k is 1608
+left is ...3216
+rigth is ...3217
+value of k is 1609
+left is ...3218
+rigth is ...3219
+value of k is 805
+left is ...1610
+rigth is ...1611
+value of k is 1610
+left is ...3220
+rigth is ...3221
+value of k is 1611
+left is ...3222
+rigth is ...3223
+value of k is 403
+left is ...806
+rigth is ...807
+value of k is 806
+left is ...1612
+rigth is ...1613
+value of k is 1612
+left is ...3224
+rigth is ...3225
+value of k is 1613
+left is ...3226
+rigth is ...3227
+value of k is 807
+left is ...1614
+rigth is ...1615
+value of k is 1614
+left is ...3228
+rigth is ...3229
+value of k is 1615
+left is ...3230
+rigth is ...3231
+value of k is 101
+left is ...202
+rigth is ...203
+value of k is 202
+left is ...404
+rigth is ...405
+value of k is 404
+left is ...808
+rigth is ...809
+value of k is 808
+left is ...1616
+rigth is ...1617
+value of k is 1616
+left is ...3232
+rigth is ...3233
+value of k is 1617
+left is ...3234
+rigth is ...3235
+value of k is 809
+left is ...1618
+rigth is ...1619
+value of k is 1618
+left is ...3236
+rigth is ...3237
+value of k is 1619
+left is ...3238
+rigth is ...3239
+value of k is 405
+left is ...810
+rigth is ...811
+value of k is 810
+left is ...1620
+rigth is ...1621
+value of k is 1620
+left is ...3240
+rigth is ...3241
+value of k is 1621
+left is ...3242
+rigth is ...3243
+value of k is 811
+left is ...1622
+rigth is ...1623
+value of k is 1622
+left is ...3244
+rigth is ...3245
+value of k is 1623
+left is ...3246
+rigth is ...3247
+value of k is 203
+left is ...406
+rigth is ...407
+value of k is 406
+left is ...812
+rigth is ...813
+value of k is 812
+left is ...1624
+rigth is ...1625
+value of k is 1624
+left is ...3248
+rigth is ...3249
+value of k is 1625
+left is ...3250
+rigth is ...3251
+value of k is 813
+left is ...1626
+rigth is ...1627
+value of k is 1626
+left is ...3252
+rigth is ...3253
+value of k is 1627
+left is ...3254
+rigth is ...3255
+value of k is 407
+left is ...814
+rigth is ...815
+value of k is 814
+left is ...1628
+rigth is ...1629
+value of k is 1628
+left is ...3256
+rigth is ...3257
+value of k is 1629
+left is ...3258
+rigth is ...3259
+value of k is 815
+left is ...1630
+rigth is ...1631
+value of k is 1630
+left is ...3260
+rigth is ...3261
+value of k is 1631
+left is ...3262
+rigth is ...3263
+value of k is 51
+left is ...102
+rigth is ...103
+value of k is 102
+left is ...204
+rigth is ...205
+value of k is 204
+left is ...408
+rigth is ...409
+value of k is 408
+left is ...816
+rigth is ...817
+value of k is 816
+left is ...1632
+rigth is ...1633
+value of k is 1632
+left is ...3264
+rigth is ...3265
+value of k is 1633
+left is ...3266
+rigth is ...3267
+value of k is 817
+left is ...1634
+rigth is ...1635
+value of k is 1634
+left is ...3268
+rigth is ...3269
+value of k is 1635
+left is ...3270
+rigth is ...3271
+value of k is 409
+left is ...818
+rigth is ...819
+value of k is 818
+left is ...1636
+rigth is ...1637
+value of k is 1636
+left is ...3272
+rigth is ...3273
+value of k is 1637
+left is ...3274
+rigth is ...3275
+value of k is 819
+left is ...1638
+rigth is ...1639
+value of k is 1638
+left is ...3276
+rigth is ...3277
+value of k is 1639
+left is ...3278
+rigth is ...3279
+value of k is 205
+left is ...410
+rigth is ...411
+value of k is 410
+left is ...820
+rigth is ...821
+value of k is 820
+left is ...1640
+rigth is ...1641
+value of k is 1640
+left is ...3280
+rigth is ...3281
+value of k is 1641
+left is ...3282
+rigth is ...3283
+value of k is 821
+left is ...1642
+rigth is ...1643
+value of k is 1642
+left is ...3284
+rigth is ...3285
+value of k is 1643
+left is ...3286
+rigth is ...3287
+value of k is 411
+left is ...822
+rigth is ...823
+value of k is 822
+left is ...1644
+rigth is ...1645
+value of k is 1644
+left is ...3288
+rigth is ...3289
+value of k is 1645
+left is ...3290
+rigth is ...3291
+value of k is 823
+left is ...1646
+rigth is ...1647
+value of k is 1646
+left is ...3292
+rigth is ...3293
+value of k is 1647
+left is ...3294
+rigth is ...3295
+value of k is 103
+left is ...206
+rigth is ...207
+value of k is 206
+left is ...412
+rigth is ...413
+value of k is 412
+left is ...824
+rigth is ...825
+value of k is 824
+left is ...1648
+rigth is ...1649
+value of k is 1648
+left is ...3296
+rigth is ...3297
+value of k is 1649
+left is ...3298
+rigth is ...3299
+value of k is 825
+left is ...1650
+rigth is ...1651
+value of k is 1650
+left is ...3300
+rigth is ...3301
+value of k is 1651
+left is ...3302
+rigth is ...3303
+value of k is 413
+left is ...826
+rigth is ...827
+value of k is 826
+left is ...1652
+rigth is ...1653
+value of k is 1652
+left is ...3304
+rigth is ...3305
+value of k is 1653
+left is ...3306
+rigth is ...3307
+value of k is 827
+left is ...1654
+rigth is ...1655
+value of k is 1654
+left is ...3308
+rigth is ...3309
+value of k is 1655
+left is ...3310
+rigth is ...3311
+value of k is 207
+left is ...414
+rigth is ...415
+value of k is 414
+left is ...828
+rigth is ...829
+value of k is 828
+left is ...1656
+rigth is ...1657
+value of k is 1656
+left is ...3312
+rigth is ...3313
+value of k is 1657
+left is ...3314
+rigth is ...3315
+value of k is 829
+left is ...1658
+rigth is ...1659
+value of k is 1658
+left is ...3316
+rigth is ...3317
+value of k is 1659
+left is ...3318
+rigth is ...3319
+value of k is 415
+left is ...830
+rigth is ...831
+value of k is 830
+left is ...1660
+rigth is ...1661
+value of k is 1660
+left is ...3320
+rigth is ...3321
+value of k is 1661
+left is ...3322
+rigth is ...3323
+value of k is 831
+left is ...1662
+rigth is ...1663
+value of k is 1662
+left is ...3324
+rigth is ...3325
+value of k is 1663
+left is ...3326
+rigth is ...3327
+value of k is 13
+left is ...26
+rigth is ...27
+value of k is 26
+left is ...52
+rigth is ...53
+value of k is 52
+left is ...104
+rigth is ...105
+value of k is 104
+left is ...208
+rigth is ...209
+value of k is 208
+left is ...416
+rigth is ...417
+value of k is 416
+left is ...832
+rigth is ...833
+value of k is 832
+left is ...1664
+rigth is ...1665
+value of k is 1664
+left is ...3328
+rigth is ...3329
+value of k is 1665
+left is ...3330
+rigth is ...3331
+value of k is 833
+left is ...1666
+rigth is ...1667
+value of k is 1666
+left is ...3332
+rigth is ...3333
+value of k is 1667
+left is ...3334
+rigth is ...3335
+value of k is 417
+left is ...834
+rigth is ...835
+value of k is 834
+left is ...1668
+rigth is ...1669
+value of k is 1668
+left is ...3336
+rigth is ...3337
+value of k is 1669
+left is ...3338
+rigth is ...3339
+value of k is 835
+left is ...1670
+rigth is ...1671
+value of k is 1670
+left is ...3340
+rigth is ...3341
+value of k is 1671
+left is ...3342
+rigth is ...3343
+value of k is 209
+left is ...418
+rigth is ...419
+value of k is 418
+left is ...836
+rigth is ...837
+value of k is 836
+left is ...1672
+rigth is ...1673
+value of k is 1672
+left is ...3344
+rigth is ...3345
+value of k is 1673
+left is ...3346
+rigth is ...3347
+value of k is 837
+left is ...1674
+rigth is ...1675
+value of k is 1674
+left is ...3348
+rigth is ...3349
+value of k is 1675
+left is ...3350
+rigth is ...3351
+value of k is 419
+left is ...838
+rigth is ...839
+value of k is 838
+left is ...1676
+rigth is ...1677
+value of k is 1676
+left is ...3352
+rigth is ...3353
+value of k is 1677
+left is ...3354
+rigth is ...3355
+value of k is 839
+left is ...1678
+rigth is ...1679
+value of k is 1678
+left is ...3356
+rigth is ...3357
+value of k is 1679
+left is ...3358
+rigth is ...3359
+value of k is 105
+left is ...210
+rigth is ...211
+value of k is 210
+left is ...420
+rigth is ...421
+value of k is 420
+left is ...840
+rigth is ...841
+value of k is 840
+left is ...1680
+rigth is ...1681
+value of k is 1680
+left is ...3360
+rigth is ...3361
+value of k is 1681
+left is ...3362
+rigth is ...3363
+value of k is 841
+left is ...1682
+rigth is ...1683
+value of k is 1682
+left is ...3364
+rigth is ...3365
+value of k is 1683
+left is ...3366
+rigth is ...3367
+value of k is 421
+left is ...842
+rigth is ...843
+value of k is 842
+left is ...1684
+rigth is ...1685
+value of k is 1684
+left is ...3368
+rigth is ...3369
+value of k is 1685
+left is ...3370
+rigth is ...3371
+value of k is 843
+left is ...1686
+rigth is ...1687
+value of k is 1686
+left is ...3372
+rigth is ...3373
+value of k is 1687
+left is ...3374
+rigth is ...3375
+value of k is 211
+left is ...422
+rigth is ...423
+value of k is 422
+left is ...844
+rigth is ...845
+value of k is 844
+left is ...1688
+rigth is ...1689
+value of k is 1688
+left is ...3376
+rigth is ...3377
+value of k is 1689
+left is ...3378
+rigth is ...3379
+value of k is 845
+left is ...1690
+rigth is ...1691
+value of k is 1690
+left is ...3380
+rigth is ...3381
+value of k is 1691
+left is ...3382
+rigth is ...3383
+value of k is 423
+left is ...846
+rigth is ...847
+value of k is 846
+left is ...1692
+rigth is ...1693
+value of k is 1692
+left is ...3384
+rigth is ...3385
+value of k is 1693
+left is ...3386
+rigth is ...3387
+value of k is 847
+left is ...1694
+rigth is ...1695
+value of k is 1694
+left is ...3388
+rigth is ...3389
+value of k is 1695
+left is ...3390
+rigth is ...3391
+value of k is 53
+left is ...106
+rigth is ...107
+value of k is 106
+left is ...212
+rigth is ...213
+value of k is 212
+left is ...424
+rigth is ...425
+value of k is 424
+left is ...848
+rigth is ...849
+value of k is 848
+left is ...1696
+rigth is ...1697
+value of k is 1696
+left is ...3392
+rigth is ...3393
+value of k is 1697
+left is ...3394
+rigth is ...3395
+value of k is 849
+left is ...1698
+rigth is ...1699
+value of k is 1698
+left is ...3396
+rigth is ...3397
+value of k is 1699
+left is ...3398
+rigth is ...3399
+value of k is 425
+left is ...850
+rigth is ...851
+value of k is 850
+left is ...1700
+rigth is ...1701
+value of k is 1700
+left is ...3400
+rigth is ...3401
+value of k is 1701
+left is ...3402
+rigth is ...3403
+value of k is 851
+left is ...1702
+rigth is ...1703
+value of k is 1702
+left is ...3404
+rigth is ...3405
+value of k is 1703
+left is ...3406
+rigth is ...3407
+value of k is 213
+left is ...426
+rigth is ...427
+value of k is 426
+left is ...852
+rigth is ...853
+value of k is 852
+left is ...1704
+rigth is ...1705
+value of k is 1704
+left is ...3408
+rigth is ...3409
+value of k is 1705
+left is ...3410
+rigth is ...3411
+value of k is 853
+left is ...1706
+rigth is ...1707
+value of k is 1706
+left is ...3412
+rigth is ...3413
+value of k is 1707
+left is ...3414
+rigth is ...3415
+value of k is 427
+left is ...854
+rigth is ...855
+value of k is 854
+left is ...1708
+rigth is ...1709
+value of k is 1708
+left is ...3416
+rigth is ...3417
+value of k is 1709
+left is ...3418
+rigth is ...3419
+value of k is 855
+left is ...1710
+rigth is ...1711
+value of k is 1710
+left is ...3420
+rigth is ...3421
+value of k is 1711
+left is ...3422
+rigth is ...3423
+value of k is 107
+left is ...214
+rigth is ...215
+value of k is 214
+left is ...428
+rigth is ...429
+value of k is 428
+left is ...856
+rigth is ...857
+value of k is 856
+left is ...1712
+rigth is ...1713
+value of k is 1712
+left is ...3424
+rigth is ...3425
+value of k is 1713
+left is ...3426
+rigth is ...3427
+value of k is 857
+left is ...1714
+rigth is ...1715
+value of k is 1714
+left is ...3428
+rigth is ...3429
+value of k is 1715
+left is ...3430
+rigth is ...3431
+value of k is 429
+left is ...858
+rigth is ...859
+value of k is 858
+left is ...1716
+rigth is ...1717
+value of k is 1716
+left is ...3432
+rigth is ...3433
+value of k is 1717
+left is ...3434
+rigth is ...3435
+value of k is 859
+left is ...1718
+rigth is ...1719
+value of k is 1718
+left is ...3436
+rigth is ...3437
+value of k is 1719
+left is ...3438
+rigth is ...3439
+value of k is 215
+left is ...430
+rigth is ...431
+value of k is 430
+left is ...860
+rigth is ...861
+value of k is 860
+left is ...1720
+rigth is ...1721
+value of k is 1720
+left is ...3440
+rigth is ...3441
+value of k is 1721
+left is ...3442
+rigth is ...3443
+value of k is 861
+left is ...1722
+rigth is ...1723
+value of k is 1722
+left is ...3444
+rigth is ...3445
+value of k is 1723
+left is ...3446
+rigth is ...3447
+value of k is 431
+left is ...862
+rigth is ...863
+value of k is 862
+left is ...1724
+rigth is ...1725
+value of k is 1724
+left is ...3448
+rigth is ...3449
+value of k is 1725
+left is ...3450
+rigth is ...3451
+value of k is 863
+left is ...1726
+rigth is ...1727
+value of k is 1726
+left is ...3452
+rigth is ...3453
+value of k is 1727
+left is ...3454
+rigth is ...3455
+value of k is 27
+left is ...54
+rigth is ...55
+value of k is 54
+left is ...108
+rigth is ...109
+value of k is 108
+left is ...216
+rigth is ...217
+value of k is 216
+left is ...432
+rigth is ...433
+value of k is 432
+left is ...864
+rigth is ...865
+value of k is 864
+left is ...1728
+rigth is ...1729
+value of k is 1728
+left is ...3456
+rigth is ...3457
+value of k is 1729
+left is ...3458
+rigth is ...3459
+value of k is 865
+left is ...1730
+rigth is ...1731
+value of k is 1730
+left is ...3460
+rigth is ...3461
+value of k is 1731
+left is ...3462
+rigth is ...3463
+value of k is 433
+left is ...866
+rigth is ...867
+value of k is 866
+left is ...1732
+rigth is ...1733
+value of k is 1732
+left is ...3464
+rigth is ...3465
+value of k is 1733
+left is ...3466
+rigth is ...3467
+value of k is 867
+left is ...1734
+rigth is ...1735
+value of k is 1734
+left is ...3468
+rigth is ...3469
+value of k is 1735
+left is ...3470
+rigth is ...3471
+value of k is 217
+left is ...434
+rigth is ...435
+value of k is 434
+left is ...868
+rigth is ...869
+value of k is 868
+left is ...1736
+rigth is ...1737
+value of k is 1736
+left is ...3472
+rigth is ...3473
+value of k is 1737
+left is ...3474
+rigth is ...3475
+value of k is 869
+left is ...1738
+rigth is ...1739
+value of k is 1738
+left is ...3476
+rigth is ...3477
+value of k is 1739
+left is ...3478
+rigth is ...3479
+value of k is 435
+left is ...870
+rigth is ...871
+value of k is 870
+left is ...1740
+rigth is ...1741
+value of k is 1740
+left is ...3480
+rigth is ...3481
+value of k is 1741
+left is ...3482
+rigth is ...3483
+value of k is 871
+left is ...1742
+rigth is ...1743
+value of k is 1742
+left is ...3484
+rigth is ...3485
+value of k is 1743
+left is ...3486
+rigth is ...3487
+value of k is 109
+left is ...218
+rigth is ...219
+value of k is 218
+left is ...436
+rigth is ...437
+value of k is 436
+left is ...872
+rigth is ...873
+value of k is 872
+left is ...1744
+rigth is ...1745
+value of k is 1744
+left is ...3488
+rigth is ...3489
+value of k is 1745
+left is ...3490
+rigth is ...3491
+value of k is 873
+left is ...1746
+rigth is ...1747
+value of k is 1746
+left is ...3492
+rigth is ...3493
+value of k is 1747
+left is ...3494
+rigth is ...3495
+value of k is 437
+left is ...874
+rigth is ...875
+value of k is 874
+left is ...1748
+rigth is ...1749
+value of k is 1748
+left is ...3496
+rigth is ...3497
+value of k is 1749
+left is ...3498
+rigth is ...3499
+value of k is 875
+left is ...1750
+rigth is ...1751
+value of k is 1750
+left is ...3500
+rigth is ...3501
+value of k is 1751
+left is ...3502
+rigth is ...3503
+value of k is 219
+left is ...438
+rigth is ...439
+value of k is 438
+left is ...876
+rigth is ...877
+value of k is 876
+left is ...1752
+rigth is ...1753
+value of k is 1752
+left is ...3504
+rigth is ...3505
+value of k is 1753
+left is ...3506
+rigth is ...3507
+value of k is 877
+left is ...1754
+rigth is ...1755
+value of k is 1754
+left is ...3508
+rigth is ...3509
+value of k is 1755
+left is ...3510
+rigth is ...3511
+value of k is 439
+left is ...878
+rigth is ...879
+value of k is 878
+left is ...1756
+rigth is ...1757
+value of k is 1756
+left is ...3512
+rigth is ...3513
+value of k is 1757
+left is ...3514
+rigth is ...3515
+value of k is 879
+left is ...1758
+rigth is ...1759
+value of k is 1758
+left is ...3516
+rigth is ...3517
+value of k is 1759
+left is ...3518
+rigth is ...3519
+value of k is 55
+left is ...110
+rigth is ...111
+value of k is 110
+left is ...220
+rigth is ...221
+value of k is 220
+left is ...440
+rigth is ...441
+value of k is 440
+left is ...880
+rigth is ...881
+value of k is 880
+left is ...1760
+rigth is ...1761
+value of k is 1760
+left is ...3520
+rigth is ...3521
+value of k is 1761
+left is ...3522
+rigth is ...3523
+value of k is 881
+left is ...1762
+rigth is ...1763
+value of k is 1762
+left is ...3524
+rigth is ...3525
+value of k is 1763
+left is ...3526
+rigth is ...3527
+value of k is 441
+left is ...882
+rigth is ...883
+value of k is 882
+left is ...1764
+rigth is ...1765
+value of k is 1764
+left is ...3528
+rigth is ...3529
+value of k is 1765
+left is ...3530
+rigth is ...3531
+value of k is 883
+left is ...1766
+rigth is ...1767
+value of k is 1766
+left is ...3532
+rigth is ...3533
+value of k is 1767
+left is ...3534
+rigth is ...3535
+value of k is 221
+left is ...442
+rigth is ...443
+value of k is 442
+left is ...884
+rigth is ...885
+value of k is 884
+left is ...1768
+rigth is ...1769
+value of k is 1768
+left is ...3536
+rigth is ...3537
+value of k is 1769
+left is ...3538
+rigth is ...3539
+value of k is 885
+left is ...1770
+rigth is ...1771
+value of k is 1770
+left is ...3540
+rigth is ...3541
+value of k is 1771
+left is ...3542
+rigth is ...3543
+value of k is 443
+left is ...886
+rigth is ...887
+value of k is 886
+left is ...1772
+rigth is ...1773
+value of k is 1772
+left is ...3544
+rigth is ...3545
+value of k is 1773
+left is ...3546
+rigth is ...3547
+value of k is 887
+left is ...1774
+rigth is ...1775
+value of k is 1774
+left is ...3548
+rigth is ...3549
+value of k is 1775
+left is ...3550
+rigth is ...3551
+value of k is 111
+left is ...222
+rigth is ...223
+value of k is 222
+left is ...444
+rigth is ...445
+value of k is 444
+left is ...888
+rigth is ...889
+value of k is 888
+left is ...1776
+rigth is ...1777
+value of k is 1776
+left is ...3552
+rigth is ...3553
+value of k is 1777
+left is ...3554
+rigth is ...3555
+value of k is 889
+left is ...1778
+rigth is ...1779
+value of k is 1778
+left is ...3556
+rigth is ...3557
+value of k is 1779
+left is ...3558
+rigth is ...3559
+value of k is 445
+left is ...890
+rigth is ...891
+value of k is 890
+left is ...1780
+rigth is ...1781
+value of k is 1780
+left is ...3560
+rigth is ...3561
+value of k is 1781
+left is ...3562
+rigth is ...3563
+value of k is 891
+left is ...1782
+rigth is ...1783
+value of k is 1782
+left is ...3564
+rigth is ...3565
+value of k is 1783
+left is ...3566
+rigth is ...3567
+value of k is 223
+left is ...446
+rigth is ...447
+value of k is 446
+left is ...892
+rigth is ...893
+value of k is 892
+left is ...1784
+rigth is ...1785
+value of k is 1784
+left is ...3568
+rigth is ...3569
+value of k is 1785
+left is ...3570
+rigth is ...3571
+value of k is 893
+left is ...1786
+rigth is ...1787
+value of k is 1786
+left is ...3572
+rigth is ...3573
+value of k is 1787
+left is ...3574
+rigth is ...3575
+value of k is 447
+left is ...894
+rigth is ...895
+value of k is 894
+left is ...1788
+rigth is ...1789
+value of k is 1788
+left is ...3576
+rigth is ...3577
+value of k is 1789
+left is ...3578
+rigth is ...3579
+value of k is 895
+left is ...1790
+rigth is ...1791
+value of k is 1790
+left is ...3580
+rigth is ...3581
+value of k is 1791
+left is ...3582
+rigth is ...3583
+value of k is 7
+left is ...14
+rigth is ...15
+value of k is 14
+left is ...28
+rigth is ...29
+value of k is 28
+left is ...56
+rigth is ...57
+value of k is 56
+left is ...112
+rigth is ...113
+value of k is 112
+left is ...224
+rigth is ...225
+value of k is 224
+left is ...448
+rigth is ...449
+value of k is 448
+left is ...896
+rigth is ...897
+value of k is 896
+left is ...1792
+rigth is ...1793
+value of k is 1792
+left is ...3584
+rigth is ...3585
+value of k is 1793
+left is ...3586
+rigth is ...3587
+value of k is 897
+left is ...1794
+rigth is ...1795
+value of k is 1794
+left is ...3588
+rigth is ...3589
+value of k is 1795
+left is ...3590
+rigth is ...3591
+value of k is 449
+left is ...898
+rigth is ...899
+value of k is 898
+left is ...1796
+rigth is ...1797
+value of k is 1796
+left is ...3592
+rigth is ...3593
+value of k is 1797
+left is ...3594
+rigth is ...3595
+value of k is 899
+left is ...1798
+rigth is ...1799
+value of k is 1798
+left is ...3596
+rigth is ...3597
+value of k is 1799
+left is ...3598
+rigth is ...3599
+value of k is 225
+left is ...450
+rigth is ...451
+value of k is 450
+left is ...900
+rigth is ...901
+value of k is 900
+left is ...1800
+rigth is ...1801
+value of k is 1800
+left is ...3600
+rigth is ...3601
+value of k is 1801
+left is ...3602
+rigth is ...3603
+value of k is 901
+left is ...1802
+rigth is ...1803
+value of k is 1802
+left is ...3604
+rigth is ...3605
+value of k is 1803
+left is ...3606
+rigth is ...3607
+value of k is 451
+left is ...902
+rigth is ...903
+value of k is 902
+left is ...1804
+rigth is ...1805
+value of k is 1804
+left is ...3608
+rigth is ...3609
+value of k is 1805
+left is ...3610
+rigth is ...3611
+value of k is 903
+left is ...1806
+rigth is ...1807
+value of k is 1806
+left is ...3612
+rigth is ...3613
+value of k is 1807
+left is ...3614
+rigth is ...3615
+value of k is 113
+left is ...226
+rigth is ...227
+value of k is 226
+left is ...452
+rigth is ...453
+value of k is 452
+left is ...904
+rigth is ...905
+value of k is 904
+left is ...1808
+rigth is ...1809
+value of k is 1808
+left is ...3616
+rigth is ...3617
+value of k is 1809
+left is ...3618
+rigth is ...3619
+value of k is 905
+left is ...1810
+rigth is ...1811
+value of k is 1810
+left is ...3620
+rigth is ...3621
+value of k is 1811
+left is ...3622
+rigth is ...3623
+value of k is 453
+left is ...906
+rigth is ...907
+value of k is 906
+left is ...1812
+rigth is ...1813
+value of k is 1812
+left is ...3624
+rigth is ...3625
+value of k is 1813
+left is ...3626
+rigth is ...3627
+value of k is 907
+left is ...1814
+rigth is ...1815
+value of k is 1814
+left is ...3628
+rigth is ...3629
+value of k is 1815
+left is ...3630
+rigth is ...3631
+value of k is 227
+left is ...454
+rigth is ...455
+value of k is 454
+left is ...908
+rigth is ...909
+value of k is 908
+left is ...1816
+rigth is ...1817
+value of k is 1816
+left is ...3632
+rigth is ...3633
+value of k is 1817
+left is ...3634
+rigth is ...3635
+value of k is 909
+left is ...1818
+rigth is ...1819
+value of k is 1818
+left is ...3636
+rigth is ...3637
+value of k is 1819
+left is ...3638
+rigth is ...3639
+value of k is 455
+left is ...910
+rigth is ...911
+value of k is 910
+left is ...1820
+rigth is ...1821
+value of k is 1820
+left is ...3640
+rigth is ...3641
+value of k is 1821
+left is ...3642
+rigth is ...3643
+value of k is 911
+left is ...1822
+rigth is ...1823
+value of k is 1822
+left is ...3644
+rigth is ...3645
+value of k is 1823
+left is ...3646
+rigth is ...3647
+value of k is 57
+left is ...114
+rigth is ...115
+value of k is 114
+left is ...228
+rigth is ...229
+value of k is 228
+left is ...456
+rigth is ...457
+value of k is 456
+left is ...912
+rigth is ...913
+value of k is 912
+left is ...1824
+rigth is ...1825
+value of k is 1824
+left is ...3648
+rigth is ...3649
+value of k is 1825
+left is ...3650
+rigth is ...3651
+value of k is 913
+left is ...1826
+rigth is ...1827
+value of k is 1826
+left is ...3652
+rigth is ...3653
+value of k is 1827
+left is ...3654
+rigth is ...3655
+value of k is 457
+left is ...914
+rigth is ...915
+value of k is 914
+left is ...1828
+rigth is ...1829
+value of k is 1828
+left is ...3656
+rigth is ...3657
+value of k is 1829
+left is ...3658
+rigth is ...3659
+value of k is 915
+left is ...1830
+rigth is ...1831
+value of k is 1830
+left is ...3660
+rigth is ...3661
+value of k is 1831
+left is ...3662
+rigth is ...3663
+value of k is 229
+left is ...458
+rigth is ...459
+value of k is 458
+left is ...916
+rigth is ...917
+value of k is 916
+left is ...1832
+rigth is ...1833
+value of k is 1832
+left is ...3664
+rigth is ...3665
+value of k is 1833
+left is ...3666
+rigth is ...3667
+value of k is 917
+left is ...1834
+rigth is ...1835
+value of k is 1834
+left is ...3668
+rigth is ...3669
+value of k is 1835
+left is ...3670
+rigth is ...3671
+value of k is 459
+left is ...918
+rigth is ...919
+value of k is 918
+left is ...1836
+rigth is ...1837
+value of k is 1836
+left is ...3672
+rigth is ...3673
+value of k is 1837
+left is ...3674
+rigth is ...3675
+value of k is 919
+left is ...1838
+rigth is ...1839
+value of k is 1838
+left is ...3676
+rigth is ...3677
+value of k is 1839
+left is ...3678
+rigth is ...3679
+value of k is 115
+left is ...230
+rigth is ...231
+value of k is 230
+left is ...460
+rigth is ...461
+value of k is 460
+left is ...920
+rigth is ...921
+value of k is 920
+left is ...1840
+rigth is ...1841
+value of k is 1840
+left is ...3680
+rigth is ...3681
+value of k is 1841
+left is ...3682
+rigth is ...3683
+value of k is 921
+left is ...1842
+rigth is ...1843
+value of k is 1842
+left is ...3684
+rigth is ...3685
+value of k is 1843
+left is ...3686
+rigth is ...3687
+value of k is 461
+left is ...922
+rigth is ...923
+value of k is 922
+left is ...1844
+rigth is ...1845
+value of k is 1844
+left is ...3688
+rigth is ...3689
+value of k is 1845
+left is ...3690
+rigth is ...3691
+value of k is 923
+left is ...1846
+rigth is ...1847
+value of k is 1846
+left is ...3692
+rigth is ...3693
+value of k is 1847
+left is ...3694
+rigth is ...3695
+value of k is 231
+left is ...462
+rigth is ...463
+value of k is 462
+left is ...924
+rigth is ...925
+value of k is 924
+left is ...1848
+rigth is ...1849
+value of k is 1848
+left is ...3696
+rigth is ...3697
+value of k is 1849
+left is ...3698
+rigth is ...3699
+value of k is 925
+left is ...1850
+rigth is ...1851
+value of k is 1850
+left is ...3700
+rigth is ...3701
+value of k is 1851
+left is ...3702
+rigth is ...3703
+value of k is 463
+left is ...926
+rigth is ...927
+value of k is 926
+left is ...1852
+rigth is ...1853
+value of k is 1852
+left is ...3704
+rigth is ...3705
+value of k is 1853
+left is ...3706
+rigth is ...3707
+value of k is 927
+left is ...1854
+rigth is ...1855
+value of k is 1854
+left is ...3708
+rigth is ...3709
+value of k is 1855
+left is ...3710
+rigth is ...3711
+value of k is 29
+left is ...58
+rigth is ...59
+value of k is 58
+left is ...116
+rigth is ...117
+value of k is 116
+left is ...232
+rigth is ...233
+value of k is 232
+left is ...464
+rigth is ...465
+value of k is 464
+left is ...928
+rigth is ...929
+value of k is 928
+left is ...1856
+rigth is ...1857
+value of k is 1856
+left is ...3712
+rigth is ...3713
+value of k is 1857
+left is ...3714
+rigth is ...3715
+value of k is 929
+left is ...1858
+rigth is ...1859
+value of k is 1858
+left is ...3716
+rigth is ...3717
+value of k is 1859
+left is ...3718
+rigth is ...3719
+value of k is 465
+left is ...930
+rigth is ...931
+value of k is 930
+left is ...1860
+rigth is ...1861
+value of k is 1860
+left is ...3720
+rigth is ...3721
+value of k is 1861
+left is ...3722
+rigth is ...3723
+value of k is 931
+left is ...1862
+rigth is ...1863
+value of k is 1862
+left is ...3724
+rigth is ...3725
+value of k is 1863
+left is ...3726
+rigth is ...3727
+value of k is 233
+left is ...466
+rigth is ...467
+value of k is 466
+left is ...932
+rigth is ...933
+value of k is 932
+left is ...1864
+rigth is ...1865
+value of k is 1864
+left is ...3728
+rigth is ...3729
+value of k is 1865
+left is ...3730
+rigth is ...3731
+value of k is 933
+left is ...1866
+rigth is ...1867
+value of k is 1866
+left is ...3732
+rigth is ...3733
+value of k is 1867
+left is ...3734
+rigth is ...3735
+value of k is 467
+left is ...934
+rigth is ...935
+value of k is 934
+left is ...1868
+rigth is ...1869
+value of k is 1868
+left is ...3736
+rigth is ...3737
+value of k is 1869
+left is ...3738
+rigth is ...3739
+value of k is 935
+left is ...1870
+rigth is ...1871
+value of k is 1870
+left is ...3740
+rigth is ...3741
+value of k is 1871
+left is ...3742
+rigth is ...3743
+value of k is 117
+left is ...234
+rigth is ...235
+value of k is 234
+left is ...468
+rigth is ...469
+value of k is 468
+left is ...936
+rigth is ...937
+value of k is 936
+left is ...1872
+rigth is ...1873
+value of k is 1872
+left is ...3744
+rigth is ...3745
+value of k is 1873
+left is ...3746
+rigth is ...3747
+value of k is 937
+left is ...1874
+rigth is ...1875
+value of k is 1874
+left is ...3748
+rigth is ...3749
+value of k is 1875
+left is ...3750
+rigth is ...3751
+value of k is 469
+left is ...938
+rigth is ...939
+value of k is 938
+left is ...1876
+rigth is ...1877
+value of k is 1876
+left is ...3752
+rigth is ...3753
+value of k is 1877
+left is ...3754
+rigth is ...3755
+value of k is 939
+left is ...1878
+rigth is ...1879
+value of k is 1878
+left is ...3756
+rigth is ...3757
+value of k is 1879
+left is ...3758
+rigth is ...3759
+value of k is 235
+left is ...470
+rigth is ...471
+value of k is 470
+left is ...940
+rigth is ...941
+value of k is 940
+left is ...1880
+rigth is ...1881
+value of k is 1880
+left is ...3760
+rigth is ...3761
+value of k is 1881
+left is ...3762
+rigth is ...3763
+value of k is 941
+left is ...1882
+rigth is ...1883
+value of k is 1882
+left is ...3764
+rigth is ...3765
+value of k is 1883
+left is ...3766
+rigth is ...3767
+value of k is 471
+left is ...942
+rigth is ...943
+value of k is 942
+left is ...1884
+rigth is ...1885
+value of k is 1884
+left is ...3768
+rigth is ...3769
+value of k is 1885
+left is ...3770
+rigth is ...3771
+value of k is 943
+left is ...1886
+rigth is ...1887
+value of k is 1886
+left is ...3772
+rigth is ...3773
+value of k is 1887
+left is ...3774
+rigth is ...3775
+value of k is 59
+left is ...118
+rigth is ...119
+value of k is 118
+left is ...236
+rigth is ...237
+value of k is 236
+left is ...472
+rigth is ...473
+value of k is 472
+left is ...944
+rigth is ...945
+value of k is 944
+left is ...1888
+rigth is ...1889
+value of k is 1888
+left is ...3776
+rigth is ...3777
+value of k is 1889
+left is ...3778
+rigth is ...3779
+value of k is 945
+left is ...1890
+rigth is ...1891
+value of k is 1890
+left is ...3780
+rigth is ...3781
+value of k is 1891
+left is ...3782
+rigth is ...3783
+value of k is 473
+left is ...946
+rigth is ...947
+value of k is 946
+left is ...1892
+rigth is ...1893
+value of k is 1892
+left is ...3784
+rigth is ...3785
+value of k is 1893
+left is ...3786
+rigth is ...3787
+value of k is 947
+left is ...1894
+rigth is ...1895
+value of k is 1894
+left is ...3788
+rigth is ...3789
+value of k is 1895
+left is ...3790
+rigth is ...3791
+value of k is 237
+left is ...474
+rigth is ...475
+value of k is 474
+left is ...948
+rigth is ...949
+value of k is 948
+left is ...1896
+rigth is ...1897
+value of k is 1896
+left is ...3792
+rigth is ...3793
+value of k is 1897
+left is ...3794
+rigth is ...3795
+value of k is 949
+left is ...1898
+rigth is ...1899
+value of k is 1898
+left is ...3796
+rigth is ...3797
+value of k is 1899
+left is ...3798
+rigth is ...3799
+value of k is 475
+left is ...950
+rigth is ...951
+value of k is 950
+left is ...1900
+rigth is ...1901
+value of k is 1900
+left is ...3800
+rigth is ...3801
+value of k is 1901
+left is ...3802
+rigth is ...3803
+value of k is 951
+left is ...1902
+rigth is ...1903
+value of k is 1902
+left is ...3804
+rigth is ...3805
+value of k is 1903
+left is ...3806
+rigth is ...3807
+value of k is 119
+left is ...238
+rigth is ...239
+value of k is 238
+left is ...476
+rigth is ...477
+value of k is 476
+left is ...952
+rigth is ...953
+value of k is 952
+left is ...1904
+rigth is ...1905
+value of k is 1904
+left is ...3808
+rigth is ...3809
+value of k is 1905
+left is ...3810
+rigth is ...3811
+value of k is 953
+left is ...1906
+rigth is ...1907
+value of k is 1906
+left is ...3812
+rigth is ...3813
+value of k is 1907
+left is ...3814
+rigth is ...3815
+value of k is 477
+left is ...954
+rigth is ...955
+value of k is 954
+left is ...1908
+rigth is ...1909
+value of k is 1908
+left is ...3816
+rigth is ...3817
+value of k is 1909
+left is ...3818
+rigth is ...3819
+value of k is 955
+left is ...1910
+rigth is ...1911
+value of k is 1910
+left is ...3820
+rigth is ...3821
+value of k is 1911
+left is ...3822
+rigth is ...3823
+value of k is 239
+left is ...478
+rigth is ...479
+value of k is 478
+left is ...956
+rigth is ...957
+value of k is 956
+left is ...1912
+rigth is ...1913
+value of k is 1912
+left is ...3824
+rigth is ...3825
+value of k is 1913
+left is ...3826
+rigth is ...3827
+value of k is 957
+left is ...1914
+rigth is ...1915
+value of k is 1914
+left is ...3828
+rigth is ...3829
+value of k is 1915
+left is ...3830
+rigth is ...3831
+value of k is 479
+left is ...958
+rigth is ...959
+value of k is 958
+left is ...1916
+rigth is ...1917
+value of k is 1916
+left is ...3832
+rigth is ...3833
+value of k is 1917
+left is ...3834
+rigth is ...3835
+value of k is 959
+left is ...1918
+rigth is ...1919
+value of k is 1918
+left is ...3836
+rigth is ...3837
+value of k is 1919
+left is ...3838
+rigth is ...3839
+value of k is 15
+left is ...30
+rigth is ...31
+value of k is 30
+left is ...60
+rigth is ...61
+value of k is 60
+left is ...120
+rigth is ...121
+value of k is 120
+left is ...240
+rigth is ...241
+value of k is 240
+left is ...480
+rigth is ...481
+value of k is 480
+left is ...960
+rigth is ...961
+value of k is 960
+left is ...1920
+rigth is ...1921
+value of k is 1920
+left is ...3840
+rigth is ...3841
+value of k is 1921
+left is ...3842
+rigth is ...3843
+value of k is 961
+left is ...1922
+rigth is ...1923
+value of k is 1922
+left is ...3844
+rigth is ...3845
+value of k is 1923
+left is ...3846
+rigth is ...3847
+value of k is 481
+left is ...962
+rigth is ...963
+value of k is 962
+left is ...1924
+rigth is ...1925
+value of k is 1924
+left is ...3848
+rigth is ...3849
+value of k is 1925
+left is ...3850
+rigth is ...3851
+value of k is 963
+left is ...1926
+rigth is ...1927
+value of k is 1926
+left is ...3852
+rigth is ...3853
+value of k is 1927
+left is ...3854
+rigth is ...3855
+value of k is 241
+left is ...482
+rigth is ...483
+value of k is 482
+left is ...964
+rigth is ...965
+value of k is 964
+left is ...1928
+rigth is ...1929
+value of k is 1928
+left is ...3856
+rigth is ...3857
+value of k is 1929
+left is ...3858
+rigth is ...3859
+value of k is 965
+left is ...1930
+rigth is ...1931
+value of k is 1930
+left is ...3860
+rigth is ...3861
+value of k is 1931
+left is ...3862
+rigth is ...3863
+value of k is 483
+left is ...966
+rigth is ...967
+value of k is 966
+left is ...1932
+rigth is ...1933
+value of k is 1932
+left is ...3864
+rigth is ...3865
+value of k is 1933
+left is ...3866
+rigth is ...3867
+value of k is 967
+left is ...1934
+rigth is ...1935
+value of k is 1934
+left is ...3868
+rigth is ...3869
+value of k is 1935
+left is ...3870
+rigth is ...3871
+value of k is 121
+left is ...242
+rigth is ...243
+value of k is 242
+left is ...484
+rigth is ...485
+value of k is 484
+left is ...968
+rigth is ...969
+value of k is 968
+left is ...1936
+rigth is ...1937
+value of k is 1936
+left is ...3872
+rigth is ...3873
+value of k is 1937
+left is ...3874
+rigth is ...3875
+value of k is 969
+left is ...1938
+rigth is ...1939
+value of k is 1938
+left is ...3876
+rigth is ...3877
+value of k is 1939
+left is ...3878
+rigth is ...3879
+value of k is 485
+left is ...970
+rigth is ...971
+value of k is 970
+left is ...1940
+rigth is ...1941
+value of k is 1940
+left is ...3880
+rigth is ...3881
+value of k is 1941
+left is ...3882
+rigth is ...3883
+value of k is 971
+left is ...1942
+rigth is ...1943
+value of k is 1942
+left is ...3884
+rigth is ...3885
+value of k is 1943
+left is ...3886
+rigth is ...3887
+value of k is 243
+left is ...486
+rigth is ...487
+value of k is 486
+left is ...972
+rigth is ...973
+value of k is 972
+left is ...1944
+rigth is ...1945
+value of k is 1944
+left is ...3888
+rigth is ...3889
+value of k is 1945
+left is ...3890
+rigth is ...3891
+value of k is 973
+left is ...1946
+rigth is ...1947
+value of k is 1946
+left is ...3892
+rigth is ...3893
+value of k is 1947
+left is ...3894
+rigth is ...3895
+value of k is 487
+left is ...974
+rigth is ...975
+value of k is 974
+left is ...1948
+rigth is ...1949
+value of k is 1948
+left is ...3896
+rigth is ...3897
+value of k is 1949
+left is ...3898
+rigth is ...3899
+value of k is 975
+left is ...1950
+rigth is ...1951
+value of k is 1950
+left is ...3900
+rigth is ...3901
+value of k is 1951
+left is ...3902
+rigth is ...3903
+value of k is 61
+left is ...122
+rigth is ...123
+value of k is 122
+left is ...244
+rigth is ...245
+value of k is 244
+left is ...488
+rigth is ...489
+value of k is 488
+left is ...976
+rigth is ...977
+value of k is 976
+left is ...1952
+rigth is ...1953
+value of k is 1952
+left is ...3904
+rigth is ...3905
+value of k is 1953
+left is ...3906
+rigth is ...3907
+value of k is 977
+left is ...1954
+rigth is ...1955
+value of k is 1954
+left is ...3908
+rigth is ...3909
+value of k is 1955
+left is ...3910
+rigth is ...3911
+value of k is 489
+left is ...978
+rigth is ...979
+value of k is 978
+left is ...1956
+rigth is ...1957
+value of k is 1956
+left is ...3912
+rigth is ...3913
+value of k is 1957
+left is ...3914
+rigth is ...3915
+value of k is 979
+left is ...1958
+rigth is ...1959
+value of k is 1958
+left is ...3916
+rigth is ...3917
+value of k is 1959
+left is ...3918
+rigth is ...3919
+value of k is 245
+left is ...490
+rigth is ...491
+value of k is 490
+left is ...980
+rigth is ...981
+value of k is 980
+left is ...1960
+rigth is ...1961
+value of k is 1960
+left is ...3920
+rigth is ...3921
+value of k is 1961
+left is ...3922
+rigth is ...3923
+value of k is 981
+left is ...1962
+rigth is ...1963
+value of k is 1962
+left is ...3924
+rigth is ...3925
+value of k is 1963
+left is ...3926
+rigth is ...3927
+value of k is 491
+left is ...982
+rigth is ...983
+value of k is 982
+left is ...1964
+rigth is ...1965
+value of k is 1964
+left is ...3928
+rigth is ...3929
+value of k is 1965
+left is ...3930
+rigth is ...3931
+value of k is 983
+left is ...1966
+rigth is ...1967
+value of k is 1966
+left is ...3932
+rigth is ...3933
+value of k is 1967
+left is ...3934
+rigth is ...3935
+value of k is 123
+left is ...246
+rigth is ...247
+value of k is 246
+left is ...492
+rigth is ...493
+value of k is 492
+left is ...984
+rigth is ...985
+value of k is 984
+left is ...1968
+rigth is ...1969
+value of k is 1968
+left is ...3936
+rigth is ...3937
+value of k is 1969
+left is ...3938
+rigth is ...3939
+value of k is 985
+left is ...1970
+rigth is ...1971
+value of k is 1970
+left is ...3940
+rigth is ...3941
+value of k is 1971
+left is ...3942
+rigth is ...3943
+value of k is 493
+left is ...986
+rigth is ...987
+value of k is 986
+left is ...1972
+rigth is ...1973
+value of k is 1972
+left is ...3944
+rigth is ...3945
+value of k is 1973
+left is ...3946
+rigth is ...3947
+value of k is 987
+left is ...1974
+rigth is ...1975
+value of k is 1974
+left is ...3948
+rigth is ...3949
+value of k is 1975
+left is ...3950
+rigth is ...3951
+value of k is 247
+left is ...494
+rigth is ...495
+value of k is 494
+left is ...988
+rigth is ...989
+value of k is 988
+left is ...1976
+rigth is ...1977
+value of k is 1976
+left is ...3952
+rigth is ...3953
+value of k is 1977
+left is ...3954
+rigth is ...3955
+value of k is 989
+left is ...1978
+rigth is ...1979
+value of k is 1978
+left is ...3956
+rigth is ...3957
+value of k is 1979
+left is ...3958
+rigth is ...3959
+value of k is 495
+left is ...990
+rigth is ...991
+value of k is 990
+left is ...1980
+rigth is ...1981
+value of k is 1980
+left is ...3960
+rigth is ...3961
+value of k is 1981
+left is ...3962
+rigth is ...3963
+value of k is 991
+left is ...1982
+rigth is ...1983
+value of k is 1982
+left is ...3964
+rigth is ...3965
+value of k is 1983
+left is ...3966
+rigth is ...3967
+value of k is 31
+left is ...62
+rigth is ...63
+value of k is 62
+left is ...124
+rigth is ...125
+value of k is 124
+left is ...248
+rigth is ...249
+value of k is 248
+left is ...496
+rigth is ...497
+value of k is 496
+left is ...992
+rigth is ...993
+value of k is 992
+left is ...1984
+rigth is ...1985
+value of k is 1984
+left is ...3968
+rigth is ...3969
+value of k is 1985
+left is ...3970
+rigth is ...3971
+value of k is 993
+left is ...1986
+rigth is ...1987
+value of k is 1986
+left is ...3972
+rigth is ...3973
+value of k is 1987
+left is ...3974
+rigth is ...3975
+value of k is 497
+left is ...994
+rigth is ...995
+value of k is 994
+left is ...1988
+rigth is ...1989
+value of k is 1988
+left is ...3976
+rigth is ...3977
+value of k is 1989
+left is ...3978
+rigth is ...3979
+value of k is 995
+left is ...1990
+rigth is ...1991
+value of k is 1990
+left is ...3980
+rigth is ...3981
+value of k is 1991
+left is ...3982
+rigth is ...3983
+value of k is 249
+left is ...498
+rigth is ...499
+value of k is 498
+left is ...996
+rigth is ...997
+value of k is 996
+left is ...1992
+rigth is ...1993
+value of k is 1992
+left is ...3984
+rigth is ...3985
+value of k is 1993
+left is ...3986
+rigth is ...3987
+value of k is 997
+left is ...1994
+rigth is ...1995
+value of k is 1994
+left is ...3988
+rigth is ...3989
+value of k is 1995
+left is ...3990
+rigth is ...3991
+value of k is 499
+left is ...998
+rigth is ...999
+value of k is 998
+left is ...1996
+rigth is ...1997
+value of k is 1996
+left is ...3992
+rigth is ...3993
+value of k is 1997
+left is ...3994
+rigth is ...3995
+value of k is 999
+left is ...1998
+rigth is ...1999
+value of k is 1998
+left is ...3996
+rigth is ...3997
+value of k is 1999
+left is ...3998
+rigth is ...3999
+value of k is 125
+left is ...250
+rigth is ...251
+value of k is 250
+left is ...500
+rigth is ...501
+value of k is 500
+left is ...1000
+rigth is ...1001
+value of k is 1000
+left is ...2000
+rigth is ...2001
+value of k is 2000
+left is ...4000
+rigth is ...4001
+value of k is 2001
+left is ...4002
+rigth is ...4003
+value of k is 1001
+left is ...2002
+rigth is ...2003
+value of k is 2002
+left is ...4004
+rigth is ...4005
+value of k is 2003
+left is ...4006
+rigth is ...4007
+value of k is 501
+left is ...1002
+rigth is ...1003
+value of k is 1002
+left is ...2004
+rigth is ...2005
+value of k is 2004
+left is ...4008
+rigth is ...4009
+value of k is 2005
+left is ...4010
+rigth is ...4011
+value of k is 1003
+left is ...2006
+rigth is ...2007
+value of k is 2006
+left is ...4012
+rigth is ...4013
+value of k is 2007
+left is ...4014
+rigth is ...4015
+value of k is 251
+left is ...502
+rigth is ...503
+value of k is 502
+left is ...1004
+rigth is ...1005
+value of k is 1004
+left is ...2008
+rigth is ...2009
+value of k is 2008
+left is ...4016
+rigth is ...4017
+value of k is 2009
+left is ...4018
+rigth is ...4019
+value of k is 1005
+left is ...2010
+rigth is ...2011
+value of k is 2010
+left is ...4020
+rigth is ...4021
+value of k is 2011
+left is ...4022
+rigth is ...4023
+value of k is 503
+left is ...1006
+rigth is ...1007
+value of k is 1006
+left is ...2012
+rigth is ...2013
+value of k is 2012
+left is ...4024
+rigth is ...4025
+value of k is 2013
+left is ...4026
+rigth is ...4027
+value of k is 1007
+left is ...2014
+rigth is ...2015
+value of k is 2014
+left is ...4028
+rigth is ...4029
+value of k is 2015
+left is ...4030
+rigth is ...4031
+value of k is 63
+left is ...126
+rigth is ...127
+value of k is 126
+left is ...252
+rigth is ...253
+value of k is 252
+left is ...504
+rigth is ...505
+value of k is 504
+left is ...1008
+rigth is ...1009
+value of k is 1008
+left is ...2016
+rigth is ...2017
+value of k is 2016
+left is ...4032
+rigth is ...4033
+value of k is 2017
+left is ...4034
+rigth is ...4035
+value of k is 1009
+left is ...2018
+rigth is ...2019
+value of k is 2018
+left is ...4036
+rigth is ...4037
+value of k is 2019
+left is ...4038
+rigth is ...4039
+value of k is 505
+left is ...1010
+rigth is ...1011
+value of k is 1010
+left is ...2020
+rigth is ...2021
+value of k is 2020
+left is ...4040
+rigth is ...4041
+value of k is 2021
+left is ...4042
+rigth is ...4043
+value of k is 1011
+left is ...2022
+rigth is ...2023
+value of k is 2022
+left is ...4044
+rigth is ...4045
+value of k is 2023
+left is ...4046
+rigth is ...4047
+value of k is 253
+left is ...506
+rigth is ...507
+value of k is 506
+left is ...1012
+rigth is ...1013
+value of k is 1012
+left is ...2024
+rigth is ...2025
+value of k is 2024
+left is ...4048
+rigth is ...4049
+value of k is 2025
+left is ...4050
+rigth is ...4051
+value of k is 1013
+left is ...2026
+rigth is ...2027
+value of k is 2026
+left is ...4052
+rigth is ...4053
+value of k is 2027
+left is ...4054
+rigth is ...4055
+value of k is 507
+left is ...1014
+rigth is ...1015
+value of k is 1014
+left is ...2028
+rigth is ...2029
+value of k is 2028
+left is ...4056
+rigth is ...4057
+value of k is 2029
+left is ...4058
+rigth is ...4059
+value of k is 1015
+left is ...2030
+rigth is ...2031
+value of k is 2030
+left is ...4060
+rigth is ...4061
+value of k is 2031
+left is ...4062
+rigth is ...4063
+value of k is 127
+left is ...254
+rigth is ...255
+value of k is 254
+left is ...508
+rigth is ...509
+value of k is 508
+left is ...1016
+rigth is ...1017
+value of k is 1016
+left is ...2032
+rigth is ...2033
+value of k is 2032
+left is ...4064
+rigth is ...4065
+value of k is 2033
+left is ...4066
+rigth is ...4067
+value of k is 1017
+left is ...2034
+rigth is ...2035
+value of k is 2034
+left is ...4068
+rigth is ...4069
+value of k is 2035
+left is ...4070
+rigth is ...4071
+value of k is 509
+left is ...1018
+rigth is ...1019
+value of k is 1018
+left is ...2036
+rigth is ...2037
+value of k is 2036
+left is ...4072
+rigth is ...4073
+value of k is 2037
+left is ...4074
+rigth is ...4075
+value of k is 1019
+left is ...2038
+rigth is ...2039
+value of k is 2038
+left is ...4076
+rigth is ...4077
+value of k is 2039
+left is ...4078
+rigth is ...4079
+value of k is 255
+left is ...510
+rigth is ...511
+value of k is 510
+left is ...1020
+rigth is ...1021
+value of k is 1020
+left is ...2040
+rigth is ...2041
+value of k is 2040
+left is ...4080
+rigth is ...4081
+value of k is 2041
+left is ...4082
+rigth is ...4083
+value of k is 1021
+left is ...2042
+rigth is ...2043
+value of k is 2042
+left is ...4084
+rigth is ...4085
+value of k is 2043
+left is ...4086
+rigth is ...4087
+value of k is 511
+left is ...1022
+rigth is ...1023
+value of k is 1022
+left is ...2044
+rigth is ...2045
+value of k is 2044
+left is ...4088
+rigth is ...4089
+value of k is 2045
+left is ...4090
+rigth is ...4091
+value of k is 1023
+left is ...2046
+rigth is ...2047
+value of k is 2046
+left is ...4092
+rigth is ...4093
+value of k is 2047
+left is ...4094
+rigth is ...4095
 true
+value of k is 1
+left is ...2
+rigth is ...3
+value of left is ...2
 false
 ----------------------------------------
 ########## Testcase 3: Failed ##########
@@ -52,17 +6820,38 @@ true
 false
 false
 Your Output: 
+value of k is 1
+left is ...2
+rigth is ...3
+value of left is ...2
 false
+value of k is 1
+left is ...2
+rigth is ...3
+value of left is ...2
 false
+value of k is 1
+left is ...2
+rigth is ...3
+value of rigth is ....3
 false
 ----------------------------------------
-########## Testcase 4: Passed ##########
+########## Testcase 4: Failed ##########
 Expected Output: 
 true
 true
 false
 Your Output: 
+value of k is 1
+left is ...2
+rigth is ...3
+value of k is 2
+left is ...4
+rigth is ...5
 true
+value of k is 1
+left is ...2
+rigth is ...3
 true
 false
 ----------------------------------------
