@@ -19,7 +19,7 @@ final class Solution {
     }
 
     /**.
-     * main method to perform operations
+     * Main method to perform operations
      *
      * @param      args  The arguments
      */
