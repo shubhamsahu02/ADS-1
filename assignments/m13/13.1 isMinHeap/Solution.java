@@ -1,5 +1,5 @@
 /**.
- * impors scanner package
+ * imports scanner package
  */
 import java.util.Scanner;
 /**.

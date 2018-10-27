@@ -1,10 +1,9 @@
 /**.
 * Class for minimum pq.
-*
 * @param      <Key>  The key
 */
 public class MinPQ <Key extends Comparable <Key>> {
-	/**
+	/**.
 	 * pq array of key type
 	 */
 	private Key[] pq;
@@ -50,6 +49,7 @@ public class MinPQ <Key extends Comparable <Key>> {
 	public boolean isMinPQ() {
 		return isMinPQ(1);
 	}
+
 	/**
 	 * { compares two elements of pq array }
 	 *  Time complexity is constant the statement is executed only once
@@ -58,6 +58,7 @@ public class MinPQ <Key extends Comparable <Key>> {
 	 *
 	 * @return     { true if the condition is satisfied else it returns false}
 	 */
+
 	public boolean less(int i, int j) {
 		return pq[i].compareTo(pq[j]) < 0;
 	}
