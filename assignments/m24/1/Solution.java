@@ -2,13 +2,17 @@ import java.util.Scanner;
 class Student {
 	private String studentname;
 	private double totalmarks;
-	Student(String name, double marks) {
+	Student(final String name, final double marks) {
 		this.studentname = name;
 		this.totalmarks = marks;
 	}
 	public String getname() {
 		return this.studentname;
 	}
+	/**
+	 * [brief description]
+	 * 
+	 */
 	public double getmarks() {
 		return this.totalmarks;
 	}
@@ -18,16 +22,24 @@ class Student {
 		return str;
 	}
 }
-class Solution {
+final class Solution {
+	/**.
+	 * Solution class.
+	 */
 	private Solution() {
 	}
-	public static void main(String[] args) {
+	/**.
+	 * Main function
+	 * @param String [description]
+	 */
+	public static void main(final String[] args) {
 		Scanner scan = new Scanner(System.in);
 		int putnum = Integer.parseInt(scan.nextLine());
 		SeparateChainingHashST<Integer, Student> schsobj = new SeparateChainingHashST<>();
 		for (int i = 0; i < putnum; i++) {
 			String[] tokens = scan.nextLine().split(",");
-			Student studentobj = new Student(tokens[1], Double.parseDouble(tokens[2]));
+			Student studentobj = new Student(tokens[1],
+			 Double.parseDouble(tokens[2]));
 			schsobj.put(Integer.parseInt(tokens[0]), studentobj);
 		}
 		int querynum = Integer.parseInt(scan.nextLine());
@@ -35,17 +47,21 @@ class Solution {
 			String[] querytokens = scan.nextLine().split(" ");
 			if (querytokens[0].equals("get")) {
 				if (Integer.parseInt(querytokens[2]) == 1) {
-					if (schsobj.get(Integer.parseInt(querytokens[1])) == null) {
+					if (schsobj.get(Integer.parseInt(querytokens[1])) == null)
+					 {
 						System.out.println("Student doesn't exists...");
 					} else {
-						System.out.println(schsobj.get(Integer.parseInt(querytokens[1])).getname());
+						System.out.println(schsobj.get
+							(Integer.parseInt(querytokens[1])).getname());
 					}
 
 				} else {
-					if (schsobj.get(Integer.parseInt(querytokens[1])) == null) {
+					if (schsobj.get(Integer.parseInt(querytokens[1])) == null)
+					 {
 						System.out.println("Student doesn't exists...");
 					} else {
-						System.out.println(schsobj.get(Integer.parseInt(querytokens[1])).getmarks());
+						System.out.println(schsobj.get
+							(Integer.parseInt(querytokens[1])).getmarks());
 					}
 				}
 			}
