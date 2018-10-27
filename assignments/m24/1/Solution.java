@@ -6,6 +6,12 @@ class Student {
 		this.studentname = name;
 		this.totalmarks = marks;
 	}
+	public String getname() {
+		return this.studentname;
+	}
+	public double getmarks() {
+		return this.totalmarks;
+	}
 	public String toString() {
 		String str = "";
 		str = str + this.studentname + this.totalmarks;
@@ -14,7 +20,6 @@ class Student {
 }
 class Solution {
 	private Solution() {
-		//unused
 	}
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
@@ -25,8 +30,16 @@ class Solution {
 			Student studentobj = new Student(tokens[1], Double.parseDouble(tokens[2]));
 			schsobj.put(Integer.parseInt(tokens[0]), studentobj);
 		}
-		for(Integer i: schsobj.keys()) {
-			System.out.println(i);
+		int querynum = Integer.parseInt(scan.nextLine());
+		for(int j = 0; j < querynum; j++) {
+			String[] querytokens = scan.nextLine().split(" ");
+			if(querytokens[0].equals("get")) {
+				if(Integer.parseInt(querytokens[2]) == 1) {
+					System.out.println(schsobj.get(Integer.parseInt(querytokens[1])).getname());
+				} else {
+					System.out.println(schsobj.get(Integer.parseInt(querytokens[1])).getmarks());
+				}
+			}
 		}
 	}
 }
