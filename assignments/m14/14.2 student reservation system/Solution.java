@@ -1,23 +1,47 @@
 import java.util.Scanner;
-class Solution {
-    public static void main(String[] args) {
+import java.util.ArrayList;
+import java.util.Collections;
+/**
+ *this is the class for main.
+ */
+final class Solution {
+    /**
+     *empty constructor.
+     */
+    private Solution() {
+    }
+    /**
+     * the main to read the input.
+     *
+     * @param  args  The arguments
+     */
+    public static void main(final String[] args) {
+        Student obj = new Student();
+        final int three = 3;
+        final int four = 4;
+        final int five = 5;
+        final int six = 6;
         Scanner scan = new Scanner(System.in);
-        int nostudents = scan.nextInt();
-        int vacany = scan.nextInt();
-        int unreserved = scan.nextInt();
-        int bc = scan.nextInt();
-        int sc = scan.nextInt();
-        int st = scan.nextInt();
+        Database object = new Database();
+        int totalQualified = scan.nextInt();
+        int vacancies = scan.nextInt();
+        int openSeats = scan.nextInt();
+        int bcSeats = scan.nextInt();
+        int scSeats = scan.nextInt();
+        int stSeats = scan.nextInt();
         scan.nextLine();
-        Student[] students = new Student[nostudents];
-        for (int i = 0; i < students.length; i++) {
-            String[] tokens = scan.nextLine().split(",");
-           students[i++] = new Student(tokens[0], tokens[1],Integer.parseInt(tokens[2]),Integer.parseInt(tokens[3]),Integer.parseInt(tokens[4]),Integer.parseInt(tokens[5]),tokens[6]);
+        for (int i = 0; i < totalQualified; i++) {
+            String line  =  scan.nextLine();
+            String[] tokens = line.split(",");
+            obj = new Student(
+                tokens[0], tokens[1], tokens[2],
+                tokens[three], tokens[four],
+                tokens[five], tokens[six]);
+            object.addData(obj);
         }
-        Heap.sort(students);
-        for(Student s : students) {
-            System.out.println(s.toString());
-        }
-
+        object.sorting();
+        object.print();
+        object.allotment(vacancies,
+                         openSeats, bcSeats, scSeats, stSeats);
     }
 }

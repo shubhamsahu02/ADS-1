@@ -1,19 +1,6 @@
 Starting audit...
-[ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\assignments\m14\14.2 student reservation system\Solution.java:0: File does not end with a newline. [NewlineAtEndOfFile]
-[ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\assignments\m14\14.2 student reservation system\Solution.java:2: Missing a Javadoc comment. [JavadocType]
-[ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\assignments\m14\14.2 student reservation system\Solution.java:2:1: Utility classes should not have a public or default constructor. [HideUtilityClassConstructor]
-[ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\assignments\m14\14.2 student reservation system\Solution.java:3:5: Missing a Javadoc comment. [JavadocMethod]
-[ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\assignments\m14\14.2 student reservation system\Solution.java:3:29: Parameter args should be final. [FinalParameters]
-[ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\assignments\m14\14.2 student reservation system\Solution.java:15: Line is longer than 80 characters (found 183). [LineLength]
-[ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\assignments\m14\14.2 student reservation system\Solution.java:15:61: ',' is not followed by whitespace. [WhitespaceAfter]
-[ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\assignments\m14\14.2 student reservation system\Solution.java:15:89: ',' is not followed by whitespace. [WhitespaceAfter]
-[ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\assignments\m14\14.2 student reservation system\Solution.java:15:113: '3' is a magic number. [MagicNumber]
-[ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\assignments\m14\14.2 student reservation system\Solution.java:15:117: ',' is not followed by whitespace. [WhitespaceAfter]
-[ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\assignments\m14\14.2 student reservation system\Solution.java:15:141: '4' is a magic number. [MagicNumber]
-[ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\assignments\m14\14.2 student reservation system\Solution.java:15:145: ',' is not followed by whitespace. [WhitespaceAfter]
-[ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\assignments\m14\14.2 student reservation system\Solution.java:15:169: '5' is a magic number. [MagicNumber]
-[ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\assignments\m14\14.2 student reservation system\Solution.java:15:173: ',' is not followed by whitespace. [WhitespaceAfter]
-[ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\assignments\m14\14.2 student reservation system\Solution.java:15:180: '6' is a magic number. [MagicNumber]
-[ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\assignments\m14\14.2 student reservation system\Solution.java:18:12: 'for' is not followed by whitespace. [WhitespaceAfter]
+[ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\assignments\m14\14.2 student reservation system\Student.java:0: File does not end with a newline. [NewlineAtEndOfFile]
+[ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\assignments\m14\14.2 student reservation system\Student.java:1:8: Unused import - java.util.Scanner. [UnusedImports]
+[ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\assignments\m14\14.2 student reservation system\Student.java:39:14: '{' is not preceded with whitespace. [WhitespaceAround]
 Audit done.
-Checkstyle ends with 16 errors.
+Checkstyle ends with 3 errors.
