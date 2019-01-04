@@ -40,10 +40,10 @@ public class Solution {
 			if(input.length == 1 && input[0].equals("JC") && !(p.isEmpty())) {
 				System.out.println(p.delMin());
 			} else if (p.isEmpty()) {
-				System.out.println("No Registration");
+				System.out.println("NO Registrations");
 			}
 
 		}
-		System.out.println();
+		//System.out.println();
 	}
 }
