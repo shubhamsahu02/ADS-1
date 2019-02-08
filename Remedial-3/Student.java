@@ -1,5 +1,4 @@
 class Student implements Comparable<Student> {
-	
 	Student() {
 
 	}
@@ -41,9 +40,8 @@ class Student implements Comparable<Student> {
  					return 1;
  				} else if (this.roll < that.roll) {
  					return -1;
- 				}
- 			} 
-		}
+ 				}} 
+			}
 		
 		return 0;
        }

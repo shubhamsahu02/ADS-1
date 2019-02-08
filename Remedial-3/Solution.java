@@ -1,7 +1,5 @@
 import java.util.*;
-
 class Solution {
-
 	Solution() {
 
 	}
@@ -25,12 +23,13 @@ class Solution {
 
 			if (studentInput.get(stud) == marks) {
 				check = false;
+
 				System.out.println(stud);
 			}
 		}
 		if (check) {
 			System.out.println("Marks not awarded");
 		 }
-	   }
+	}
 	}
 }
