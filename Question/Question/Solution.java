@@ -1,7 +1,6 @@
 import java.util.*;
 import java.util.TreeMap;
 import java.text.DecimalFormat;
-// import java.util.Math;
 
 
 class Solution {
@@ -32,7 +31,7 @@ class Solution {
             int count=0;
             
             for (int i=0;i<array.length ;i++ ) {
-                if(array[i]<=map.get(keys)) {
+                if(array[i]<=map.get(keys)){
                     count++;
                 }
             }
@@ -42,7 +41,7 @@ class Solution {
 
         for(int i = 0; i < m; i++) {
             records = tmap.get(rolls[i]);
-            System.out.println(Math.round((Double) (records)*100)/100);
+            System.out.println((Double) (records));
         }
     }
 }
