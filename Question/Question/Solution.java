@@ -19,7 +19,7 @@ class Solution {
         int m = Integer.parseInt(s.nextLine());
         int[] rolls = new int[m];
         Double percent = 0.0;
-        Double records = 0.0;
+        Double records = .0;
         for (int i = 0; i < m; i ++) {
             rolls[i] = Integer.parseInt(s.nextLine());
         }
