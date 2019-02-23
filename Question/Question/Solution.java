@@ -1,10 +1,13 @@
 import java.util.*;
 import java.util.TreeMap;
+import java.text.DecimalFormat;
+
 
 class Solution {
 
     public static void main(String[] args) {
         int roll,marks;
+        DecimalFormat numberFormat = new DecimalFormat("#0");
         Scanner s = new Scanner(System.in);
         int number = Integer.parseInt(s.nextLine());
         String[] tokens = new String[100];
