@@ -41,7 +41,7 @@ class Solution {
 
         for(int i = 0; i < m; i++) {
             records = tmap.get(rolls[i]);
-            System.out.println(numberFormat.format(records));
+            System.out.println((Double) (records));
         }
     }
 }
