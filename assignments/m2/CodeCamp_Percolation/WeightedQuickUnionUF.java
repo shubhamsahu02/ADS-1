@@ -58,17 +58,17 @@ public class WeightedQuickUnionUF {
         count--;
     }
     
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        int n = sc.nextInt();
-        WeightedQuickUnionUF uf = new WeightedQuickUnionUF(n);
-        while (!sc.hasNext()) {
-            int p = sc.nextInt();
-            int q = sc.nextInt();
-            if (uf.connected(p, q)) continue;
-            uf.union(p, q);
-            System.out.println(p + " " + q);
-        }
-        System.out.println(uf.count() + " components");
-    }
+    // public static void main(String[] args) {
+    //     Scanner sc = new Scanner(System.in);
+    //     int n = sc.nextInt();
+    //     WeightedQuickUnionUF uf = new WeightedQuickUnionUF(n);
+    //     while (!sc.hasNext()) {
+    //         int p = sc.nextInt();
+    //         int q = sc.nextInt();
+    //         if (uf.connected(p, q)) continue;
+    //         uf.union(p, q);
+    //         System.out.println(p + " " + q);
+    //     }
+    //     System.out.println(uf.count() + " components");
+    // }
 }
