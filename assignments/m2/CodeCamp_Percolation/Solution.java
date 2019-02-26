@@ -77,7 +77,7 @@ class Percolate {
             obj.union(convert(row, column),
              convert(row, column - 1));
         }
-        if (column < size - 1 && grid[row][column + 1]) {
+        if (column < size - 1 && grid[row][column + 1]) {// right element
             obj.union(convert(row, column),
              convert(row, column + 1));
         }

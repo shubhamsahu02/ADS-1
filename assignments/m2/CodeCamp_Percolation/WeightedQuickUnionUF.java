@@ -44,7 +44,7 @@ public class WeightedQuickUnionUF {
     public void union(int p, int q) {
         int rootP = find(p);
         int rootQ = find(q);
-        if (rootP == rootQ) return;
+        if (connected(rootP, rootQ)) return;
 
         // make smaller root point to larger one
         if (size[rootP] < size[rootQ]) {
