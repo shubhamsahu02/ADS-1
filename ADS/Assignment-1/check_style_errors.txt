@@ -32,9 +32,6 @@ Starting audit...
 [ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\ADS\Assignment-1\Solution.java:10:58: Expected @param tag for 'number'. [JavadocMethod]
 [ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\ADS\Assignment-1\Solution.java:37: Line is longer than 80 characters (found 92). [LineLength]
 [ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\ADS\Assignment-1\Solution.java:38:5: '{' at column 5 should be on the previous line. [LeftCurly]
-[ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\ADS\Assignment-1\Solution.java:66: Line is longer than 80 characters (found 90). [LineLength]
-[ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\ADS\Assignment-1\Solution.java:67: Line is longer than 80 characters (found 90). [LineLength]
 [ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\ADS\Assignment-1\Solution.java:73: Line is longer than 80 characters (found 82). [LineLength]
-[ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\ADS\Assignment-1\Solution.java:74: Line is longer than 80 characters (found 89). [LineLength]
 Audit done.
-Checkstyle ends with 10 errors.
+Checkstyle ends with 7 errors.

@@ -63,15 +63,15 @@ public final class Solution {
         case "numberToDigits":
             LinkedList pDigits = AddLargeNumbers.numberToDigits(p);
             LinkedList qDigits = AddLargeNumbers.numberToDigits(q);
-            System.out.println(AddLargeNumbers.digitsToNumber(pDigits).toString() + " 1");
-            System.out.println(AddLargeNumbers.digitsToNumber(qDigits).toString() + " 2");
+            System.out.println(AddLargeNumbers.digitsToNumber(pDigits));
+            System.out.println(AddLargeNumbers.digitsToNumber(qDigits));
             break;
 
         case "addLargeNumbers":
             pDigits = AddLargeNumbers.numberToDigits(p);
             qDigits = AddLargeNumbers.numberToDigits(q);
             LinkedList result = AddLargeNumbers.addLargeNumbers(pDigits, qDigits);
-            System.out.println(AddLargeNumbers.digitsToNumber(result).toString() + " 3");
+            System.out.println(AddLargeNumbers.digitsToNumber(result));
             break;
         default:
         break;
