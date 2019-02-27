@@ -12,7 +12,6 @@ final class AddLargeNumbers {
         String[] numbers = number.split("");
         for (int i = 0; i < numbers.length; i++) {
             l.push(numbers[i]);
-            // System.out.println(numbers[i]);
         }
         return l;
     }
@@ -24,7 +23,13 @@ final class AddLargeNumbers {
      * @return     { string of link list }
      */
     public static String digitsToNumber(final LinkedList list) {
-        return list.toString();
+        // return list.toString();
+        String string = "";
+        while (!list.isEmpty()) {
+            string += list.pop();
+        }
+
+        return string;
     }
     /**
      * Adds large numbers.

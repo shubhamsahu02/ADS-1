@@ -30,8 +30,8 @@ Starting audit...
 [ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\ADS\Assignment-1\Solution.java:5:1: Utility classes should not have a public or default constructor. [HideUtilityClassConstructor]
 [ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\ADS\Assignment-1\Solution.java:10: Expected @return tag. [JavadocMethod]
 [ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\ADS\Assignment-1\Solution.java:10:58: Expected @param tag for 'number'. [JavadocMethod]
-[ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\ADS\Assignment-1\Solution.java:37: Line is longer than 80 characters (found 92). [LineLength]
-[ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\ADS\Assignment-1\Solution.java:38:5: '{' at column 5 should be on the previous line. [LeftCurly]
-[ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\ADS\Assignment-1\Solution.java:73: Line is longer than 80 characters (found 82). [LineLength]
+[ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\ADS\Assignment-1\Solution.java:42: Line is longer than 80 characters (found 92). [LineLength]
+[ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\ADS\Assignment-1\Solution.java:43:5: '{' at column 5 should be on the previous line. [LeftCurly]
+[ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\ADS\Assignment-1\Solution.java:78: Line is longer than 80 characters (found 82). [LineLength]
 Audit done.
 Checkstyle ends with 7 errors.
