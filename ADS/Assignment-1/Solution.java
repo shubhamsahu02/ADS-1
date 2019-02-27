@@ -1,50 +1,81 @@
-// package edu.princeton.cs.algs4;
-
 import java.util.Scanner;
+/**
+ * Class for add large numbers.
+ */
+final class AddLargeNumbers {
+    /**
+     * Constructs the object.
+     */
 
-class AddLargeNumbers {
-    
-    public static LinkedStack numberToDigits(String number) {
-        LinkedStack l = new LinkedStack();
-        String[] tokens = number.split("");
-        for (int i = 0; i < tokens.length; i++) {
-            l.push(Integer.parseInt(tokens[i]));
+    public static LinkedList numberToDigits(final String number) {
+        LinkedList l = new LinkedList();
+        String[] numbers = number.split("");
+        for (int i = 0; i < numbers.length; i++) {
+            l.push(numbers[i]);
+            // System.out.println(numbers[i]);
         }
-
         return l;
-
     }
-
-    public static String digitsToNumber(LinkedStack list) {
+    /**
+     * Returns string of linked list.
+     *
+     * @param      list  The list
+     *
+     * @return     { string of link list }
+     */
+    public static String digitsToNumber(final LinkedList list) {
         return list.toString();
     }
-
-    public static LinkedStack addLargeNumbers(LinkedStack list1, LinkedStack list2) {
-        return list1;
+    /**
+     * Adds large numbers.
+     *
+     * @param      list1  The list 1
+     * @param      list2  The list 2
+     *
+     * @return     { linkedlist of sum }
+     */
+    public static LinkedList addLargeNumbers(final LinkedList list1, final LinkedList list2)
+    {
+return null;
     }
 }
+/**
+ * Class for solution.
+ */
+public final class Solution {
+    /**
+     * Constructs the object.
+     */
+    private Solution() {
 
-public class Solution {
-    public static void main(String[] args) {
+    }
+    /**
+     * Main method to take inputs and return outputs.
+     *
+     * @param      args  The arguments
+     */
+    public static void main(final String[] args) {
         Scanner sc = new Scanner(System.in);
         String input = sc.nextLine();
         String p = sc.nextLine();
         String q = sc.nextLine();
-        switch(input){
-            case "numberToDigits":
-                LinkedStack pDigits = AddLargeNumbers.numberToDigits(p);
-                LinkedStack qDigits = AddLargeNumbers.numberToDigits(q);
-                System.out.println(AddLargeNumbers.digitsToNumber(pDigits));
-                System.out.println(AddLargeNumbers.digitsToNumber(qDigits));
-                break;
+        switch (input) {
+        case "numberToDigits":
+            LinkedList pDigits = AddLargeNumbers.numberToDigits(p);
+            LinkedList qDigits = AddLargeNumbers.numberToDigits(q);
+            System.out.println(AddLargeNumbers.digitsToNumber(pDigits).toString() + " 1");
+            System.out.println(AddLargeNumbers.digitsToNumber(qDigits).toString() + " 2");
+            break;
 
-            case "addLargeNumbers":
-                pDigits = AddLargeNumbers.numberToDigits(p);
-                qDigits = AddLargeNumbers.numberToDigits(q);
-                LinkedStack result = AddLargeNumbers.addLargeNumbers(pDigits, qDigits);
-                System.out.println(AddLargeNumbers.digitsToNumber(result));
-                break;
+        case "addLargeNumbers":
+            pDigits = AddLargeNumbers.numberToDigits(p);
+            qDigits = AddLargeNumbers.numberToDigits(q);
+            LinkedList result = AddLargeNumbers.addLargeNumbers(pDigits, qDigits);
+            System.out.println(AddLargeNumbers.digitsToNumber(result).toString() + " 3");
+            break;
+        default:
+        break;
         }
     }
-    
+
 }
