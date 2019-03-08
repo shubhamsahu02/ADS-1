@@ -15,7 +15,7 @@ public class Solution {
 
 				case "Apply":
 					String[] tokens1 = tokens[1].split(",");
-				 candidate = new Candidate(Integer.parseInt(tokens1[0]),tokens[1], tokens1[2], Double.parseDouble(tokens1[3]));
+				 candidate = new Candidate(Integer.parseInt(tokens1[0]),tokens1[1], tokens1[2], Double.parseDouble(tokens1[3]));
 				 pq.insert(candidate);
 				break;
 
