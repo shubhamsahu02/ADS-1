@@ -39,7 +39,7 @@ public Candidate(int id, String name, String degree, double perecentage) {
 		return percentage;
 	}
 
-	public void setPercetage() {
+	public void setPercentage() {
 		this.percentage = percentage;
 	}
 
