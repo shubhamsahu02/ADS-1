@@ -69,7 +69,7 @@ public Candidate(int id, String name, String degree, double perecentage) {
 	}
 		public String toString(){
 		String string = " ";
-		string = string + this.studid + this.degree + this.percentage;
+		string = string + this.studid  +"," + this.name +"," +  this.degree + ","+ this.percentage;
 		return string;
 
 

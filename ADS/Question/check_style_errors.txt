@@ -34,8 +34,12 @@ Starting audit...
 [ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\ADS\Question\Candidate.java:61:17: '}' at column 3 should be on the same line as the next part of a multi-block statement (one that directly contains multiple blocks: if/else-if/else, do/while or try/catch/finally). [RightCurly]
 [ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\ADS\Question\Candidate.java:70:17: Missing a Javadoc comment. [JavadocMethod]
 [ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\ADS\Question\Candidate.java:70:41: '{' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\ADS\Question\Candidate.java:72: Line is longer than 80 characters (found 107). [LineLength]
+[ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\ADS\Question\Candidate.java:72:49: '+' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\ADS\Question\Candidate.java:72:66: '+' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\ADS\Question\Candidate.java:72:90: '+' is not preceded with whitespace. [WhitespaceAround]
 Audit done.
-Checkstyle ends with 35 errors.
+Checkstyle ends with 39 errors.
 Starting audit...
 [ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\ADS\Question\MaxPQ.java:0: File does not end with a newline. [NewlineAtEndOfFile]
 [ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\ADS\Question\MaxPQ.java:6: Line has trailing spaces. [RegexpSingleline]

@@ -13,17 +13,17 @@ Expected Output:
 7: 30003,Bharath,M.Tech,76.5
 
 Your Output: 
- 0ME0.0
- 0MS0.0
- 0ME0.0
+ 0,Deepak,ME,0.0
+ 0,Kumar,MS,0.0
+ 0,Shiva,ME,0.0
 
-2: 0M.Tech0.0
-3: 0ME0.0
-4: 0M.Tech0.0
-5: 0MS0.0
-6: 0MS0.0
-7: 0ME0.0
-8: 0MS0.0
+2: 0,Bharath,M.Tech,0.0
+3: 0,Lakshmi,ME,0.0
+4: 0,Vamsi,M.Tech,0.0
+5: 0,Vipul,MS,0.0
+6: 0,Ramya,MS,0.0
+7: 0,Siva,ME,0.0
+8: 0,Hari,MS,0.0
 ----------------------------------------
 
 ########## Testcase 1: Failed ##########
@@ -48,24 +48,24 @@ Expected Output:
 14: 30003,Bharath,M.Tech,76.5
 
 Your Output: 
- 0ME0.0
- 0ME0.0
- 0ME0.0
+ 0,Kumar,ME,0.0
+ 0,Manasa,ME,0.0
+ 0,Manasa,ME,0.0
 
-2: 0ME0.0
-3: 0M.Tech0.0
-4: 0ME0.0
-5: 0M.Tech0.0
-6: 0M.Tech0.0
-7: 0M.Tech0.0
-8: 0ME0.0
-9: 0MS0.0
-10: 0MS0.0
-11: 0ME0.0
-12: 0M.Tech0.0
-13: 0M.Tech0.0
-14: 0MS0.0
-15: 0MS0.0
+2: 0,Akhil,ME,0.0
+3: 0,Bharath,M.Tech,0.0
+4: 0,Lakshmi,ME,0.0
+5: 0,Vamsi,M.Tech,0.0
+6: 0,Murthy,M.Tech,0.0
+7: 0,Ramu,M.Tech,0.0
+8: 0,Shiva,ME,0.0
+9: 0,Vipul,MS,0.0
+10: 0,Ramya,MS,0.0
+11: 0,Deepak,ME,0.0
+12: 0,Murthy,M.Tech,0.0
+13: 0,Ramu,M.Tech,0.0
+14: 0,Siva,MS,0.0
+15: 0,Hari,MS,0.0
 ----------------------------------------
 
 ########## Testcase 2: Failed ##########
@@ -90,24 +90,24 @@ Expected Output:
 1: 30003,Bharath,M.Tech,76.5
 
 Your Output: 
- 0ME0.0
- 0MS0.0
- 0MS0.0
- 0M.Tech0.0
- 0M.Tech0.0
- 0ME0.0
- 0ME0.0
- 0MS0.0
- 0MS0.0
- 0ME0.0
- 0M.Tech0.0
- 0M.Tech0.0
- 0ME0.0
- 0M.Tech0.0
- 0ME0.0
- 0M.Tech0.0
+ 0,Kumar,ME,0.0
+ 0,Hari,MS,0.0
+ 0,Siva,MS,0.0
+ 0,Ramu,M.Tech,0.0
+ 0,Murthy,M.Tech,0.0
+ 0,Manasa,ME,0.0
+ 0,Deepak,ME,0.0
+ 0,Ramya,MS,0.0
+ 0,Vipul,MS,0.0
+ 0,Shiva,ME,0.0
+ 0,Ramu,M.Tech,0.0
+ 0,Murthy,M.Tech,0.0
+ 0,Manasa,ME,0.0
+ 0,Vamsi,M.Tech,0.0
+ 0,Lakshmi,ME,0.0
+ 0,Bharath,M.Tech,0.0
 
-2: 0ME0.0
+2: 0,Akhil,ME,0.0
 ----------------------------------------
 
 ########## Testcase 3: Failed ##########
@@ -132,24 +132,24 @@ Expected Output:
 14: 30003,Bharath,M.Tech,76.5
 
 Your Output: 
- 0ME0.0
- 0ME0.0
- 0ME0.0
+ 0,Kumar,ME,0.0
+ 0,Manasa,ME,0.0
+ 0,Manasa,ME,0.0
 
-2: 0ME0.0
-3: 0M.Tech0.0
-4: 0ME0.0
-5: 0M.Tech0.0
-6: 0M.Tech0.0
-7: 0M.Tech0.0
-8: 0ME0.0
-9: 0MS0.0
-10: 0MS0.0
-11: 0ME0.0
-12: 0M.Tech0.0
-13: 0M.Tech0.0
-14: 0MS0.0
-15: 0MS0.0
+2: 0,Akhil,ME,0.0
+3: 0,Bharath,M.Tech,0.0
+4: 0,Lakshmi,ME,0.0
+5: 0,Vamsi,M.Tech,0.0
+6: 0,Murthy,M.Tech,0.0
+7: 0,Ramu,M.Tech,0.0
+8: 0,Shiva,ME,0.0
+9: 0,Vipul,MS,0.0
+10: 0,Ramya,MS,0.0
+11: 0,Deepak,ME,0.0
+12: 0,Murthy,M.Tech,0.0
+13: 0,Ramu,M.Tech,0.0
+14: 0,Siva,MS,0.0
+15: 0,Hari,MS,0.0
 ----------------------------------------
 
 ########## Testcase 4: Failed ##########
@@ -170,20 +170,20 @@ Expected Output:
 7: 20006,Murthy,M.Tech,98.7
 
 Your Output: 
- 0ME0.0
- 0ME0.0
- 0ME0.0
- 0M.Tech0.0
- 0M.Tech0.0
- 0ME0.0
+ 0,Kumar,ME,0.0
+ 0,Manasa,ME,0.0
+ 0,Manasa,ME,0.0
+ 0,Murthy,M.Tech,0.0
+ 0,Ramu,M.Tech,0.0
+ 0,Shiva,ME,0.0
 
-2: 0MS0.0
-3: 0MS0.0
-4: 0ME0.0
-5: 0M.Tech0.0
-6: 0M.Tech0.0
-7: 0MS0.0
-8: 0MS0.0
+2: 0,Vipul,MS,0.0
+3: 0,Ramya,MS,0.0
+4: 0,Deepak,ME,0.0
+5: 0,Murthy,M.Tech,0.0
+6: 0,Ramu,M.Tech,0.0
+7: 0,Siva,MS,0.0
+8: 0,Hari,MS,0.0
 ----------------------------------------
 
 ########## Testcase 5: Failed ##########
@@ -208,24 +208,24 @@ Expected Output:
 7: 30003,Bharath,M.Tech,76.5
 
 Your Output: 
- 0ME0.0
- 0ME0.0
- 0M.Tech0.0
- 0ME0.0
- 0M.Tech0.0
- 0ME0.0
- 0M.Tech0.0
- 0M.Tech0.0
- 0ME0.0
- 0MS0.0
+ 0,Kumar,ME,0.0
+ 0,Akhil,ME,0.0
+ 0,Bharath,M.Tech,0.0
+ 0,Lakshmi,ME,0.0
+ 0,Vamsi,M.Tech,0.0
+ 0,Manasa,ME,0.0
+ 0,Murthy,M.Tech,0.0
+ 0,Ramu,M.Tech,0.0
+ 0,Shiva,ME,0.0
+ 0,Vipul,MS,0.0
 
-2: 0MS0.0
-3: 0ME0.0
-4: 0ME0.0
-5: 0M.Tech0.0
-6: 0M.Tech0.0
-7: 0MS0.0
-8: 0MS0.0
+2: 0,Ramya,MS,0.0
+3: 0,Deepak,ME,0.0
+4: 0,Manasa,ME,0.0
+5: 0,Murthy,M.Tech,0.0
+6: 0,Ramu,M.Tech,0.0
+7: 0,Siva,MS,0.0
+8: 0,Hari,MS,0.0
 ----------------------------------------
 
 ########## Testcase 6: Failed ##########
@@ -237,10 +237,10 @@ Expected Output:
 10005,Bharath,M.Tech,76.5
 
 Your Output: 
- 0ME0.0
- 0M.Tech0.0
- 0M.Tech0.0
- 0MS0.0
- 0MS0.0
+ 0,Kumar,ME,0.0
+ 0,Bharath,M.Tech,0.0
+ 0,Ramu,M.Tech,0.0
+ 0,Siva,MS,0.0
+ 0,Hari,MS,0.0
 ----------------------------------------
 
