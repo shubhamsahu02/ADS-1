@@ -13,10 +13,7 @@ Expected Output:
 7: 30003,Bharath,M.Tech,76.5
 
 Your Output: 
-Exception in thread "main" java.lang.NumberFormatException: For input string: "Apply"
-	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
-	at java.base/java.lang.Integer.parseInt(Integer.java:652)
-	at java.base/java.lang.Integer.parseInt(Integer.java:770)
+Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: 2
 	at Solution.main(Solution.java:18)
 ----------------------------------------
 
@@ -42,10 +39,7 @@ Expected Output:
 14: 30003,Bharath,M.Tech,76.5
 
 Your Output: 
-Exception in thread "main" java.lang.NumberFormatException: For input string: "Apply"
-	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
-	at java.base/java.lang.Integer.parseInt(Integer.java:652)
-	at java.base/java.lang.Integer.parseInt(Integer.java:770)
+Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: 2
 	at Solution.main(Solution.java:18)
 ----------------------------------------
 
@@ -71,10 +65,7 @@ Expected Output:
 1: 30003,Bharath,M.Tech,76.5
 
 Your Output: 
-Exception in thread "main" java.lang.NumberFormatException: For input string: "Apply"
-	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
-	at java.base/java.lang.Integer.parseInt(Integer.java:652)
-	at java.base/java.lang.Integer.parseInt(Integer.java:770)
+Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: 2
 	at Solution.main(Solution.java:18)
 ----------------------------------------
 
@@ -100,10 +91,7 @@ Expected Output:
 14: 30003,Bharath,M.Tech,76.5
 
 Your Output: 
-Exception in thread "main" java.lang.NumberFormatException: For input string: "Apply"
-	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
-	at java.base/java.lang.Integer.parseInt(Integer.java:652)
-	at java.base/java.lang.Integer.parseInt(Integer.java:770)
+Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: 2
 	at Solution.main(Solution.java:18)
 ----------------------------------------
 
@@ -125,10 +113,7 @@ Expected Output:
 7: 20006,Murthy,M.Tech,98.7
 
 Your Output: 
-Exception in thread "main" java.lang.NumberFormatException: For input string: "Apply"
-	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
-	at java.base/java.lang.Integer.parseInt(Integer.java:652)
-	at java.base/java.lang.Integer.parseInt(Integer.java:770)
+Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: 2
 	at Solution.main(Solution.java:18)
 ----------------------------------------
 
@@ -154,10 +139,7 @@ Expected Output:
 7: 30003,Bharath,M.Tech,76.5
 
 Your Output: 
-Exception in thread "main" java.lang.NumberFormatException: For input string: "Apply"
-	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
-	at java.base/java.lang.Integer.parseInt(Integer.java:652)
-	at java.base/java.lang.Integer.parseInt(Integer.java:770)
+Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: 2
 	at Solution.main(Solution.java:18)
 ----------------------------------------
 
@@ -170,10 +152,7 @@ Expected Output:
 10005,Bharath,M.Tech,76.5
 
 Your Output: 
-Exception in thread "main" java.lang.NumberFormatException: For input string: "Apply"
-	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
-	at java.base/java.lang.Integer.parseInt(Integer.java:652)
-	at java.base/java.lang.Integer.parseInt(Integer.java:770)
+Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: 2
 	at Solution.main(Solution.java:18)
 ----------------------------------------
 
