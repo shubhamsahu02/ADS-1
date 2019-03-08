@@ -13,8 +13,17 @@ Expected Output:
 7: 30003,Bharath,M.Tech,76.5
 
 Your Output: 
-Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: 2
-	at Solution.main(Solution.java:18)
+ 0ME0.0
+ 0MS0.0
+ 0ME0.0
+
+2: 0M.Tech0.0
+3: 0ME0.0
+4: 0M.Tech0.0
+5: 0MS0.0
+6: 0MS0.0
+7: 0ME0.0
+8: 0MS0.0
 ----------------------------------------
 
 ########## Testcase 1: Failed ##########
@@ -39,8 +48,24 @@ Expected Output:
 14: 30003,Bharath,M.Tech,76.5
 
 Your Output: 
-Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: 2
-	at Solution.main(Solution.java:18)
+ 0ME0.0
+ 0ME0.0
+ 0ME0.0
+
+2: 0ME0.0
+3: 0M.Tech0.0
+4: 0ME0.0
+5: 0M.Tech0.0
+6: 0M.Tech0.0
+7: 0M.Tech0.0
+8: 0ME0.0
+9: 0MS0.0
+10: 0MS0.0
+11: 0ME0.0
+12: 0M.Tech0.0
+13: 0M.Tech0.0
+14: 0MS0.0
+15: 0MS0.0
 ----------------------------------------
 
 ########## Testcase 2: Failed ##########
@@ -65,8 +90,24 @@ Expected Output:
 1: 30003,Bharath,M.Tech,76.5
 
 Your Output: 
-Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: 2
-	at Solution.main(Solution.java:18)
+ 0ME0.0
+ 0MS0.0
+ 0MS0.0
+ 0M.Tech0.0
+ 0M.Tech0.0
+ 0ME0.0
+ 0ME0.0
+ 0MS0.0
+ 0MS0.0
+ 0ME0.0
+ 0M.Tech0.0
+ 0M.Tech0.0
+ 0ME0.0
+ 0M.Tech0.0
+ 0ME0.0
+ 0M.Tech0.0
+
+2: 0ME0.0
 ----------------------------------------
 
 ########## Testcase 3: Failed ##########
@@ -91,8 +132,24 @@ Expected Output:
 14: 30003,Bharath,M.Tech,76.5
 
 Your Output: 
-Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: 2
-	at Solution.main(Solution.java:18)
+ 0ME0.0
+ 0ME0.0
+ 0ME0.0
+
+2: 0ME0.0
+3: 0M.Tech0.0
+4: 0ME0.0
+5: 0M.Tech0.0
+6: 0M.Tech0.0
+7: 0M.Tech0.0
+8: 0ME0.0
+9: 0MS0.0
+10: 0MS0.0
+11: 0ME0.0
+12: 0M.Tech0.0
+13: 0M.Tech0.0
+14: 0MS0.0
+15: 0MS0.0
 ----------------------------------------
 
 ########## Testcase 4: Failed ##########
@@ -113,8 +170,20 @@ Expected Output:
 7: 20006,Murthy,M.Tech,98.7
 
 Your Output: 
-Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: 2
-	at Solution.main(Solution.java:18)
+ 0ME0.0
+ 0ME0.0
+ 0ME0.0
+ 0M.Tech0.0
+ 0M.Tech0.0
+ 0ME0.0
+
+2: 0MS0.0
+3: 0MS0.0
+4: 0ME0.0
+5: 0M.Tech0.0
+6: 0M.Tech0.0
+7: 0MS0.0
+8: 0MS0.0
 ----------------------------------------
 
 ########## Testcase 5: Failed ##########
@@ -139,8 +208,24 @@ Expected Output:
 7: 30003,Bharath,M.Tech,76.5
 
 Your Output: 
-Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: 2
-	at Solution.main(Solution.java:18)
+ 0ME0.0
+ 0ME0.0
+ 0M.Tech0.0
+ 0ME0.0
+ 0M.Tech0.0
+ 0ME0.0
+ 0M.Tech0.0
+ 0M.Tech0.0
+ 0ME0.0
+ 0MS0.0
+
+2: 0MS0.0
+3: 0ME0.0
+4: 0ME0.0
+5: 0M.Tech0.0
+6: 0M.Tech0.0
+7: 0MS0.0
+8: 0MS0.0
 ----------------------------------------
 
 ########## Testcase 6: Failed ##########
@@ -152,7 +237,10 @@ Expected Output:
 10005,Bharath,M.Tech,76.5
 
 Your Output: 
-Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: 2
-	at Solution.main(Solution.java:18)
+ 0ME0.0
+ 0M.Tech0.0
+ 0M.Tech0.0
+ 0MS0.0
+ 0MS0.0
 ----------------------------------------
 
