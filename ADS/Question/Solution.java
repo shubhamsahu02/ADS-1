@@ -28,7 +28,7 @@ public class Solution {
 				int i = 0;
 				while(pq.size() != 0) {
 					i++;
-					System.out.println(i+1 + ":" + pq.delMax());
+					System.out.println(i+1 + ": " + pq.delMax());
 				}
 			}
 
