@@ -15,7 +15,7 @@ public class Solution {
 
 				case "Apply":
 					String[] tokens1 = tokens[1].split(",");
-				 candidate = new Candidate(Integer.parseInt(tokens[0]),tokens[1], tokens[2], Double.parseDouble(tokens[3]));
+				 candidate = new Candidate(Integer.parseInt(tokens1[0]),tokens[1], tokens1[2], Double.parseDouble(tokens1[3]));
 				 pq.insert(candidate);
 				break;
 
@@ -25,8 +25,8 @@ public class Solution {
 
 				case "Ranking" :
 				System.out.println();
-				int i = 0;
-				while(pq.size() != 0) {
+				int size = pq.size();
+				for(int i = 0 ; i < size; i++) {
 					i++;
 					System.out.println(i+1 + ":" + pq.delMax());
 				}

@@ -13,11 +13,17 @@ Expected Output:
 7: 30003,Bharath,M.Tech,76.5
 
 Your Output: 
-Exception in thread "main" java.lang.NumberFormatException: For input string: "Apply"
-	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
-	at java.base/java.lang.Integer.parseInt(Integer.java:652)
-	at java.base/java.lang.Integer.parseInt(Integer.java:770)
-	at Solution.main(Solution.java:18)
+0,10001,Deepak,ME,92.3,ME,0.0
+0,10003,Kumar,MS,92.4,MS,0.0
+0,20004,Shiva,ME,86.4,ME,0.0
+
+2:0,30003,Bharath,M.Tech,76.5,M.Tech,0.0
+3:0,30002,Lakshmi,ME,87.3,ME,0.0
+4:0,30001,Vamsi,M.Tech,98.0,M.Tech,0.0
+5:0,20003,Vipul,MS,89.3,MS,0.0
+6:0,20002,Ramya,MS,88.6,MS,0.0
+7:0,20001,Siva,ME,92.3,ME,0.0
+8:0,10002,Hari,MS,86.4,MS,0.0
 ----------------------------------------
 
 ########## Testcase 1: Failed ##########
@@ -42,11 +48,24 @@ Expected Output:
 14: 30003,Bharath,M.Tech,76.5
 
 Your Output: 
-Exception in thread "main" java.lang.NumberFormatException: For input string: "Apply"
-	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
-	at java.base/java.lang.Integer.parseInt(Integer.java:652)
-	at java.base/java.lang.Integer.parseInt(Integer.java:770)
-	at Solution.main(Solution.java:18)
+0,10001,Kumar,ME,92.2,ME,0.0
+0,10006,Manasa,ME,87,ME,0.0
+0,20007,Manasa,ME,93,ME,0.0
+
+2:0,30004,Akhil,ME,89.2,ME,0.0
+3:0,30003,Bharath,M.Tech,76.5,M.Tech,0.0
+4:0,30002,Lakshmi,ME,87.3,ME,0.0
+5:0,30001,Vamsi,M.Tech,89.0,M.Tech,0.0
+6:0,20006,Murthy,M.Tech,84,M.Tech,0.0
+7:0,20005,Ramu,M.Tech,85,M.Tech,0.0
+8:0,20004,Shiva,ME,86.4,ME,0.0
+9:0,20003,Vipul,MS,89.3,MS,0.0
+10:0,20002,Ramya,MS,98.6,MS,0.0
+11:0,20001,Deepak,ME,92.3,ME,0.0
+12:0,10005,Murthy,M.Tech,88,M.Tech,0.0
+13:0,10004,Ramu,M.Tech,89,M.Tech,0.0
+14:0,10003,Siva,MS,92.4,MS,0.0
+15:0,10002,Hari,MS,86.4,MS,0.0
 ----------------------------------------
 
 ########## Testcase 2: Failed ##########
@@ -71,11 +90,24 @@ Expected Output:
 1: 30003,Bharath,M.Tech,76.5
 
 Your Output: 
-Exception in thread "main" java.lang.NumberFormatException: For input string: "Apply"
-	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
-	at java.base/java.lang.Integer.parseInt(Integer.java:652)
-	at java.base/java.lang.Integer.parseInt(Integer.java:770)
-	at Solution.main(Solution.java:18)
+0,10001,Kumar,ME,92.2,ME,0.0
+0,10002,Hari,MS,86.4,MS,0.0
+0,10003,Siva,MS,92.4,MS,0.0
+0,10004,Ramu,M.Tech,89,M.Tech,0.0
+0,10005,Murthy,M.Tech,88,M.Tech,0.0
+0,10006,Manasa,ME,87,ME,0.0
+0,20001,Deepak,ME,92.3,ME,0.0
+0,20002,Ramya,MS,98.6,MS,0.0
+0,20003,Vipul,MS,89.3,MS,0.0
+0,20004,Shiva,ME,86.4,ME,0.0
+0,20005,Ramu,M.Tech,85,M.Tech,0.0
+0,20006,Murthy,M.Tech,84,M.Tech,0.0
+0,20007,Manasa,ME,93,ME,0.0
+0,30001,Vamsi,M.Tech,89.0,M.Tech,0.0
+0,30002,Lakshmi,ME,87.3,ME,0.0
+0,30003,Bharath,M.Tech,76.5,M.Tech,0.0
+
+2:0,30004,Akhil,ME,89.2,ME,0.0
 ----------------------------------------
 
 ########## Testcase 3: Failed ##########
@@ -100,11 +132,24 @@ Expected Output:
 14: 30003,Bharath,M.Tech,76.5
 
 Your Output: 
-Exception in thread "main" java.lang.NumberFormatException: For input string: "Apply"
-	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
-	at java.base/java.lang.Integer.parseInt(Integer.java:652)
-	at java.base/java.lang.Integer.parseInt(Integer.java:770)
-	at Solution.main(Solution.java:18)
+0,10001,Kumar,ME,99.2,ME,0.0
+0,10006,Manasa,ME,95,ME,0.0
+0,20007,Manasa,ME,93,ME,0.0
+
+2:0,30004,Akhil,ME,89.2,ME,0.0
+3:0,30003,Bharath,M.Tech,76.5,M.Tech,0.0
+4:0,30002,Lakshmi,ME,87.3,ME,0.0
+5:0,30001,Vamsi,M.Tech,89.0,M.Tech,0.0
+6:0,20006,Murthy,M.Tech,84,M.Tech,0.0
+7:0,20005,Ramu,M.Tech,85,M.Tech,0.0
+8:0,20004,Shiva,ME,86.4,ME,0.0
+9:0,20003,Vipul,MS,89.3,MS,0.0
+10:0,20002,Ramya,MS,98.6,MS,0.0
+11:0,20001,Deepak,ME,92.3,ME,0.0
+12:0,10005,Murthy,M.Tech,96,M.Tech,0.0
+13:0,10004,Ramu,M.Tech,97,M.Tech,0.0
+14:0,10003,Siva,MS,97.4,MS,0.0
+15:0,10002,Hari,MS,98.4,MS,0.0
 ----------------------------------------
 
 ########## Testcase 4: Failed ##########
@@ -125,11 +170,20 @@ Expected Output:
 7: 20006,Murthy,M.Tech,98.7
 
 Your Output: 
-Exception in thread "main" java.lang.NumberFormatException: For input string: "Apply"
-	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
-	at java.base/java.lang.Integer.parseInt(Integer.java:652)
-	at java.base/java.lang.Integer.parseInt(Integer.java:770)
-	at Solution.main(Solution.java:18)
+0,10001,Kumar,ME,99.1,ME,0.0
+0,10006,Manasa,ME,99.1,ME,0.0
+0,20007,Manasa,ME,99.1,ME,0.0
+0,20006,Murthy,M.Tech,98.7,M.Tech,0.0
+0,20005,Ramu,M.Tech,99.1,M.Tech,0.0
+0,20004,Shiva,ME,99.1,ME,0.0
+
+2:0,20003,Vipul,MS,99.1,MS,0.0
+3:0,20002,Ramya,MS,99.1,MS,0.0
+4:0,20001,Deepak,ME,99.1,ME,0.0
+5:0,10005,Murthy,M.Tech,98.7,M.Tech,0.0
+6:0,10004,Ramu,M.Tech,99.1,M.Tech,0.0
+7:0,10003,Siva,MS,99.1,MS,0.0
+8:0,10002,Hari,MS,99.1,MS,0.0
 ----------------------------------------
 
 ########## Testcase 5: Failed ##########
@@ -154,11 +208,24 @@ Expected Output:
 7: 30003,Bharath,M.Tech,76.5
 
 Your Output: 
-Exception in thread "main" java.lang.NumberFormatException: For input string: "Apply"
-	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
-	at java.base/java.lang.Integer.parseInt(Integer.java:652)
-	at java.base/java.lang.Integer.parseInt(Integer.java:770)
-	at Solution.main(Solution.java:18)
+0,10001,Kumar,ME,99.2,ME,0.0
+0,30004,Akhil,ME,89.2,ME,0.0
+0,30003,Bharath,M.Tech,76.5,M.Tech,0.0
+0,30002,Lakshmi,ME,87.3,ME,0.0
+0,30001,Vamsi,M.Tech,89.0,M.Tech,0.0
+0,20007,Manasa,ME,93,ME,0.0
+0,20006,Murthy,M.Tech,84,M.Tech,0.0
+0,20005,Ramu,M.Tech,85,M.Tech,0.0
+0,20004,Shiva,ME,86.4,ME,0.0
+0,20003,Vipul,MS,89.3,MS,0.0
+
+2:0,20002,Ramya,MS,98.6,MS,0.0
+3:0,20001,Deepak,ME,92.3,ME,0.0
+4:0,10006,Manasa,ME,95,ME,0.0
+5:0,10005,Murthy,M.Tech,96,M.Tech,0.0
+6:0,10004,Ramu,M.Tech,97,M.Tech,0.0
+7:0,10003,Siva,MS,97.4,MS,0.0
+8:0,10002,Hari,MS,98.4,MS,0.0
 ----------------------------------------
 
 ########## Testcase 6: Failed ##########
@@ -170,10 +237,10 @@ Expected Output:
 10005,Bharath,M.Tech,76.5
 
 Your Output: 
-Exception in thread "main" java.lang.NumberFormatException: For input string: "Apply"
-	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
-	at java.base/java.lang.Integer.parseInt(Integer.java:652)
-	at java.base/java.lang.Integer.parseInt(Integer.java:770)
-	at Solution.main(Solution.java:18)
+0,10001,Kumar,ME,99.2,ME,0.0
+0,10005,Bharath,M.Tech,76.5,M.Tech,0.0
+0,10004,Ramu,M.Tech,97,M.Tech,0.0
+0,10003,Siva,MS,97.4,MS,0.0
+0,10002,Hari,MS,98.4,MS,0.0
 ----------------------------------------
 
