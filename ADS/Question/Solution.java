@@ -30,6 +30,7 @@ public class Solution {
 					i++;
 					System.out.println(i+1 + ":" + pq.delMax());
 				}
+				break;
 			}
 
 		}
