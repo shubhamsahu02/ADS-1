@@ -4,7 +4,7 @@ class Candidate implements Comparable<Candidate> {
 	int studid;
 	double percentage;
 
-public Candidate(int studid, String name, String degree, double perecentage) {
+public Candidate(int studid, String name, String degree, double percentage) {
 	this.studid = studid;
 	this.name = name;
 	this.degree = degree;
@@ -15,7 +15,7 @@ public Candidate(int studid, String name, String degree, double perecentage) {
 		return studid;
 	}
 
-	public void setId(int studid) {
+	public void setId(int id) {
 		this.studid = studid;
 	}
 
@@ -60,9 +60,9 @@ public Candidate(int studid, String name, String degree, double perecentage) {
 			return -1;
 		}
 
-
+		else {
 			return 0;
-
+		}
 
 
 
