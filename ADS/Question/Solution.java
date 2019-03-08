@@ -14,8 +14,8 @@ public class Solution {
 			switch (tokens[0]) {
 
 				case "Apply":
-					String[] tokens1 = tokens[1].split(",");
-				 candidate = new Candidate(Integer.parseInt(tokens1[0]),tokens1[1], tokens1[2], Double.parseDouble(tokens1[3]));
+				String[] tokens1 = tokens[1].split(",");
+				 candidate = new Candidate(Integer.parseInt(tokens1[0]), tokens1[1], tokens1[2], Double.parseDouble(tokens1[3]));
 				 pq.insert(candidate);
 				break;
 
@@ -27,7 +27,6 @@ public class Solution {
 				System.out.println();
 				int size = pq.size();
 				for(int i = 0 ; i < size; i++) {
-					i++;
 					System.out.println(i+1 + ":" + pq.delMax());
 				}
 				break;

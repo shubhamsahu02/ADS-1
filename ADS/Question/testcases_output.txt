@@ -17,10 +17,13 @@ Your Output:
 0,Kumar,MS,0.0
 0,Shiva,ME,0.0
 
-2:0,Bharath,M.Tech,0.0
-4:0,Lakshmi,ME,0.0
-6:0,Vamsi,M.Tech,0.0
-8:0,Vipul,MS,0.0
+1:0,Bharath,M.Tech,0.0
+2:0,Lakshmi,ME,0.0
+3:0,Vamsi,M.Tech,0.0
+4:0,Vipul,MS,0.0
+5:0,Ramya,MS,0.0
+6:0,Siva,ME,0.0
+7:0,Hari,MS,0.0
 ----------------------------------------
 
 ########## Testcase 1: Failed ##########
@@ -49,13 +52,20 @@ Your Output:
 0,Manasa,ME,0.0
 0,Manasa,ME,0.0
 
-2:0,Akhil,ME,0.0
-4:0,Bharath,M.Tech,0.0
-6:0,Lakshmi,ME,0.0
-8:0,Vamsi,M.Tech,0.0
-10:0,Murthy,M.Tech,0.0
+1:0,Akhil,ME,0.0
+2:0,Bharath,M.Tech,0.0
+3:0,Lakshmi,ME,0.0
+4:0,Vamsi,M.Tech,0.0
+5:0,Murthy,M.Tech,0.0
+6:0,Ramu,M.Tech,0.0
+7:0,Shiva,ME,0.0
+8:0,Vipul,MS,0.0
+9:0,Ramya,MS,0.0
+10:0,Deepak,ME,0.0
+11:0,Murthy,M.Tech,0.0
 12:0,Ramu,M.Tech,0.0
-14:0,Shiva,ME,0.0
+13:0,Siva,MS,0.0
+14:0,Hari,MS,0.0
 ----------------------------------------
 
 ########## Testcase 2: Failed ##########
@@ -97,7 +107,7 @@ Your Output:
 0,Lakshmi,ME,0.0
 0,Bharath,M.Tech,0.0
 
-2:0,Akhil,ME,0.0
+1:0,Akhil,ME,0.0
 ----------------------------------------
 
 ########## Testcase 3: Failed ##########
@@ -126,13 +136,20 @@ Your Output:
 0,Manasa,ME,0.0
 0,Manasa,ME,0.0
 
-2:0,Akhil,ME,0.0
-4:0,Bharath,M.Tech,0.0
-6:0,Lakshmi,ME,0.0
-8:0,Vamsi,M.Tech,0.0
-10:0,Murthy,M.Tech,0.0
+1:0,Akhil,ME,0.0
+2:0,Bharath,M.Tech,0.0
+3:0,Lakshmi,ME,0.0
+4:0,Vamsi,M.Tech,0.0
+5:0,Murthy,M.Tech,0.0
+6:0,Ramu,M.Tech,0.0
+7:0,Shiva,ME,0.0
+8:0,Vipul,MS,0.0
+9:0,Ramya,MS,0.0
+10:0,Deepak,ME,0.0
+11:0,Murthy,M.Tech,0.0
 12:0,Ramu,M.Tech,0.0
-14:0,Shiva,ME,0.0
+13:0,Siva,MS,0.0
+14:0,Hari,MS,0.0
 ----------------------------------------
 
 ########## Testcase 4: Failed ##########
@@ -160,10 +177,13 @@ Your Output:
 0,Ramu,M.Tech,0.0
 0,Shiva,ME,0.0
 
-2:0,Vipul,MS,0.0
-4:0,Ramya,MS,0.0
-6:0,Deepak,ME,0.0
-8:0,Murthy,M.Tech,0.0
+1:0,Vipul,MS,0.0
+2:0,Ramya,MS,0.0
+3:0,Deepak,ME,0.0
+4:0,Murthy,M.Tech,0.0
+5:0,Ramu,M.Tech,0.0
+6:0,Siva,MS,0.0
+7:0,Hari,MS,0.0
 ----------------------------------------
 
 ########## Testcase 5: Failed ##########
@@ -199,10 +219,13 @@ Your Output:
 0,Shiva,ME,0.0
 0,Vipul,MS,0.0
 
-2:0,Ramya,MS,0.0
-4:0,Deepak,ME,0.0
-6:0,Manasa,ME,0.0
-8:0,Murthy,M.Tech,0.0
+1:0,Ramya,MS,0.0
+2:0,Deepak,ME,0.0
+3:0,Manasa,ME,0.0
+4:0,Murthy,M.Tech,0.0
+5:0,Ramu,M.Tech,0.0
+6:0,Siva,MS,0.0
+7:0,Hari,MS,0.0
 ----------------------------------------
 
 ########## Testcase 6: Failed ##########
