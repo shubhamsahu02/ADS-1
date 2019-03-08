@@ -60,9 +60,9 @@ public Candidate(int studid, String name, String degree, double perecentage) {
 			return -1;
 		}
 
-		else {
+
 			return 0;
-		}
+
 
 
 
