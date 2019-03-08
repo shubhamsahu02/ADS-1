@@ -13,17 +13,17 @@ public class Solution {
 
 			switch (tokens[0]) {
 
-				case "Apply" :
+				case "Apply":
 					String[] tokens1 = tokens[1].split(",");
 				 candidate = new Candidate(Integer.parseInt(tokens[0]),tokens[1], tokens[2], Double.parseDouble(tokens[3]));
 				 pq.insert(candidate);
 				break;
 
-				case "Recruit_Top_Candidate" :
+				case "Recruit_Top_Candidate":
 				System.out.println(pq.delMax());
 				break;
 
-				case "Ranking" :
+				case "Ranking":
 				System.out.println();
 				int i = 0;
 				while(pq.size() != 0) {
