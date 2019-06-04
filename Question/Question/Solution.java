@@ -7,7 +7,7 @@ class Solution {
 
     public static void main(String[] args) {
         int roll,marks;
-        DecimalFormat numberFormat = new DecimalFormat("#0");
+        DecimalFormat numberFormat = new DecimalFormat("#.0");
         Scanner s = new Scanner(System.in);
         int number = Integer.parseInt(s.nextLine());
         String[] tokens = new String[100];
@@ -18,7 +18,7 @@ class Solution {
             tokens = s.nextLine().split(",");
             map.put(Integer.parseInt(tokens[0]), Double.parseDouble(tokens[1]));
             array[i] = Double.parseDouble(tokens[1]);
-        }       
+        } 
         int m = Integer.parseInt(s.nextLine());
         int[] rolls = new int[m];
         Double percent = 0.0;
@@ -30,7 +30,7 @@ class Solution {
         for (Integer keys: map.keySet()) {
             int count=0;
             
-            for (int i=0;i<array.length ;i++ ) {
+            for (int i=0; i<array.length; i++) {
                 if(array[i]<=map.get(keys)){
                     count++;
                 }
@@ -41,7 +41,7 @@ class Solution {
 
         for(int i = 0; i < m; i++) {
             records = tmap.get(rolls[i]);
-            System.out.println((Double) (records));
+            System.out.println((double) Math.round (records *100 )/100);
         }
     }
 }
