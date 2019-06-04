@@ -18,7 +18,7 @@ Starting audit...
 [ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\Question\Question\Solution.java:33:24: '=' is not followed by whitespace. [WhitespaceAround]
 [ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\Question\Question\Solution.java:33:28: '<' is not preceded with whitespace. [WhitespaceAround]
 [ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\Question\Question\Solution.java:33:29: '<' is not followed by whitespace. [WhitespaceAround]
-[ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\Question\Question\Solution.java:34:19: 'if' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\Question\Question\Solution.java:34:19: 'if' is not followed by whitespace. [WhitespaceAfter]
 [ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\Question\Question\Solution.java:34:28: '<=' is not preceded with whitespace. [WhitespaceAround]
 [ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\Question\Question\Solution.java:34:30: '<=' is not followed by whitespace. [WhitespaceAround]
 [ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\Question\Question\Solution.java:34:44: '{' is not preceded with whitespace. [WhitespaceAround]
@@ -28,13 +28,6 @@ Starting audit...
 [ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\Question\Question\Solution.java:38:34: '/' is not preceded with whitespace. [WhitespaceAround]
 [ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\Question\Question\Solution.java:38:35: '/' is not followed by whitespace. [WhitespaceAround]
 [ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\Question\Question\Solution.java:39:27: ',' is not followed by whitespace. [WhitespaceAfter]
-[ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\Question\Question\Solution.java:42:12: 'for' is not followed by whitespace. [WhitespaceAround]
-[ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\Question\Question\Solution.java:44:52: '(' is preceded with whitespace. [MethodParamPad]
-[ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\Question\Question\Solution.java:44:62: '*' is not followed by whitespace. [WhitespaceAround]
-[ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\Question\Question\Solution.java:44:62: '100' is a magic number. [MagicNumber]
-[ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\Question\Question\Solution.java:44:65: ')' is preceded with whitespace. [ParenPad]
-[ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\Question\Question\Solution.java:44:67: '/' is not preceded with whitespace. [WhitespaceAround]
-[ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\Question\Question\Solution.java:44:68: '/' is not followed by whitespace. [WhitespaceAround]
-[ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\Question\Question\Solution.java:44:68: '100' is a magic number. [MagicNumber]
+[ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\Question\Question\Solution.java:42:12: 'for' is not followed by whitespace. [WhitespaceAfter]
 Audit done.
-Checkstyle ends with 37 errors.
+Checkstyle ends with 30 errors.

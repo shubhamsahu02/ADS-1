@@ -41,7 +41,7 @@ class Solution {
 
         for(int i = 0; i < m; i++) {
             records = tmap.get(rolls[i]);
-            System.out.println((double) Math.round (records *100 )/100);
+            System.out.println((double) (records));
         }
     }
 }
