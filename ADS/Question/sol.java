@@ -76,11 +76,11 @@ class Student  implements Comparable <Student> {
 			}
 
 			if(this.id > that.id) {
-				return 1;
+				return -1;
 			}
 
 			if (this.id < that.id) {
-				return -1;
+				return 1;
 			}
 
 			else {
