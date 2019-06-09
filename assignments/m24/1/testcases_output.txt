@@ -8,6 +8,7 @@ Wayne
 Alice
 Bob
 John
+
 Your Output: 
 Clark
 Rivest
@@ -18,6 +19,7 @@ Alice
 Bob
 John
 ----------------------------------------
+
 ########## Testcase 1: Passed ##########
 Expected Output: 
 100.1
@@ -33,6 +35,7 @@ Expected Output:
 11.2
 45.4
 99.3
+
 Your Output: 
 100.1
 100.0
@@ -48,7 +51,8 @@ Your Output:
 45.4
 99.3
 ----------------------------------------
-########## Testcase 2: Passed ##########
+
+########## Testcase 2: Failed ##########
 Expected Output: 
 Knuth
 100.0
@@ -67,6 +71,7 @@ Student doesn't exists...
 Student doesn't exists...
 Student doesn't exists...
 Student doesn't exists...
+
 Your Output: 
 Knuth
 100.0
@@ -81,12 +86,13 @@ John
 Hank
 13.3
 Jeannette Caines
-Student doesn't exists...
-Student doesn't exists...
-Student doesn't exists...
-Student doesn't exists...
+null
+null
+null
+null
 ----------------------------------------
-########## Testcase 3: Passed ##########
+
+########## Testcase 3: Failed ##########
 Expected Output: 
 7.213
 Michael Hale
@@ -588,6 +594,7 @@ Elaine Hall
 Robert Macfarlane
 John Hale
 53.79
+
 Your Output: 
 7.213
 Michael Hale
@@ -920,7 +927,7 @@ Annie Maccoby
 David Macfarlane
 10.42
 88.39
-Student doesn't exists...
+null
 8.759
 40.1
 35.74
@@ -961,7 +968,7 @@ Korey Jackson
 Betty Halbreich
 35.6
 Dana C. Jack
-Student doesn't exists...
+null
 Elaine Hall
 Bonnie MacBird
 54.45
@@ -1041,7 +1048,7 @@ Chuck Hagel
 John W. Jacobs
 David Hagedorn
 Todd Haberkorn
-Student doesn't exists...
+null
 Mary Curran Hackett
 Catherine Macaulay
 Kinley MacGregor
@@ -1090,3 +1097,4 @@ Robert Macfarlane
 John Hale
 53.79
 ----------------------------------------
+

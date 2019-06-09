@@ -11,7 +11,6 @@ class Student {
 	}
 	/**
 	 * [brief description]
-	 * 
 	 */
 	public double getmarks() {
 		return this.totalmarks;
