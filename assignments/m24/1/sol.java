@@ -20,7 +20,12 @@ public class sol {
 			String[] query = scan.nextLine().split(" ");
 			switch (query[2]) {
 				case "1" :
+				if(name.get(Integer.parseInt(query[1]).equals(null))) {
+					System.out.println("Student doesn't exists...");
+				}
+				else {
 				System.out.println(name.get(Integer.parseInt(query[1])));
+				}
 				break;
 
 				case "2" :
