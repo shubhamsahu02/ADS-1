@@ -25,8 +25,12 @@ public class sol {
 
 				case "2" :
 				System.out.println(marks.get(Integer.parseInt(query[1])));
-
 				break;
+
+				default :
+				System.out.println("Student doesn't exists...");
+				break;
+
 			}
 		}
 
