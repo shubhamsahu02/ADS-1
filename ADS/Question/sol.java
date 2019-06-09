@@ -19,16 +19,26 @@ public class sol {
 			}
 
 			else if (str[0].equals("Recruit_Top_Candidate")) {
-				System.out.println(max.delMax());	
+				System.out.println(max.max());
+				max.delMax();
+				
+				// System.out.println(max.delMax());	
 			}
 
-			else if (str[0].equals("Ranking")) {
+			else  {
+			// 	System.out.println();
+			// 	for (int i = 0; i < max.size(); i++) {
+			// 	System.out.println(i+1 + ":" + max.delMax());
+			// }
+				int k = 0;
 				System.out.println();
-				for (int i = 0; i < max.size(); i++) {
-				System.out.println(i+1 + ":" + max.delMax());
+				while(max.size() > 0) {
+					k++;
+					System.out.println(k + ": " + max.delMax());
+					// size--
+				}
 			}
-
-			}
+			// System.out.println(max.size());
 		}
 
 	}
