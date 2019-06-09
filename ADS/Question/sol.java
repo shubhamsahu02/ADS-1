@@ -23,6 +23,7 @@ public class sol {
 			}
 
 			else if (str[0].equals("Ranking")) {
+				System.out.println();
 				for (int i = 0; i < max.size(); i++) {
 				System.out.println(i+1 + ":" + max.delMax());
 			}
