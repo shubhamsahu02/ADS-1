@@ -25,17 +25,17 @@ public class sol {
 				System.out.println(max.delMax());	
 			}
 
-			else  {
-			// 	System.out.println();
-			// 	for (int i = 0; i < max.size(); i++) {
-			// 	System.out.println(i+1 + ":" + max.delMax());
-			// }
-				int k = 0;
+			else {
 				System.out.println();
-				while(max.size() > 0) {
-					k++;
-					System.out.println(k + ": " + max.delMax());
-					// size--
+				for (int i = 0; i < max.size(); i++) {
+				System.out.println(i+1 + ":" + max.delMax());
+			}
+				// int k = 0;
+				// System.out.println();
+				// while(max.size() > 0) {
+				// 	k++;
+				// 	System.out.println(k + ": " + max.delMax());
+				// 	// size--
 				}
 			}
 			// System.out.println(max.size());
@@ -43,7 +43,7 @@ public class sol {
 
 	}
 
-}
+// }
 
 
 class Student  implements Comparable <Student> {
