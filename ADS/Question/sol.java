@@ -19,10 +19,10 @@ public class sol {
 			}
 
 			else if (str[0].equals("Recruit_Top_Candidate")) {
-				System.out.println(max.max());
-				max.delMax();
+				// System.out.println(max.max());
+				// max.delMax();
 				
-				// System.out.println(max.delMax());	
+				System.out.println(max.delMax());	
 			}
 
 			else  {
