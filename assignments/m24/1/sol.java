@@ -7,7 +7,7 @@ public class sol {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		int n = Integer.parseInt(scan.nextLine());
-		HashMap<Integer, Student> name = new HashMap<Integer, String>();
+		HashMap<Integer, String> name = new HashMap<Integer, String>();
 		HashMap<Integer, Double> marks = new HashMap<Integer, Double>(); 
 		for (int i = 0; i < n; i++) {
 			String[] str = scan.nextLine().split(",");
@@ -20,7 +20,7 @@ public class sol {
 			String[] query = scan.nextLine().split(" ");
 			switch (query[2]) {
 				case "1" :
-				if(name.get(Integer.parseInt(query[1]).equals(null))) {
+				if(name.get(Integer.parseInt(query[1])) == null) {
 					System.out.println("Student doesn't exists...");
 				}
 				else {
@@ -29,16 +29,23 @@ public class sol {
 				break;
 
 				case "2" :
+				if(marks.get(Integer.parseInt(query[1])) == null) {
+					System.out.println("Student doesn't exists...");
+				}
+				else {
 				System.out.println(marks.get(Integer.parseInt(query[1])));
+				}
 				break;
 
 				default :
 				System.out.println("Student doesn't exists...");
 				break;
+
 			}
 		}
 	}
-}
+
+	}
 
 	class Student {
 
