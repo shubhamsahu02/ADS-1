@@ -20,6 +20,7 @@ class sol {
 			marks.put(Integer.parseInt(token[0]), Double.parseDouble(token[2]));
 		}
 		int query = scan.nextInt();
+		System.out.println(name.keySet() + " This are the keys" + marks.keySet());
 		for (int j = 0; j < query; j++) {
 			String[] tokens = scan.nextLine(). split(" ");
 			if (tokens[0].equals("get")) {
