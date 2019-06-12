@@ -7,7 +7,7 @@ public class sol {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		int n = Integer.parseInt(scan.nextLine());
-		HashMap<Integer, String> name = new HashMap<Integer, String>();
+		HashMap<Integer, Student> name = new HashMap<Integer, String>();
 		HashMap<Integer, Double> marks = new HashMap<Integer, Double>(); 
 		for (int i = 0; i < n; i++) {
 			String[] str = scan.nextLine().split(",");
@@ -35,11 +35,33 @@ public class sol {
 				default :
 				System.out.println("Student doesn't exists...");
 				break;
-
 			}
 		}
+	}
+}
 
+	class Student {
 
+		String name;
+		Double marks;
+
+		Student(String name, Double marks) {
+
+			this.name = name;
+			this.marks = marks;
 		}
 
+		public String getName() {
+			return name;
+		}
+
+		public Double getMarks() {
+			return marks;
+		}
+
+		public String toString() {
+			String str = "";
+			str = str + this.name + this.marks;
+			return str;
+		}
 	}

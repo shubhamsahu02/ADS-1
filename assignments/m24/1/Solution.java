@@ -1,4 +1,5 @@
 import java.util.Scanner;
+
 class Student {
 	private String studentname;
 	private double totalmarks;
