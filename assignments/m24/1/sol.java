@@ -21,7 +21,7 @@ class sol {
 		}
 		int query = scan.nextInt();
 		// System.out.println(name.keySet() + " This are the keys" + marks.keySet());
-		for (int j = 0; j < query; j++) {
+		for (int j = 0; j <= query; j++) {
 			String[] tokens = scan.nextLine(). split(" ");
 			if (tokens[0].equals("get")) {
 				if(Integer.parseInt(tokens[2]) == 1) {

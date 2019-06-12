@@ -1,4 +1,4 @@
-########## Testcase 0: Failed ##########
+########## Testcase 0: Passed ##########
 Expected Output: 
 Clark
 Rivest
@@ -17,9 +17,10 @@ Fred
 Wayne
 Alice
 Bob
+John
 ----------------------------------------
 
-########## Testcase 1: Failed ##########
+########## Testcase 1: Passed ##########
 Expected Output: 
 100.1
 100.0
@@ -48,6 +49,7 @@ Your Output:
 65.7
 11.2
 45.4
+99.3
 ----------------------------------------
 
 ########## Testcase 2: Failed ##########
@@ -84,6 +86,7 @@ John
 Hank
 13.3
 Jeannette Caines
+null
 null
 null
 null
@@ -1092,5 +1095,6 @@ Fiona MacDonald
 Elaine Hall
 Robert Macfarlane
 John Hale
+53.79
 ----------------------------------------
 
