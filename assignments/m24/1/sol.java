@@ -20,19 +20,16 @@ class sol {
 			marks.put(Integer.parseInt(token[0]), Double.parseDouble(token[2]));
 		}
 		int query = scan.nextInt();
-		System.out.println(name.keySet() + " This are the keys" + marks.keySet());
+		// System.out.println(name.keySet() + " This are the keys" + marks.keySet());
 		for (int j = 0; j < query; j++) {
 			String[] tokens = scan.nextLine(). split(" ");
 			if (tokens[0].equals("get")) {
 				if(Integer.parseInt(tokens[2]) == 1) {
-					 System.out.println(name.get(tokens[1]));
+					 System.out.println(name.get(Integer.parseInt(tokens[1])));
 				}
 
-				else {
-					System.out.println("Student doesn't exists...");
-				}
-				if(Integer.parseInt(tokens[2]) == 2) {
-					 System.out.println(marks.get(tokens[1]));
+				else if(Integer.parseInt(tokens[2]) == 2) {
+					 System.out.println(marks.get(Integer.parseInt(tokens[1])));
 				}
 
 				else {
