@@ -22,11 +22,12 @@ class sol {
 		int query = scan.nextInt();
 		// System.out.println(name.keySet() + " This are the keys" + marks.keySet());
 		for (int j = 0; j < query+1; j++) {
-			String[] tokens = scan.nextLine(). split(" ");
+			String[] tokens = scan.nextLine().split(" ");
 			if (tokens[0].equals("get")) {
 
 				if(tokens[2].equals("1")) {
 					if(name.get(Integer.parseInt(tokens[2])) == null) {
+						System.out.println(name.get(Integer.parseInt(tokens[2])) + " im val");
 						System.out.println("Student doesn't exists...");
 			// }	
 					}
