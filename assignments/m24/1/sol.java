@@ -12,6 +12,7 @@ class sol {
 		HashMap<Integer, String> name = new HashMap<>();
 		HashMap<Integer, Double> marks = new HashMap<>();
 		int n = scan.nextInt();
+		scan.nextLine();
 		for (int i = 0; i < n; i++) {
 			String[] token = scan.nextLine().split(" ");
 			name.put(Integer.parseInt(token[0]), token[1]);
