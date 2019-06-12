@@ -25,21 +25,26 @@ class sol {
 			String[] tokens = scan.nextLine(). split(" ");
 			if (tokens[0].equals("get")) {
 
-				if(name.get(Integer.parseInt(tokens[1])) != null && tokens[2].equals("1")) {
-					 System.out.println(name.get(Integer.parseInt(tokens[1])));
-			// 	}
-				}
-
-				if(marks.get(Integer.parseInt(tokens[1])) != null && tokens[2].equals("2")) {
-					 // System.out.println(name.get(Integer.parseInt(tokens[1])));
-			// 	}
-
-					 System.out.println(marks.get(Integer.parseInt(tokens[1])));
+				if(tokens[2].equals("1")) {
+					if(name.get(Integer.parseInt(tokens[2])) == null) {
+						System.out.println("Student doesn't exists...");
+			// }	
+					}
+					else {
+					System.out.println(name.get(Integer.parseInt(tokens[1])));
+			// 	}	
+					}
 				}
 
 				else {
-					System.out.println("Student doesn't exists...");
-			// }
+					if(marks.get(Integer.parseInt(tokens[2])) == null) {
+						System.out.println("Student doesn't exists...");
+			// }	
+					}
+					else {
+					System.out.println(marks.get(Integer.parseInt(tokens[1])));
+			// 	}	
+					}
 				}
 				
 			// 	if(Integer.parseInt(tokens[2]) == 1) {
