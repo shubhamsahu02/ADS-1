@@ -11,10 +11,11 @@ class sol {
 		Scanner scan = new Scanner(System.in);
 		HashMap<Integer, String> name = new HashMap<>();
 		HashMap<Integer, Double> marks = new HashMap<>();
-		int n = scan.nextInt();
-		scan.nextLine();
+		int n = Integer.parseInt(scan.nextLine());
+		// scan.nextLine();
 		for (int i = 0; i < n; i++) {
 			String[] token = scan.nextLine().split(",");
+			System.out.println(token[0]);
 			name.put(Integer.parseInt(token[0]), token[1]);
 			marks.put(Integer.parseInt(token[0]), Double.parseDouble(token[1]));
 		}

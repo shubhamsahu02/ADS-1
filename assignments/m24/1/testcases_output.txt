@@ -10,11 +10,12 @@ Bob
 John
 
 Your Output: 
+101
 Exception in thread "main" java.lang.NumberFormatException: For input string: "Alice"
 	at java.base/jdk.internal.math.FloatingDecimal.readJavaFormatString(FloatingDecimal.java:2054)
 	at java.base/jdk.internal.math.FloatingDecimal.parseDouble(FloatingDecimal.java:110)
 	at java.base/java.lang.Double.parseDouble(Double.java:543)
-	at sol.main(sol.java:19)
+	at sol.main(sol.java:20)
 ----------------------------------------
 
 ########## Testcase 1: Failed ##########
@@ -34,11 +35,12 @@ Expected Output:
 99.3
 
 Your Output: 
+101
 Exception in thread "main" java.lang.NumberFormatException: For input string: "Alice"
 	at java.base/jdk.internal.math.FloatingDecimal.readJavaFormatString(FloatingDecimal.java:2054)
 	at java.base/jdk.internal.math.FloatingDecimal.parseDouble(FloatingDecimal.java:110)
 	at java.base/java.lang.Double.parseDouble(Double.java:543)
-	at sol.main(sol.java:19)
+	at sol.main(sol.java:20)
 ----------------------------------------
 
 ########## Testcase 2: Failed ##########
@@ -62,11 +64,12 @@ Student doesn't exists...
 Student doesn't exists...
 
 Your Output: 
+101
 Exception in thread "main" java.lang.NumberFormatException: For input string: "Alice"
 	at java.base/jdk.internal.math.FloatingDecimal.readJavaFormatString(FloatingDecimal.java:2054)
 	at java.base/jdk.internal.math.FloatingDecimal.parseDouble(FloatingDecimal.java:110)
 	at java.base/java.lang.Double.parseDouble(Double.java:543)
-	at sol.main(sol.java:19)
+	at sol.main(sol.java:20)
 ----------------------------------------
 
 ########## Testcase 3: Failed ##########
@@ -573,10 +576,11 @@ John Hale
 53.79
 
 Your Output: 
+10001
 Exception in thread "main" java.lang.NumberFormatException: For input string: "H3CZ"
 	at java.base/jdk.internal.math.FloatingDecimal.readJavaFormatString(FloatingDecimal.java:2054)
 	at java.base/jdk.internal.math.FloatingDecimal.parseDouble(FloatingDecimal.java:110)
 	at java.base/java.lang.Double.parseDouble(Double.java:543)
-	at sol.main(sol.java:19)
+	at sol.main(sol.java:20)
 ----------------------------------------
 
