@@ -32,9 +32,9 @@ class sol {
 					 System.out.println(marks.get(Integer.parseInt(tokens[1])));
 				}
 
-			// 	else {
-			// 		System.out.println("Student doesn't exists...");
-			// }
+				else {
+					System.out.println("Student doesn't exists...");
+			}
 
 			}
 		}
