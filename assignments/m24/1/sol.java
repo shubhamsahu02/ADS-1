@@ -27,7 +27,7 @@ class sol {
 
 				if(tokens[2].equals("1")) {
 					if(name.get(Integer.parseInt(tokens[2])) == null) {
-						System.out.println(name.get(Integer.parseInt(tokens[2])) + " im val");
+						// System.out.println(name.get(Integer.parseInt(tokens[1])) + " im val");
 						System.out.println("Student doesn't exists...");
 			// }	
 					}
