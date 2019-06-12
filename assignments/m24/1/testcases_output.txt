@@ -10,11 +10,11 @@ Bob
 John
 
 Your Output: 
-Exception in thread "main" java.lang.NumberFormatException: For input string: "101,Alice,88.7"
-	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
-	at java.base/java.lang.Integer.parseInt(Integer.java:652)
-	at java.base/java.lang.Integer.parseInt(Integer.java:770)
-	at sol.main(sol.java:18)
+Exception in thread "main" java.lang.NumberFormatException: For input string: "Alice"
+	at java.base/jdk.internal.math.FloatingDecimal.readJavaFormatString(FloatingDecimal.java:2054)
+	at java.base/jdk.internal.math.FloatingDecimal.parseDouble(FloatingDecimal.java:110)
+	at java.base/java.lang.Double.parseDouble(Double.java:543)
+	at sol.main(sol.java:19)
 ----------------------------------------
 
 ########## Testcase 1: Failed ##########
@@ -34,11 +34,11 @@ Expected Output:
 99.3
 
 Your Output: 
-Exception in thread "main" java.lang.NumberFormatException: For input string: "101,Alice,88.3"
-	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
-	at java.base/java.lang.Integer.parseInt(Integer.java:652)
-	at java.base/java.lang.Integer.parseInt(Integer.java:770)
-	at sol.main(sol.java:18)
+Exception in thread "main" java.lang.NumberFormatException: For input string: "Alice"
+	at java.base/jdk.internal.math.FloatingDecimal.readJavaFormatString(FloatingDecimal.java:2054)
+	at java.base/jdk.internal.math.FloatingDecimal.parseDouble(FloatingDecimal.java:110)
+	at java.base/java.lang.Double.parseDouble(Double.java:543)
+	at sol.main(sol.java:19)
 ----------------------------------------
 
 ########## Testcase 2: Failed ##########
@@ -62,11 +62,11 @@ Student doesn't exists...
 Student doesn't exists...
 
 Your Output: 
-Exception in thread "main" java.lang.NumberFormatException: For input string: "101,Alice,88.3"
-	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
-	at java.base/java.lang.Integer.parseInt(Integer.java:652)
-	at java.base/java.lang.Integer.parseInt(Integer.java:770)
-	at sol.main(sol.java:18)
+Exception in thread "main" java.lang.NumberFormatException: For input string: "Alice"
+	at java.base/jdk.internal.math.FloatingDecimal.readJavaFormatString(FloatingDecimal.java:2054)
+	at java.base/jdk.internal.math.FloatingDecimal.parseDouble(FloatingDecimal.java:110)
+	at java.base/java.lang.Double.parseDouble(Double.java:543)
+	at sol.main(sol.java:19)
 ----------------------------------------
 
 ########## Testcase 3: Failed ##########
@@ -573,10 +573,10 @@ John Hale
 53.79
 
 Your Output: 
-Exception in thread "main" java.lang.NumberFormatException: For input string: "10001,H3CZ,97.83"
-	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
-	at java.base/java.lang.Integer.parseInt(Integer.java:652)
-	at java.base/java.lang.Integer.parseInt(Integer.java:770)
-	at sol.main(sol.java:18)
+Exception in thread "main" java.lang.NumberFormatException: For input string: "H3CZ"
+	at java.base/jdk.internal.math.FloatingDecimal.readJavaFormatString(FloatingDecimal.java:2054)
+	at java.base/jdk.internal.math.FloatingDecimal.parseDouble(FloatingDecimal.java:110)
+	at java.base/java.lang.Double.parseDouble(Double.java:543)
+	at sol.main(sol.java:19)
 ----------------------------------------
 

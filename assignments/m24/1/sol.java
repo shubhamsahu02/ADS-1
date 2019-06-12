@@ -14,7 +14,7 @@ class sol {
 		int n = scan.nextInt();
 		scan.nextLine();
 		for (int i = 0; i < n; i++) {
-			String[] token = scan.nextLine().split(" ");
+			String[] token = scan.nextLine().split(",");
 			name.put(Integer.parseInt(token[0]), token[1]);
 			marks.put(Integer.parseInt(token[0]), Double.parseDouble(token[1]));
 		}
