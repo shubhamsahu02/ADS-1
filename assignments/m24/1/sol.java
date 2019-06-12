@@ -28,13 +28,13 @@ class sol {
 					 System.out.println(name.get(Integer.parseInt(tokens[1])));
 				}
 
-				if(Integer.parseInt(tokens[2]) == 2) {
+				else if(Integer.parseInt(tokens[2]) == 2) {
 					 System.out.println(marks.get(Integer.parseInt(tokens[1])));
 				}
 
-				else {
-					System.out.println("Student doesn't exists...");
-			}
+			// 	else {
+			// 		System.out.println("Student doesn't exists...");
+			// }
 
 			}
 		}
