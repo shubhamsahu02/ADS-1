@@ -24,7 +24,7 @@ public class sol {
 }
 
 
-class Team {
+class Team implements Comparable<Team>{
 
 	String team;
 	int win;
