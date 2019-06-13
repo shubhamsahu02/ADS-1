@@ -13,7 +13,7 @@ public class sol {
 		Scanner scan = new Scanner(System.in);
 		Sorting sort = new Sorting();
 		while (scan.hasNext()) {
-		String[] token = scan.nextLine().split(" ");
+		String[] token = scan.nextLine().split(",");
 		// System.out.println(token[0]);
 		Team teams = new Team(token[0], Integer.parseInt(token[1]),Integer.parseInt(token[2]),Integer.parseInt(token[3]));
 		sort.add(teams);
@@ -107,10 +107,10 @@ class Sorting {
 
 	public void add(Team obj) {
 		array[size++] = obj;
-		// if(size > 10) {
-		// 	resize();
-		// }
-		System.out.println(size);
+		if(size > 10) {
+			resize();
+		}
+		// System.out.println(size);
 	}
 
 	public void resize() {
