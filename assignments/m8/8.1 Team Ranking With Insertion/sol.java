@@ -116,7 +116,7 @@ class Sorting {
 		array = Arrays.copyOf(array, size * 2);
 	}
 
-	   void Insertion() {
+	void Insertion() {
         // int num = arr.length;
         for (int i = 0; i < size-1; i++) {
         	int min=i;
@@ -129,11 +129,11 @@ class Sorting {
     }
 
 
-       void exchange(Team[] arr,
-        final int i, final int j) {
-        Team swap = arr[i];
-        arr[i] = arr[j];
-        arr[j] = swap;
+    void exchange(Team[] arr,
+        final int i, final int min) {
+        Team swap = arr[min];
+        arr[min] = arr[i];
+        arr[i] = swap;
     }
 
      boolean less(Team[] array, int j, int min) {
