@@ -137,7 +137,7 @@ class Sorting {
     }
 
      boolean less(Team[] array, int j, int min) {
-         return array[j].compareTo(array[min]) < 0;
+         return array[j].compareTo(array[min]) > 0;
     }
 
     public String display(){
