@@ -14,7 +14,7 @@ public class sol {
 		Sorting sort = new Sorting();
 		while (scan.hasNext()) {
 		String[] token = scan.nextLine().split(" ");
-		System.out.println(token[0]);
+		// System.out.println(token[0]);
 		Team teams = new Team(token[0], Integer.parseInt(token[1]),Integer.parseInt(token[2]),Integer.parseInt(token[3]));
 		sort.add(teams);
 		}
@@ -88,10 +88,10 @@ class Team {
 	}
 
 
-	public String toString() {
-		String str = "";
-		return str + this.team;
-	}
+	// public String toString() {
+	// 	String str = "";
+	// 	return str + this.team;
+	// }
 }
 
 
@@ -102,12 +102,12 @@ class Sorting {
 
 	Sorting() {
 		size = 0;
-		array = new Team[20];
+		array = new Team[10];
 	}
 
 	public void add(Team obj) {
 		array[size++] = obj;
-		if(size > 20) {
+		if(size > 10) {
 			resize();
 		}
 	}
