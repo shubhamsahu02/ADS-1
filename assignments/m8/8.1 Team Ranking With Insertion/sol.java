@@ -118,27 +118,26 @@ class Sorting {
 
 	   void Insertion() {
         // int num = arr.length;
-        for (int i = 0; i < size; i++) {
-            for (int j = i; j > 0; j--) {
-                if (less(array[j], array[j - 1])) {
+        for (int i = 0; i < size-1; i++) {
+        	int min=i;
+            for (int j = i+1; j > 0; j--) {
+                if (less(array,j, j - 1)) {
                     exchange(array, j, j - 1);
-                } else {
-                    break;
-                }
+                } 
             }
         }
     }
 
 
-       void exchange(final Team[] arr,
+       void exchange(Team[] arr,
         final int i, final int j) {
-        Team swap = array[i];
-        array[i] = array[j];
-        array[j] = swap;
+        Team swap = arr[i];
+        arr[i] = arr[j];
+        arr[j] = swap;
     }
 
-     boolean less(final Team v, final Team w) {
-         return (v.compareTo(w)) < 0;
+     boolean less(Team[] array, int j, int min) {
+         return array[j].compareTo(array[min]) < 0;
     }
 
     public String display(){
