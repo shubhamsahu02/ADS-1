@@ -107,9 +107,9 @@ class Sorting {
 
 	public void add(Team obj) {
 		array[size++] = obj;
-		if(size > 10) {
-			resize();
-		}
+		// if(size > 10) {
+		// 	resize();
+		// }
 		System.out.println(size);
 	}
 

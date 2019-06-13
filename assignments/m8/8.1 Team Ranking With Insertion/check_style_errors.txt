@@ -60,8 +60,6 @@ Starting audit...
 [ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\assignments\m8\8.1 Team Ranking With Insertion\sol.java:105:34: '10' is a magic number. [MagicNumber]
 [ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\assignments\m8\8.1 Team Ranking With Insertion\sol.java:108:9: Missing a Javadoc comment. [JavadocMethod]
 [ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\assignments\m8\8.1 Team Ranking With Insertion\sol.java:108:25: Parameter obj should be final. [FinalParameters]
-[ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\assignments\m8\8.1 Team Ranking With Insertion\sol.java:110:19: 'if' is not followed by whitespace. [WhitespaceAround]
-[ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\assignments\m8\8.1 Team Ranking With Insertion\sol.java:110:27: '10' is a magic number. [MagicNumber]
 [ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\assignments\m8\8.1 Team Ranking With Insertion\sol.java:116:9: Missing a Javadoc comment. [JavadocMethod]
 [ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\assignments\m8\8.1 Team Ranking With Insertion\sol.java:120:9: Missing a Javadoc comment. [JavadocMethod]
 [ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\assignments\m8\8.1 Team Ranking With Insertion\sol.java:120:14: Name 'Insertion' must match pattern '^[a-z][a-zA-Z0-9]*$'. [MethodName]
@@ -86,7 +84,7 @@ Starting audit...
 [ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\assignments\m8\8.1 Team Ranking With Insertion\sol.java:143:5: Missing a Javadoc comment. [JavadocMethod]
 [ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\assignments\m8\8.1 Team Ranking With Insertion\sol.java:143:28: '{' is not preceded with whitespace. [WhitespaceAround]
 Audit done.
-Checkstyle ends with 75 errors.
+Checkstyle ends with 73 errors.
 Starting audit...
 Audit done.
 Starting audit...
