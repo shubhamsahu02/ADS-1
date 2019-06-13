@@ -129,8 +129,7 @@ class Sorting {
     }
 
 
-    void exchange(Team[] arr,
-        final int i, final int min) {
+    void exchange(Team[] arr,int i,  int min) {
         Team swap = arr[min];
         arr[min] = arr[i];
         arr[i] = swap;
