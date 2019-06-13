@@ -14,6 +14,7 @@ public class sol {
 		Sorting sort = new Sorting();
 		while (scan.hasNext()) {
 		String[] token = scan.nextLine().split(" ");
+		System.out.println(token[0]);
 		Team teams = new Team(token[0], Integer.parseInt(token[1]),Integer.parseInt(token[2]),Integer.parseInt(token[3]));
 		sort.add(teams);
 		}

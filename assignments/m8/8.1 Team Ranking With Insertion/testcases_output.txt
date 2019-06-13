@@ -3,8 +3,9 @@ Expected Output:
 Australia,India,SouthAfrica,England,Zimbabwe,Bangladesh,Ireland
 
 Your Output: 
+England,4,2,3
 Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: 1
-	at sol.main(sol.java:17)
+	at sol.main(sol.java:18)
 ----------------------------------------
 
 ########## Testcase 1: Failed ##########
@@ -12,8 +13,9 @@ Expected Output:
 Zimbabwe,SouthAfrica,Bangladesh,Ireland
 
 Your Output: 
+SouthAfrica,5,3,4
 Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: 1
-	at sol.main(sol.java:17)
+	at sol.main(sol.java:18)
 ----------------------------------------
 
 ########## Testcase 2: Failed ##########
@@ -21,8 +23,9 @@ Expected Output:
 Australia,Zimbabwe,SouthAfrica,England,Ireland,Bangladesh,India
 
 Your Output: 
+England,4,2,3
 Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: 1
-	at sol.main(sol.java:17)
+	at sol.main(sol.java:18)
 ----------------------------------------
 
 ########## Testcase 3: Failed ##########
@@ -30,8 +33,9 @@ Expected Output:
 Zimbabwe,Bangladesh,Australia,Ireland,SouthAfrica,India,England
 
 Your Output: 
+England,0,2,3
 Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: 1
-	at sol.main(sol.java:17)
+	at sol.main(sol.java:18)
 ----------------------------------------
 
 ########## Testcase 4: Failed ##########
@@ -39,8 +43,9 @@ Expected Output:
 England
 
 Your Output: 
+England,0,2,3
 Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: 1
-	at sol.main(sol.java:17)
+	at sol.main(sol.java:18)
 ----------------------------------------
 
 ########## Testcase 5: Failed ##########
@@ -48,7 +53,8 @@ Expected Output:
 Ireland,Zimbabwe,Bangladesh,SouthAfrica,Australia,India,England
 
 Your Output: 
+England,10,14,1
 Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: 1
-	at sol.main(sol.java:17)
+	at sol.main(sol.java:18)
 ----------------------------------------
 
