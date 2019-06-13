@@ -110,6 +110,7 @@ class Sorting {
 		if(size > 10) {
 			resize();
 		}
+		System.out.println(size);
 	}
 
 	public void resize() {
