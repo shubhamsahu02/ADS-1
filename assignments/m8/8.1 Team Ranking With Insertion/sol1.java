@@ -11,8 +11,8 @@ public class sol1 {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		int i = 0;
-		Team[] teams = new Team[100];
 		String[] tokens = scan.nextLine().split(",");
+		Team[] teams = new Team[tokens.length];
 		while(scan.hasNext()) {
 			 teams[i++] = new Team(tokens[0] ,Integer.parseInt(tokens[1]) ,Integer.parseInt(tokens[2]) ,Integer.parseInt(tokens[3]));	
 		}
