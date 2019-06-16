@@ -59,7 +59,7 @@ class Sorting {
 	//takes O(n) time complexity.
 	void add(Student objstudent) {
 		names[size++] = objstudent;
-		if(size > 10) {
+		if(size >= 10) {
 			resize();
 		}
 	}
