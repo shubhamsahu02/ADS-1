@@ -12,7 +12,7 @@ Your Output:
 1004,Shreya,94.0
 ----------------------------------------
 
-########## Testcase 1: Failed ##########
+########## Testcase 1: Passed ##########
 Expected Output: 
 1002,Bob,92.0
 1010,Bob,97.0
@@ -22,9 +22,6 @@ Expected Output:
 1009,Syed,91.0
 
 Your Output: 
-This marks are not awarded to any student
-This marks are not awarded to any student
-This marks are not awarded to any student
 1002,Bob,92.0
 1010,Bob,97.0
 1007,Olive,97.0
@@ -33,18 +30,11 @@ This marks are not awarded to any student
 1009,Syed,91.0
 ----------------------------------------
 
-########## Testcase 2: Failed ##########
+########## Testcase 2: Passed ##########
 Expected Output: 
 This marks are not awarded to any student
 
 Your Output: 
-This marks are not awarded to any student
-This marks are not awarded to any student
-This marks are not awarded to any student
-This marks are not awarded to any student
-This marks are not awarded to any student
-This marks are not awarded to any student
-This marks are not awarded to any student
 This marks are not awarded to any student
 ----------------------------------------
 
@@ -92,21 +82,12 @@ Your Output:
 8,Deepak,99.0
 ----------------------------------------
 
-########## Testcase 5: Failed ##########
+########## Testcase 5: Passed ##########
 Expected Output: 
 This marks are not awarded to any student
 1010,Bob,90.0
 
 Your Output: 
-This marks are not awarded to any student
-This marks are not awarded to any student
-This marks are not awarded to any student
-This marks are not awarded to any student
-This marks are not awarded to any student
-This marks are not awarded to any student
-This marks are not awarded to any student
-This marks are not awarded to any student
-This marks are not awarded to any student
 This marks are not awarded to any student
 1010,Bob,90.0
 ----------------------------------------

@@ -33,12 +33,12 @@ public class sol2 {
 				c = 1;
 			}
 
-			if (c == 0) {
-				System.out.println("This marks are not awarded to any student");
-			}
 
 
 		}	
+			if (c == 0) {
+				System.out.println("This marks are not awarded to any student");
+			}
 		}
 
 
