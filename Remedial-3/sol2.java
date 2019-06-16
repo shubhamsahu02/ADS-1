@@ -25,13 +25,13 @@ public class sol2 {
 
 			int c = 0;
 		for (int i = 0; i < q; i++) {
-			int query = Integer.parseInt(scan.nextLine());
+			Double query = Double.parseDouble(scan.nextLine());
 			for(String each : temp1) {
-				System.out.println(each);
-			// if(Double.parseDouble(temp1[2]) == num) {
-				// System.out.println(each);
-				// c = 1;
-			// }
+				String[] t = each.split(" ");
+			if(Double.parseDouble(t[2]) == query) {
+				System.out.println(t[0] +"," + t[1] + "," + t[2]);
+				c = 1;
+			}
 
 			if (c == 0) {
 				System.out.println("This marks are not awarded to any student");
