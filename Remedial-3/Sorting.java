@@ -78,7 +78,7 @@ class Sorting {
 		String s = "";
 		// String[] temp = new String[100];
 		for(int i = 0; i < size; i++) {
-			System.out.println(names[i]);
+			// System.out.println(names[i]);
 			s += names[i].rollno + " " + names[i].name + " "+ names[i].marks + ",";
 
 		}
