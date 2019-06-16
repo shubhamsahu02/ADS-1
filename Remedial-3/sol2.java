@@ -21,7 +21,7 @@ public class sol2{
 		// System.out.println(temp);
 
 		String[] temp1 = temp.split(",");
-		System.out.println(temp1[0]);
+		// System.out.println(temp1[0]);
 
 		int q = Integer.parseInt(scan.nextLine());
 		for (int i = 0; i < q; i++) {
@@ -31,7 +31,7 @@ public class sol2{
 				// System.out.println(each+" im each");
 				String[] abc = each.split(" ");
 				if(Double.parseDouble(abc[2]) == num) {
-					System.out.println(each);
+					System.out.println(abc[0] +"," + abc[1] +"," + abc[2]);
 				}
 			}
 		}
