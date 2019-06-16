@@ -20,7 +20,7 @@ public class sol2 {
 
 		int q = Integer.parseInt(scan.nextLine());
 		String temp = sort.display();
-
+		System.out.println(temp);
 		String[] temp1 = temp.split(",");
 
 			int c = 0;
@@ -32,17 +32,11 @@ public class sol2 {
 				System.out.println(t[0] +"," + t[1] + "," + t[2]);
 				c = 1;
 			}
-
-
-
 		}	
 			if (c == 0) {
 				System.out.println("This marks are not awarded to any student");
 			}
 		}
-
-
-
 	}
 
 

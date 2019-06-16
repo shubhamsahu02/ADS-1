@@ -91,7 +91,7 @@ class Sorting {
 		for(int i = 0; i < size-1; i++) {
 			int min = i; 
 			for(int j = i+1; j > 0; j--) {
-				if(!less(names,j,j-1)) {
+				if(less(names,j,j-1)) {
 					exchange(names,j,j-1);		
 				}
 			}
