@@ -37,7 +37,7 @@ public class sol1 {
 				}
 			}
 			if(f==0) {
-				System.out.println("nomarks");
+				System.out.println("This marks are not awarded to any student");
 			}
 			// System.out.println(tempstored[j]);
      	}   
