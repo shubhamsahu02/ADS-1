@@ -108,7 +108,7 @@ Starting audit...
 [ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\Remedial-3\sol2.java:10:33: Parameter args should be final. [FinalParameters]
 [ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\Remedial-3\sol2.java:11:45: '(' is preceded with whitespace. [MethodParamPad]
 [ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\Remedial-3\sol2.java:16: Line is longer than 80 characters (found 122). [LineLength]
-[ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\Remedial-3\sol2.java:34:35: 'if' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\Remedial-3\sol2.java:33:35: 'if' is not followed by whitespace. [WhitespaceAround]
 Audit done.
 Checkstyle ends with 12 errors.
 Starting audit...

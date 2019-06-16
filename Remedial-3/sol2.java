@@ -18,7 +18,7 @@ public class sol2{
 		}
 		sort.SelectionSort();
 		String temp = sort.display();
-		System.out.println(temp);
+		// System.out.println(temp);
 
 		String[] temp1 = temp.split(",");
 		System.out.println(temp1[0]);
@@ -30,7 +30,6 @@ public class sol2{
 			for (String each: temp1) {
 				// System.out.println(each+" im each");
 				String[] abc = each.split(" ");
-				System.out.println(abc[2]);
 				if(Double.parseDouble(abc[2]) == num) {
 					System.out.println(each);
 				}
