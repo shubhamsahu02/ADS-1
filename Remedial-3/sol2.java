@@ -27,17 +27,18 @@ public class sol2{
 		for (int i = 0; i < q; i++) {
 			double num = Double.parseDouble(scan.nextLine());
 
+			int c = 0;
 			for (String each: temp1) {
 				// System.out.println(each+" im each");
 				String[] abc = each.split(" ");
 				if(Double.parseDouble(abc[2]) == num) {
 					System.out.println(abc[0] +"," + abc[1] +"," + abc[2]);
-				}
-
-				else {
-					System.out.println("This marks are not awarded to any student");
+					c = 1;
 				}
 			}
+			if(c == 1) {
+					System.out.println("This marks are not awarded to any student");
+				}
 		}
 	}
 
