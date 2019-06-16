@@ -33,6 +33,10 @@ public class sol2{
 				if(Double.parseDouble(abc[2]) == num) {
 					System.out.println(abc[0] +"," + abc[1] +"," + abc[2]);
 				}
+
+				else {
+					System.out.println("This marks are not awarded to any student");
+				}
 			}
 		}
 	}
