@@ -11,7 +11,7 @@ Starting audit...
 [ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\Question\Question\Sol.java:11:46: '100' is a magic number. [MagicNumber]
 [ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\Question\Question\Sol.java:12:29: Array brackets at illegal position. [ArrayTypeStyle]
 [ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\Question\Question\Sol.java:15: Line is longer than 80 characters (found 96). [LineLength]
-[ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\Question\Question\Sol.java:27:35: 'if' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\Question\Question\Sol.java:27:35: 'if' is not followed by whitespace. [WhitespaceAfter]
 [ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\Question\Question\Sol.java:33:36: '100' is a magic number. [MagicNumber]
 [ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\Question\Question\Sol.java:33:48: '/' is not preceded with whitespace. [WhitespaceAround]
 [ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\Question\Question\Sol.java:33:49: '/' is not followed by whitespace. [WhitespaceAround]
@@ -41,8 +41,14 @@ Starting audit...
 [ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\Question\Question\sol1.java:33:65: '/' is not preceded with whitespace. [WhitespaceAround]
 [ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\Question\Question\sol1.java:33:66: '/' is not followed by whitespace. [WhitespaceAround]
 [ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\Question\Question\sol1.java:40:38: ';' is preceded with whitespace. [NoWhitespaceBefore]
+[ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\Question\Question\sol1.java:43:61: '*' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\Question\Question\sol1.java:43:62: '*' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\Question\Question\sol1.java:43:62: '100' is a magic number. [MagicNumber]
+[ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\Question\Question\sol1.java:43:66: '/' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\Question\Question\sol1.java:43:67: '/' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\Question\Question\sol1.java:43:67: '100' is a magic number. [MagicNumber]
 Audit done.
-Checkstyle ends with 17 errors.
+Checkstyle ends with 23 errors.
 Starting audit...
 [ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\Question\Question\Solution.java:0: File does not end with a newline. [NewlineAtEndOfFile]
 [ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\Question\Question\Solution.java:1: Using the '.*' form of import should be avoided - java.util.*. [AvoidStarImport]
