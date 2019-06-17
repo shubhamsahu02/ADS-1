@@ -40,7 +40,7 @@ public class sol1 {
 		for (int j = 0; j < q ; j++) {
 			int num = Integer.parseInt(scan.nextLine());
 			Double number = cal.get(num);
-			System.out.println(Math.round(number*100)/100);
+			System.out.println((double)Math.round(number*100)/100);
 
 		}
 
