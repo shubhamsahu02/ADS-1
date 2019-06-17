@@ -40,6 +40,7 @@ public class sol1 {
 		for (int j = 0; j < q ; j++) {
 			int num = Integer.parseInt(scan.nextLine());
 			Double number = cal.get(num);
+			System.out.println(number);
 
 		}
 

@@ -35,7 +35,7 @@ Starting audit...
 [ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\Question\Question\sol1.java:11:33: Parameter args should be final. [FinalParameters]
 [ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\Question\Question\sol1.java:17:42: ';' is preceded with whitespace. [NoWhitespaceBefore]
 [ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\Question\Question\sol1.java:19: Line is longer than 80 characters (found 91). [LineLength]
-[ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\Question\Question\sol1.java:29:43: 'if' is not followed by whitespace. [WhitespaceAfter]
+[ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\Question\Question\sol1.java:29:43: 'if' is not followed by whitespace. [WhitespaceAround]
 [ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\Question\Question\sol1.java:33: Line is longer than 80 characters (found 87). [LineLength]
 [ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\Question\Question\sol1.java:33:53: '100' is a magic number. [MagicNumber]
 [ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\Question\Question\sol1.java:33:65: '/' is not preceded with whitespace. [WhitespaceAround]
