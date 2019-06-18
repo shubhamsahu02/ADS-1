@@ -6,8 +6,9 @@ Note: total marks is double
 
 Types of Queries:
 Find the names of the students who got the total marks between M1 and M2 (both inclusive)
-Find the total number of students who got >=M1 marks.
-Find the total number of students who got <=M1 marks.
+
+Find the total number of students who got >= M1 marks.
+Find the total number of students who got <= M1 marks.
 
 Query data formats:
 BE 70.32 60.0
