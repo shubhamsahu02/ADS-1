@@ -3,8 +3,7 @@ Expected Output:
 Australia,India,SouthAfrica,England,Zimbabwe,Bangladesh,Ireland
 
 Your Output: 
-Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: 4
-	at sol1.main(sol1.java:17)
+Australia,SouthAfrica,India,England,Zimbabwe,Bangladesh,Ireland
 ----------------------------------------
 
 ########## Testcase 1: Failed ##########
@@ -12,8 +11,7 @@ Expected Output:
 Zimbabwe,SouthAfrica,Bangladesh,Ireland
 
 Your Output: 
-Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: 4
-	at sol1.main(sol1.java:17)
+Zimbabwe,SouthAfrica,Ireland,Bangladesh
 ----------------------------------------
 
 ########## Testcase 2: Failed ##########
@@ -21,8 +19,7 @@ Expected Output:
 Australia,Zimbabwe,SouthAfrica,England,Ireland,Bangladesh,India
 
 Your Output: 
-Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: 4
-	at sol1.main(sol1.java:17)
+Zimbabwe,Australia,SouthAfrica,Ireland,England,Bangladesh,India
 ----------------------------------------
 
 ########## Testcase 3: Failed ##########
@@ -30,27 +27,22 @@ Expected Output:
 Zimbabwe,Bangladesh,Australia,Ireland,SouthAfrica,India,England
 
 Your Output: 
-Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: 4
-	at sol1.main(sol1.java:17)
+Zimbabwe,Bangladesh,Ireland,Australia,SouthAfrica,India,England
 ----------------------------------------
 
-########## Testcase 4: Failed ##########
+########## Testcase 4: Passed ##########
 Expected Output: 
 England
 
 Your Output: 
-Exception in thread "main" java.lang.NullPointerException
-	at Selectionsort.less(Selectionsort.java:15)
-	at Selectionsort.sort(Selectionsort.java:7)
-	at sol1.main(sol1.java:19)
+England
 ----------------------------------------
 
-########## Testcase 5: Failed ##########
+########## Testcase 5: Passed ##########
 Expected Output: 
 Ireland,Zimbabwe,Bangladesh,SouthAfrica,Australia,India,England
 
 Your Output: 
-Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: 4
-	at sol1.main(sol1.java:17)
+Ireland,Zimbabwe,Bangladesh,SouthAfrica,Australia,India,England
 ----------------------------------------
 
