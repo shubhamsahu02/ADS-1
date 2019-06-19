@@ -11,13 +11,13 @@ public class sol1 {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		int i = 0;
-		String[] tokens = scan.nextLine().split(",");
-		Team[] teams = new Team[tokens.length];
+		Team[] teams = new Team[7];
 		while(scan.hasNext()) {
+			String[] tokens = scan.nextLine().split(",");
 			 teams[i++] = new Team(tokens[0],Integer.parseInt(tokens[1]),Integer.parseInt(tokens[2]),Integer.parseInt(tokens[3]));	
 		}
 		Selectionsort.sort(teams);
-			String result = Arrays.toString(teams);
+		String result = Arrays.toString(teams);
 	}
 }
 
@@ -85,7 +85,8 @@ class Team implements Comparable<Team>{
 	}
 
 
-public String toString(){
-	return this.name;
+public String toString() {
+	String str = "";
+	return str + this.name;
 	}
 }

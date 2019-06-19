@@ -98,7 +98,8 @@ Starting audit...
 [ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\assignments\m8\8.1 Team Ranking With Insertion\sol1.java:7:9: Missing a Javadoc comment. [JavadocMethod]
 [ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\assignments\m8\8.1 Team Ranking With Insertion\sol1.java:11:9: Missing a Javadoc comment. [JavadocMethod]
 [ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\assignments\m8\8.1 Team Ranking With Insertion\sol1.java:11:33: Parameter args should be final. [FinalParameters]
-[ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\assignments\m8\8.1 Team Ranking With Insertion\sol1.java:16:22: 'while' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\assignments\m8\8.1 Team Ranking With Insertion\sol1.java:14:41: '7' is a magic number. [MagicNumber]
+[ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\assignments\m8\8.1 Team Ranking With Insertion\sol1.java:15:22: 'while' is not followed by whitespace. [WhitespaceAround]
 [ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\assignments\m8\8.1 Team Ranking With Insertion\sol1.java:17: Line has trailing spaces. [RegexpSingleline]
 [ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\assignments\m8\8.1 Team Ranking With Insertion\sol1.java:17: Line is longer than 80 characters (found 144). [LineLength]
 [ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\assignments\m8\8.1 Team Ranking With Insertion\sol1.java:17:58: ',' is not followed by whitespace. [WhitespaceAfter]
@@ -137,7 +138,6 @@ Starting audit...
 [ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\assignments\m8\8.1 Team Ranking With Insertion\sol1.java:76:19: 'if' is not followed by whitespace. [WhitespaceAround]
 [ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\assignments\m8\8.1 Team Ranking With Insertion\sol1.java:80:19: 'if' is not followed by whitespace. [WhitespaceAround]
 [ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\assignments\m8\8.1 Team Ranking With Insertion\sol1.java:88:1: Missing a Javadoc comment. [JavadocMethod]
-[ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\assignments\m8\8.1 Team Ranking With Insertion\sol1.java:88:25: '{' is not preceded with whitespace. [WhitespaceAround]
 Audit done.
 Checkstyle ends with 48 errors.
 Starting audit...
