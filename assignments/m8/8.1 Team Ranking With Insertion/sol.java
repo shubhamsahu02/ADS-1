@@ -55,11 +55,11 @@ class Team implements Comparable<Team>{
 	}
 
 	public int compareTo(Team that) {
-		if(this.win > that.win) {
+		if(this.win < that.win) {
 			return 1;
 		}
 
-		if (this.win < that.win) {
+		if (this.win > that.win) {
 			return -1;
 		}
 
