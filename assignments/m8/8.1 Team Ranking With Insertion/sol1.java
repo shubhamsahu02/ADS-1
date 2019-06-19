@@ -14,11 +14,10 @@ public class sol1 {
 		String[] tokens = scan.nextLine().split(",");
 		Team[] teams = new Team[tokens.length];
 		while(scan.hasNext()) {
-			 teams[i++] = new Team(tokens[0] ,Integer.parseInt(tokens[1]) ,Integer.parseInt(tokens[2]) ,Integer.parseInt(tokens[3]));	
+			 teams[i++] = new Team(tokens[0],Integer.parseInt(tokens[1]),Integer.parseInt(tokens[2]),Integer.parseInt(tokens[3]));	
 		}
 		Selectionsort.sort(teams);
 			String result = Arrays.toString(teams);
-
 	}
 }
 
