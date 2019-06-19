@@ -58,11 +58,11 @@ class Team implements Comparable<Team>{
 	public int compareTo(final Team that) {
 
 		if(this.win > that.win) {
-			return 1;
+			return -1;
 		}
 
 		if(this.win < that.win) {
-			return -1;
+			return 1;
 		}
 
 		if(this.loss > that.loss) {
@@ -74,11 +74,11 @@ class Team implements Comparable<Team>{
 		}
 
 		if(this.draw > that.draw) {
-			return 1;
+			return -1;
 		}
 
 		if(this.draw < that.draw) {
-			return -1;
+			return 1;
 		}
 
 		return 0;
