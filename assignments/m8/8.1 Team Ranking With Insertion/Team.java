@@ -103,7 +103,8 @@ class Team implements Comparable<Team> {
      * @return     String representation of the object.
      */
     public String toString() {
-        return this.teamname;
+        String str = "";
+        return str + this.teamname;
     }
     /**
      * { compares to objects according to given condition }.

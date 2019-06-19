@@ -1,48 +1,48 @@
-########## Testcase 0: Failed ##########
+########## Testcase 0: Passed ##########
 Expected Output: 
 Australia,India,SouthAfrica,England,Zimbabwe,Bangladesh,Ireland
 
 Your Output: 
-Team@13969fbe,Team@6aaa5eb0,Team@3498ed,Team@1a407d53,Team@3d8c7aca,Team@5ebec15,Team@21bcffb5
+Australia,India,SouthAfrica,England,Zimbabwe,Bangladesh,Ireland
 ----------------------------------------
 
-########## Testcase 1: Failed ##########
+########## Testcase 1: Passed ##########
 Expected Output: 
 Zimbabwe,SouthAfrica,Bangladesh,Ireland
 
 Your Output: 
-Team@13969fbe,Team@6aaa5eb0,Team@3498ed,Team@1a407d53
+Zimbabwe,SouthAfrica,Bangladesh,Ireland
 ----------------------------------------
 
-########## Testcase 2: Failed ##########
+########## Testcase 2: Passed ##########
 Expected Output: 
 Australia,Zimbabwe,SouthAfrica,England,Ireland,Bangladesh,India
 
 Your Output: 
-Team@13969fbe,Team@6aaa5eb0,Team@3498ed,Team@1a407d53,Team@3d8c7aca,Team@5ebec15,Team@21bcffb5
+Australia,Zimbabwe,SouthAfrica,England,Ireland,Bangladesh,India
 ----------------------------------------
 
-########## Testcase 3: Failed ##########
+########## Testcase 3: Passed ##########
 Expected Output: 
 Zimbabwe,Bangladesh,Australia,Ireland,SouthAfrica,India,England
 
 Your Output: 
-Team@13969fbe,Team@6aaa5eb0,Team@3498ed,Team@1a407d53,Team@3d8c7aca,Team@5ebec15,Team@21bcffb5
+Zimbabwe,Bangladesh,Australia,Ireland,SouthAfrica,India,England
 ----------------------------------------
 
-########## Testcase 4: Failed ##########
+########## Testcase 4: Passed ##########
 Expected Output: 
 England
 
 Your Output: 
-Team@13969fbe
+England
 ----------------------------------------
 
-########## Testcase 5: Failed ##########
+########## Testcase 5: Passed ##########
 Expected Output: 
 Ireland,Zimbabwe,Bangladesh,SouthAfrica,Australia,India,England
 
 Your Output: 
-Team@13969fbe,Team@6aaa5eb0,Team@3498ed,Team@1a407d53,Team@3d8c7aca,Team@5ebec15,Team@21bcffb5
+Ireland,Zimbabwe,Bangladesh,SouthAfrica,Australia,India,England
 ----------------------------------------
 
