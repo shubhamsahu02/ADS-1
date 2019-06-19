@@ -3,7 +3,7 @@ Expected Output:
 Australia,India,SouthAfrica,England,Zimbabwe,Bangladesh,Ireland
 
 Your Output: 
-Zimbabwe,Bangladesh,Ireland,England,SouthAfrica,India,Australia
+Ireland,Bangladesh,Zimbabwe,England,SouthAfrica,India,Australia
 ----------------------------------------
 
 ########## Testcase 1: Failed ##########
@@ -11,7 +11,7 @@ Expected Output:
 Zimbabwe,SouthAfrica,Bangladesh,Ireland
 
 Your Output: 
-Ireland,Bangladesh,Zimbabwe,SouthAfrica
+Ireland,Bangladesh,SouthAfrica,Zimbabwe
 ----------------------------------------
 
 ########## Testcase 2: Failed ##########
@@ -27,7 +27,7 @@ Expected Output:
 Zimbabwe,Bangladesh,Australia,Ireland,SouthAfrica,India,England
 
 Your Output: 
-India,England,SouthAfrica,Ireland,Australia,Zimbabwe,Bangladesh
+England,India,SouthAfrica,Ireland,Australia,Bangladesh,Zimbabwe
 ----------------------------------------
 
 ########## Testcase 4: Passed ##########
@@ -38,11 +38,11 @@ Your Output:
 England
 ----------------------------------------
 
-########## Testcase 5: Passed ##########
+########## Testcase 5: Failed ##########
 Expected Output: 
 Ireland,Zimbabwe,Bangladesh,SouthAfrica,Australia,India,England
 
 Your Output: 
-Ireland,Zimbabwe,Bangladesh,SouthAfrica,Australia,India,England
+England,India,Australia,SouthAfrica,Bangladesh,Zimbabwe,Ireland
 ----------------------------------------
 

@@ -71,11 +71,11 @@ class Team implements Comparable<Team>{
 			return -1;
 		}
 
-		if(this.draw > that.draw) {
+		if(this.draw < that.draw) {
 			return 1;
 		}
 
-		if (this.draw < that.draw) {
+		if (this.draw > that.draw) {
 			return -1;
 		}
 
