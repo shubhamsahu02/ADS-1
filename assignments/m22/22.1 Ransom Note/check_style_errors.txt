@@ -143,7 +143,7 @@ Starting audit...
 [ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\assignments\m22\22.1 Ransom Note\sol1.java:19:25: '}' at column 4 should be on the same line as the next part of a multi-block statement (one that directly contains multiple blocks: if/else-if/else, do/while or try/catch/finally). [RightCurly]
 [ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\assignments\m22\22.1 Ransom Note\sol1.java:28:27: 'if' is not followed by whitespace. [WhitespaceAfter]
 [ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\assignments\m22\22.1 Ransom Note\sol1.java:35:25: '}' at column 4 should be on the same line as the next part of a multi-block statement (one that directly contains multiple blocks: if/else-if/else, do/while or try/catch/finally). [RightCurly]
-[ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\assignments\m22\22.1 Ransom Note\sol1.java:45:17: '}' at column 3 should be on the same line as the next part of a multi-block statement (one that directly contains multiple blocks: if/else-if/else, do/while or try/catch/finally). [RightCurly]
+[ERROR] C:\Users\shubh\OneDrive\Desktop\MSIT\1st Year\ADS-1\assignments\m22\22.1 Ransom Note\sol1.java:44:17: '}' at column 3 should be on the same line as the next part of a multi-block statement (one that directly contains multiple blocks: if/else-if/else, do/while or try/catch/finally). [RightCurly]
 Audit done.
 Checkstyle ends with 14 errors.
 Starting audit...

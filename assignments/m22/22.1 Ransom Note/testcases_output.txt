@@ -1,72 +1,48 @@
-########## Testcase 0: Failed ##########
+########## Testcase 0: Passed ##########
 Expected Output: 
 Yes
 
 Your Output: 
-Exception in thread "main" java.lang.NumberFormatException: For input string: "6 4"
-	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
-	at java.base/java.lang.Integer.parseInt(Integer.java:652)
-	at java.base/java.lang.Integer.parseInt(Integer.java:770)
-	at sol1.main(sol1.java:10)
+Yes
 ----------------------------------------
 
-########## Testcase 1: Failed ##########
+########## Testcase 1: Passed ##########
 Expected Output: 
 No
 
 Your Output: 
-Exception in thread "main" java.lang.NumberFormatException: For input string: "6 5"
-	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
-	at java.base/java.lang.Integer.parseInt(Integer.java:652)
-	at java.base/java.lang.Integer.parseInt(Integer.java:770)
-	at sol1.main(sol1.java:10)
+No
 ----------------------------------------
 
-########## Testcase 2: Failed ##########
+########## Testcase 2: Passed ##########
 Expected Output: 
 No
 
 Your Output: 
-Exception in thread "main" java.lang.NumberFormatException: For input string: "7 4"
-	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
-	at java.base/java.lang.Integer.parseInt(Integer.java:652)
-	at java.base/java.lang.Integer.parseInt(Integer.java:770)
-	at sol1.main(sol1.java:10)
+No
 ----------------------------------------
 
-########## Testcase 3: Failed ##########
+########## Testcase 3: Passed ##########
 Expected Output: 
 No
 
 Your Output: 
-Exception in thread "main" java.lang.NumberFormatException: For input string: "100 100"
-	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
-	at java.base/java.lang.Integer.parseInt(Integer.java:652)
-	at java.base/java.lang.Integer.parseInt(Integer.java:770)
-	at sol1.main(sol1.java:10)
+No
 ----------------------------------------
 
-########## Testcase 4: Failed ##########
+########## Testcase 4: Passed ##########
 Expected Output: 
 Yes
 
 Your Output: 
-Exception in thread "main" java.lang.NumberFormatException: For input string: "12 2"
-	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
-	at java.base/java.lang.Integer.parseInt(Integer.java:652)
-	at java.base/java.lang.Integer.parseInt(Integer.java:770)
-	at sol1.main(sol1.java:10)
+Yes
 ----------------------------------------
 
-########## Testcase 5: Failed ##########
+########## Testcase 5: Passed ##########
 Expected Output: 
 Yes
 
 Your Output: 
-Exception in thread "main" java.lang.NumberFormatException: For input string: "30000 10000"
-	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
-	at java.base/java.lang.Integer.parseInt(Integer.java:652)
-	at java.base/java.lang.Integer.parseInt(Integer.java:770)
-	at sol1.main(sol1.java:10)
+Yes
 ----------------------------------------
 

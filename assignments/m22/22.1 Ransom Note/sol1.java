@@ -7,8 +7,8 @@ public class sol1 {
 	public static void main(String[] args) {
 		HashMap<String, Integer> hm = new HashMap<>();
 		Scanner scan = new Scanner(System.in);
-		int n = Integer.parseInt(scan.nextLine());
-		int m = Integer.parseInt(scan.nextLine());
+		int n = scan.nextInt();
+		int m = scan.nextInt();
 		scan.nextLine();
 		String[] mag = scan.nextLine().split(" ");
 		String[] note = scan.nextLine().split(" ");
@@ -35,7 +35,6 @@ public class sol1 {
 			}
 					else {
 					flag = false;
-					break;
 				}
 
 		}
