@@ -82,7 +82,7 @@ public class SeparateChainingHashST<Key, Value> {
     }
     /**
      * { checks if the given key is in hash table or not}
-     *Time compleixtyn is constant as each statement is executed only once
+     *Time compleixty n is constant as each statement is executed only once
      * @param      key   The key
      *
      * @return     { return is of boolen type }
