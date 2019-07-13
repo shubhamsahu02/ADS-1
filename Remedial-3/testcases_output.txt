@@ -6,10 +6,11 @@ Expected Output:
 1004,Shreya,94.0
 
 Your Output: 
-Exception in thread "main" java.lang.NoSuchMethodError: Student.compareTo(Ljava/lang/Object;)I
-	at Sorting.less(Sorting.java:104)
-	at Sorting.SelectionSort(Sorting.java:94)
-	at sol1.main(sol1.java:16)
+Exception in thread "main" java.lang.NullPointerException
+	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:229)
+	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:127)
+	at java.base/java.io.FileWriter.<init>(FileWriter.java:63)
+	at Solution1.main(Solution1.java:27)
 ----------------------------------------
 
 ########## Testcase 1: Failed ##########
@@ -22,10 +23,11 @@ Expected Output:
 1009,Syed,91.0
 
 Your Output: 
-Exception in thread "main" java.lang.NoSuchMethodError: Student.compareTo(Ljava/lang/Object;)I
-	at Sorting.less(Sorting.java:104)
-	at Sorting.SelectionSort(Sorting.java:94)
-	at sol1.main(sol1.java:16)
+Exception in thread "main" java.lang.NullPointerException
+	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:229)
+	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:127)
+	at java.base/java.io.FileWriter.<init>(FileWriter.java:63)
+	at Solution1.main(Solution1.java:27)
 ----------------------------------------
 
 ########## Testcase 2: Failed ##########
@@ -33,10 +35,11 @@ Expected Output:
 This marks are not awarded to any student
 
 Your Output: 
-Exception in thread "main" java.lang.NoSuchMethodError: Student.compareTo(Ljava/lang/Object;)I
-	at Sorting.less(Sorting.java:104)
-	at Sorting.SelectionSort(Sorting.java:94)
-	at sol1.main(sol1.java:16)
+Exception in thread "main" java.lang.NullPointerException
+	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:229)
+	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:127)
+	at java.base/java.io.FileWriter.<init>(FileWriter.java:63)
+	at Solution1.main(Solution1.java:27)
 ----------------------------------------
 
 ########## Testcase 3: Failed ##########
@@ -51,10 +54,11 @@ Expected Output:
 8,Rajesh,99.9
 
 Your Output: 
-Exception in thread "main" java.lang.NoSuchMethodError: Student.compareTo(Ljava/lang/Object;)I
-	at Sorting.less(Sorting.java:104)
-	at Sorting.SelectionSort(Sorting.java:94)
-	at sol1.main(sol1.java:16)
+Exception in thread "main" java.lang.NullPointerException
+	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:229)
+	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:127)
+	at java.base/java.io.FileWriter.<init>(FileWriter.java:63)
+	at Solution1.main(Solution1.java:27)
 ----------------------------------------
 
 ########## Testcase 4: Failed ##########
@@ -69,10 +73,11 @@ Expected Output:
 8,Deepak,99.0
 
 Your Output: 
-Exception in thread "main" java.lang.NoSuchMethodError: Student.compareTo(Ljava/lang/Object;)I
-	at Sorting.less(Sorting.java:104)
-	at Sorting.SelectionSort(Sorting.java:94)
-	at sol1.main(sol1.java:16)
+Exception in thread "main" java.lang.NullPointerException
+	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:229)
+	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:127)
+	at java.base/java.io.FileWriter.<init>(FileWriter.java:63)
+	at Solution1.main(Solution1.java:27)
 ----------------------------------------
 
 ########## Testcase 5: Failed ##########
@@ -81,10 +86,11 @@ This marks are not awarded to any student
 1010,Bob,90.0
 
 Your Output: 
-Exception in thread "main" java.lang.NoSuchMethodError: Student.compareTo(Ljava/lang/Object;)I
-	at Sorting.less(Sorting.java:104)
-	at Sorting.SelectionSort(Sorting.java:94)
-	at sol1.main(sol1.java:16)
+Exception in thread "main" java.lang.NullPointerException
+	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:229)
+	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:127)
+	at java.base/java.io.FileWriter.<init>(FileWriter.java:63)
+	at Solution1.main(Solution1.java:27)
 ----------------------------------------
 
 ########## Testcase 6: Failed ##########
@@ -111,9 +117,10 @@ Expected Output:
 11009,Syed,95.0
 
 Your Output: 
-Exception in thread "main" java.lang.NoSuchMethodError: Student.compareTo(Ljava/lang/Object;)I
-	at Sorting.less(Sorting.java:104)
-	at Sorting.SelectionSort(Sorting.java:94)
-	at sol1.main(sol1.java:16)
+Exception in thread "main" java.lang.NullPointerException
+	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:229)
+	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:127)
+	at java.base/java.io.FileWriter.<init>(FileWriter.java:63)
+	at Solution1.main(Solution1.java:27)
 ----------------------------------------
 
