@@ -29,7 +29,7 @@ public class sol3 {
 	for(Double key: hm.keySet()) {
 		String str = "";
 		str += hm.get(key);
-		System.out.println(str + "im tr");
+		// System.out.println(str + "im tr");
 		System.out.println(hm.get(key) + "  " +key);
 	}
 

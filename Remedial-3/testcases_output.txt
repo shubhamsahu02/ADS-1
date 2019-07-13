@@ -7,19 +7,12 @@ Expected Output:
 
 Your Output: 
 [91.0, 92.0, 93.0, 94.0, 95.0, 96.0, 97.0]
-[1001Mark91.0]im tr
 [1001Mark91.0]  91.0
-[1002Bob92.0]im tr
 [1002Bob92.0]  92.0
-[1003Raju93.0]im tr
 [1003Raju93.0]  93.0
-[1004Shreya94.0]im tr
 [1004Shreya94.0]  94.0
-[1005Syed95.0]im tr
 [1005Syed95.0]  95.0
-[1006Alice96.0]im tr
 [1006Alice96.0]  96.0
-[1007Olive97.0]im tr
 [1007Olive97.0]  97.0
 ----------------------------------------
 
@@ -34,19 +27,12 @@ Expected Output:
 
 Your Output: 
 [91.0, 92.0, 93.0, 94.0, 95.0, 96.0, 97.0]
-[1009Syed91.0]im tr
 [1009Syed91.0]  91.0
-[1002Bob92.0]im tr
 [1002Bob92.0]  92.0
-[1003Raju93.0]im tr
 [1003Raju93.0]  93.0
-[1004Shreya94.0]im tr
 [1004Shreya94.0]  94.0
-[1005Syed95.0]im tr
 [1005Syed95.0]  95.0
-[1006Alice96.0]im tr
 [1006Alice96.0]  96.0
-[1010Bob97.0]im tr
 [1010Bob97.0]  97.0
 ----------------------------------------
 
@@ -56,7 +42,6 @@ This marks are not awarded to any student
 
 Your Output: 
 [99.9]
-[8Rajesh99.9]im tr
 [8Rajesh99.9]  99.9
 ----------------------------------------
 
@@ -73,9 +58,7 @@ Expected Output:
 
 Your Output: 
 [99.9, 99.0]
-[8Rajesh99.9]im tr
 [8Rajesh99.9]  99.9
-[7Manasa99.0]im tr
 [7Manasa99.0]  99.0
 ----------------------------------------
 
@@ -92,7 +75,6 @@ Expected Output:
 
 Your Output: 
 [99.0]
-[8Deepak99.0]im tr
 [8Deepak99.0]  99.0
 ----------------------------------------
 
@@ -103,25 +85,15 @@ This marks are not awarded to any student
 
 Your Output: 
 [91.0, 90.0, 92.0, 93.0, 94.0, 95.0, 96.0, 97.0, 98.0, 99.0]
-[1001Mark91.0]im tr
 [1001Mark91.0]  91.0
-[1010Bob90.0]im tr
 [1010Bob90.0]  90.0
-[1002Bob92.0]im tr
 [1002Bob92.0]  92.0
-[1003Raju93.0]im tr
 [1003Raju93.0]  93.0
-[1004Shreya94.0]im tr
 [1004Shreya94.0]  94.0
-[1005Syed95.0]im tr
 [1005Syed95.0]  95.0
-[1006Alice96.0]im tr
 [1006Alice96.0]  96.0
-[1007Olive97.0]im tr
 [1007Olive97.0]  97.0
-[1008Raju98.0]im tr
 [1008Raju98.0]  98.0
-[1009Syed99.0]im tr
 [1009Syed99.0]  99.0
 ----------------------------------------
 
@@ -150,15 +122,10 @@ Expected Output:
 
 Your Output: 
 [91.0, 92.0, 93.0, 94.0, 95.0]
-[11002Bob91.0]im tr
 [11002Bob91.0]  91.0
-[11004Shreya92.0]im tr
 [11004Shreya92.0]  92.0
-[11006Alice93.0]im tr
 [11006Alice93.0]  93.0
-[11008Raju94.0]im tr
 [11008Raju94.0]  94.0
-[11010Bob95.0]im tr
 [11010Bob95.0]  95.0
 ----------------------------------------
 

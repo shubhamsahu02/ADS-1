@@ -19,7 +19,7 @@ public class sol5 {
 
 		if(!hm.containsKey(tokens[2])) {
 			hm.put(Double.parseDouble(tokens[2]), new ArrayList<Student>());
-
+			
 		}
 
 	}
