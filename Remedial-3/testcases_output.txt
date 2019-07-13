@@ -6,7 +6,10 @@ Expected Output:
 1004,Shreya,94.0
 
 Your Output: 
-[91.0, 92.0, 93.0, 94.0, 95.0, 96.0, 97.0]
+Exception in thread "main" java.lang.NoSuchMethodError: Student.compareTo(Ljava/lang/Object;)I
+	at Sorting.less(Sorting.java:104)
+	at Sorting.SelectionSort(Sorting.java:94)
+	at sol1.main(sol1.java:16)
 ----------------------------------------
 
 ########## Testcase 1: Failed ##########
@@ -19,7 +22,10 @@ Expected Output:
 1009,Syed,91.0
 
 Your Output: 
-[91.0, 92.0, 93.0, 94.0, 95.0, 96.0, 97.0]
+Exception in thread "main" java.lang.NoSuchMethodError: Student.compareTo(Ljava/lang/Object;)I
+	at Sorting.less(Sorting.java:104)
+	at Sorting.SelectionSort(Sorting.java:94)
+	at sol1.main(sol1.java:16)
 ----------------------------------------
 
 ########## Testcase 2: Failed ##########
@@ -27,7 +33,10 @@ Expected Output:
 This marks are not awarded to any student
 
 Your Output: 
-[99.9]
+Exception in thread "main" java.lang.NoSuchMethodError: Student.compareTo(Ljava/lang/Object;)I
+	at Sorting.less(Sorting.java:104)
+	at Sorting.SelectionSort(Sorting.java:94)
+	at sol1.main(sol1.java:16)
 ----------------------------------------
 
 ########## Testcase 3: Failed ##########
@@ -42,7 +51,10 @@ Expected Output:
 8,Rajesh,99.9
 
 Your Output: 
-[99.9, 99.0]
+Exception in thread "main" java.lang.NoSuchMethodError: Student.compareTo(Ljava/lang/Object;)I
+	at Sorting.less(Sorting.java:104)
+	at Sorting.SelectionSort(Sorting.java:94)
+	at sol1.main(sol1.java:16)
 ----------------------------------------
 
 ########## Testcase 4: Failed ##########
@@ -57,7 +69,10 @@ Expected Output:
 8,Deepak,99.0
 
 Your Output: 
-[99.0]
+Exception in thread "main" java.lang.NoSuchMethodError: Student.compareTo(Ljava/lang/Object;)I
+	at Sorting.less(Sorting.java:104)
+	at Sorting.SelectionSort(Sorting.java:94)
+	at sol1.main(sol1.java:16)
 ----------------------------------------
 
 ########## Testcase 5: Failed ##########
@@ -66,7 +81,10 @@ This marks are not awarded to any student
 1010,Bob,90.0
 
 Your Output: 
-[91.0, 90.0, 92.0, 93.0, 94.0, 95.0, 96.0, 97.0, 98.0, 99.0]
+Exception in thread "main" java.lang.NoSuchMethodError: Student.compareTo(Ljava/lang/Object;)I
+	at Sorting.less(Sorting.java:104)
+	at Sorting.SelectionSort(Sorting.java:94)
+	at sol1.main(sol1.java:16)
 ----------------------------------------
 
 ########## Testcase 6: Failed ##########
@@ -93,6 +111,9 @@ Expected Output:
 11009,Syed,95.0
 
 Your Output: 
-[91.0, 92.0, 93.0, 94.0, 95.0]
+Exception in thread "main" java.lang.NoSuchMethodError: Student.compareTo(Ljava/lang/Object;)I
+	at Sorting.less(Sorting.java:104)
+	at Sorting.SelectionSort(Sorting.java:94)
+	at sol1.main(sol1.java:16)
 ----------------------------------------
 
