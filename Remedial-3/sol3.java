@@ -30,7 +30,7 @@ public class sol3 {
 		String str = "";
 		str += hm.get(key);
 		// System.out.println(str + "im tr");
-		System.out.println(hm.get(key) + "  " +key);
+		// System.out.println(hm.get(key) + "  " +key);
 	}
 
 	}
@@ -96,7 +96,7 @@ class Studentt {
 
 	public String toString() {
 		String str = "";
-		str += this.roll + this.name + this.marks;
+		str += this.roll + " " + this.name + " " + this.marks;
 		return str;
 	}
 }
