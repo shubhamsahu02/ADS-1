@@ -27,7 +27,7 @@ public class sol {
 
 			else {
 				System.out.println();
-				for (int i = 0; i < max.size(); i++) {
+				for (int i = 0; i <= max.size(); i++) {
 				System.out.println(i+1 + ":" + max.delMax());
 			}
 				// int k = 0;
